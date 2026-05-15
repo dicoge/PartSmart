@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback, useRef } from 'react';
+import React, { useEffect, useCallback, useRef, useState } from 'react';
 import {
   View,
   Text,
@@ -16,7 +16,8 @@ import { EmptyState } from '../../src/components/common/EmptyState';
 import { Loading } from '../../src/components/ui/Loading';
 import { useSearchStore } from '../../src/stores/searchStore';
 import { useProductStore } from '../../src/stores/productStore';
-import { SORT_OPTIONS, SEARCH_DEBOUNCE_MS } from '../../src/utils';
+import { SORT_OPTIONS, SEARCH_DEBOUNCE_MS, CATEGORY_LABELS } from '../../src/utils';
+import { searchProducts } from '../../src/data/mockProducts';
 import type { ProductSummary } from '../../src/types';
 
 export default function SearchScreen() {
@@ -27,43 +28,33 @@ export default function SearchScreen() {
   } = useSearchStore();
   const {
     products, isLoading, error, setProducts,
-    setLoading, setError, category,
+    setLoading, setError, category, setCategory,
   } = useProductStore();
 
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const [loadedFromCategory, setLoadedFromCategory] = useState(false);
+  const [initialLoadDone, setInitialLoadDone] = useState(false);
 
   const performSearch = useCallback(
     async (searchQuery: string) => {
-      if (!searchQuery.trim()) {
-        setProducts([]);
-        return;
-      }
       setLoading(true);
       setError(null);
       try {
-        // Simulated search — in production, call productsApi.search
-        const mockResults = [
-          {
-            id: '1', name: `Intel Core ${searchQuery}`, brand: 'Intel',
-            category: 'cpu', lowestPrice: 12800, lowestSource: 'coolpc', priceCount: 5,
-          },
-          {
-            id: '2', name: `AMD Ryzen ${searchQuery}`, brand: 'AMD',
-            category: 'cpu', lowestPrice: 9800, lowestSource: 'sinya', priceCount: 3,
-          },
-          ].filter(() => Math.random() > 0.3) as ProductSummary[];
-
-        // Simulate delay
-        await new Promise((r) => setTimeout(r, 500));
-        setProducts(mockResults);
-        addRecentSearch(searchQuery);
+        await new Promise((r) => setTimeout(r, 300));
+        const activeCategory = filters.category || category || undefined;
+        const sortBy = filters.sortBy || undefined;
+        const results = searchProducts(searchQuery, activeCategory, sortBy);
+        if (searchQuery.trim()) {
+          addRecentSearch(searchQuery);
+        }
+        setProducts(results);
       } catch (err) {
         setError(err instanceof Error ? err.message : '搜尋失敗');
       } finally {
         setLoading(false);
       }
     },
-    [setProducts, setLoading, setError, addRecentSearch]
+    [setProducts, setLoading, setError, addRecentSearch, filters.category, filters.sortBy, category]
   );
 
   const handleChangeText = useCallback(
@@ -92,11 +83,41 @@ export default function SearchScreen() {
     [router]
   );
 
+  // Handle category from store (set by homepage CategoryGrid)
   useEffect(() => {
-    if (category) {
-      setFilters({ category });
+    if (category && !initialLoadDone) {
+      setInitialLoadDone(true);
+      // Set the filter from the store's category
+      if (!filters.category) {
+        setFilters({ category });
+      }
+      // Load products for this category
+      setLoading(true);
+      const timer = setTimeout(() => {
+        const results = searchProducts('', category);
+        setProducts(results);
+        setLoading(false);
+      }, 300);
+      return () => clearTimeout(timer);
     }
   }, [category]);
+
+  // When filters.category changes (e.g. cleared via chip), reload
+  useEffect(() => {
+    if (initialLoadDone && !query.trim()) {
+      if (filters.category) {
+        setLoading(true);
+        const timer = setTimeout(() => {
+          const results = searchProducts('', filters.category);
+          setProducts(results);
+          setLoading(false);
+        }, 200);
+        return () => clearTimeout(timer);
+      } else {
+        setProducts([]);
+      }
+    }
+  }, [filters.category]);
 
   useEffect(() => {
     return () => {
@@ -104,8 +125,18 @@ export default function SearchScreen() {
     };
   }, []);
 
-  const hasActiveFilters =
-    filters.category || filters.brand || filters.minPrice != null;
+  const hasActiveFilters = !!(filters.category || filters.brand || filters.minPrice != null);
+
+  const handleClearCategory = () => {
+    setFilters({ category: undefined });
+    setCategory(null);
+    setProducts([]);
+    setInitialLoadDone(false);
+  };
+
+  const activeCategoryLabel = filters.category
+    ? CATEGORY_LABELS[filters.category] || filters.category
+    : null;
 
   return (
     <View style={styles.container}>
@@ -119,7 +150,21 @@ export default function SearchScreen() {
           autoFocus={false}
         />
 
-        {/* Filter chips */}
+        {/* Active category chip */}
+        {activeCategoryLabel && (
+          <View style={styles.categoryChipRow}>
+            <TouchableOpacity
+              style={styles.categoryChip}
+              onPress={handleClearCategory}
+              activeOpacity={0.7}
+            >
+              <Text style={styles.categoryChipText}>{activeCategoryLabel}</Text>
+              <Text style={styles.categoryChipClear}>✕</Text>
+            </TouchableOpacity>
+          </View>
+        )}
+
+        {/* Sort filter chips */}
         <View style={styles.filterRow}>
           {SORT_OPTIONS.map((opt) => (
             <TouchableOpacity
@@ -162,23 +207,45 @@ export default function SearchScreen() {
           onAction={() => performSearch(query)}
         />
       ) : products.length > 0 ? (
-        <FlatList
-          data={products}
-          keyExtractor={(item) => item.id}
-          renderItem={({ item }) => (
-            <View style={styles.productItem}>
-              <ProductCard product={item} onPress={handleProductPress} />
-            </View>
-          )}
-          contentContainerStyle={styles.resultsList}
-          numColumns={2}
-          columnWrapperStyle={styles.columnWrapper}
-        />
+        <View style={styles.resultsContainer}>
+          <View style={styles.resultsHeader}>
+            <Text style={styles.resultsCountText}>
+              共 {products.length} 項產品
+            </Text>
+            {activeCategoryLabel && (
+              <Badge
+                label={activeCategoryLabel}
+                variant="primary"
+                size="small"
+              />
+            )}
+          </View>
+          <FlatList
+            data={products}
+            keyExtractor={(item) => item.id}
+            renderItem={({ item }) => (
+              <View style={styles.productItem}>
+                <ProductCard product={item} onPress={handleProductPress} />
+              </View>
+            )}
+            contentContainerStyle={styles.resultsList}
+            numColumns={2}
+            columnWrapperStyle={styles.columnWrapper}
+          />
+        </View>
       ) : query ? (
         <EmptyState
           icon="🔍"
           title="沒有找到產品"
           message={`「${query}」的搜尋結果為空`}
+        />
+      ) : activeCategoryLabel ? (
+        <EmptyState
+          icon="📂"
+          title="此分類暫無產品"
+          message={`「${activeCategoryLabel}」分類目前沒有資料`}
+          actionLabel="清除篩選"
+          onAction={handleClearCategory}
         />
       ) : (
         <View style={styles.emptyState}>
@@ -223,6 +290,30 @@ const styles = StyleSheet.create({
     paddingBottom: Spacing.md,
     gap: Spacing.md,
   },
+  categoryChipRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  categoryChip: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: Colors.primary + '1A',
+    paddingVertical: Spacing.xs,
+    paddingHorizontal: Spacing.md,
+    borderRadius: BorderRadius.full,
+    gap: Spacing.sm,
+  },
+  categoryChipText: {
+    ...Typography.caption,
+    color: Colors.primary,
+    fontWeight: '600',
+  },
+  categoryChipClear: {
+    fontSize: 12,
+    color: Colors.primary,
+    fontWeight: '700',
+    marginLeft: 2,
+  },
   filterRow: {
     flexDirection: 'row',
     flexWrap: 'wrap',
@@ -254,9 +345,25 @@ const styles = StyleSheet.create({
     ...Typography.caption,
     color: Colors.danger,
   },
+  resultsContainer: {
+    flex: 1,
+  },
+  resultsHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: Spacing.lg,
+    paddingVertical: Spacing.sm,
+  },
+  resultsCountText: {
+    ...Typography.caption,
+    color: Colors.text.secondary,
+    fontWeight: '500',
+  },
   resultsList: {
     padding: Spacing.md,
     paddingBottom: Spacing.xxl,
+    paddingTop: Spacing.xs,
   },
   productItem: {
     flex: 1,

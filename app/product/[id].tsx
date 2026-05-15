@@ -19,90 +19,26 @@ import { SpecList } from '../../src/components/product/SpecList';
 import { Loading } from '../../src/components/ui/Loading';
 import { EmptyState } from '../../src/components/common/EmptyState';
 import { useFavoriteStore } from '../../src/stores/favoriteStore';
-import { formatDate } from '../../src/utils';
+import { formatDate, formatStockStatus, CATEGORY_LABELS, SOURCE_NAMES } from '../../src/utils';
+import { getProductDetailById } from '../../src/data/mockProducts';
 import type { ProductDetail, PriceEntry, PricePoint } from '../../src/types';
 
-// Mock detail data for demonstration
-function getMockProductDetail(id: string): ProductDetail {
-  return {
-    id,
-    name: 'Intel Core i7-14700K',
-    brand: 'Intel',
-    category: 'cpu',
-    subcategory: 'desktop',
-    imageUrl: undefined,
-    specs: {
-      '核心/執行緒': '20C/28T',
-      '基礎時脈': '3.4 GHz',
-      '最大超頻': '5.6 GHz',
-      'L3 快取': '33 MB',
-      'TDP': '125W',
-      '製程': 'Intel 7',
-      '腳位': 'LGA1700',
-      '記憶體支援': 'DDR5-5600 / DDR4-3200',
-    },
-    createdAt: '2024-10-17T00:00:00Z',
-    updatedAt: new Date().toISOString(),
-    prices: [
-      {
-        source: {
-          id: 'coolpc', name: '原價屋', type: 'retail',
-          domain: 'coolpc.com.tw', country: 'TW',
-        },
-        price: 13800,
-        currency: 'TWD',
-        stockStatus: 'in_stock',
-        productUrl: 'https://coolpc.com.tw',
-        capturedAt: new Date().toISOString(),
-      },
-      {
-        source: {
-          id: 'sinya', name: '欣亞電子', type: 'retail',
-          domain: 'sinya.com.tw', country: 'TW',
-        },
-        price: 13990,
-        currency: 'TWD',
-        stockStatus: 'in_stock',
-        productUrl: 'https://sinya.com.tw',
-        capturedAt: new Date().toISOString(),
-      },
-      {
-        source: {
-          id: 'pcpartpicker', name: 'PCPartPicker', type: 'marketplace',
-          domain: 'pcpartpicker.com', country: 'US',
-        },
-        price: 389.99,
-        currency: 'USD',
-        stockStatus: 'in_stock',
-        productUrl: 'https://pcpartpicker.com',
-        capturedAt: new Date().toISOString(),
-      },
-      {
-        source: {
-          id: 'ptt', name: 'PTT HardwareSale', type: 'forum',
-          domain: 'ptt.cc', country: 'TW',
-        },
-        price: 12500,
-        currency: 'TWD',
-        stockStatus: 'out_of_stock',
-        productUrl: 'https://ptt.cc',
-        capturedAt: new Date().toISOString(),
-        note: '二手近全新',
-      },
-    ],
-    priceHistory: [
-      { date: '2024-12-01', price: 14200, source: '原價屋' },
-      { date: '2024-12-15', price: 14000, source: '原價屋' },
-      { date: '2025-01-01', price: 13800, source: '原價屋' },
-    ],
-  };
-}
+const CATEGORY_ICONS: Record<string, string> = {
+  cpu: '⚡', gpu: '🎮', motherboard: '🔌', ram: '🧠',
+  ssd: '💾', hdd: '💿', psu: '🔋', case: '🖥️',
+  cooler: '❄️', monitor: '🖵', other: '🔧',
+};
+
+const CATEGORY_COLORS: Record<string, string> = {
+  cpu: '#2563EB', gpu: '#059669', motherboard: '#7C3AED', ram: '#D97706',
+  ssd: '#DC2626', hdd: '#0891B2', psu: '#DB2777', case: '#6B7280',
+  cooler: '#0284C7', monitor: '#65A30D', other: '#8B5CF6',
+};
 
 export default function ProductDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const router = useRouter();
-  const { favorites, addFavorite, removeFavorite, isFavorite } =
-    useFavoriteStore();
+  const { addFavorite, removeFavorite, isFavorite } = useFavoriteStore();
 
   const [product, setProduct] = useState<ProductDetail | null>(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -119,9 +55,14 @@ export default function ProductDetailScreen() {
     setIsLoading(true);
     setError(null);
     try {
-      // In production: const res = await productsApi.getById(id);
-      await new Promise((r) => setTimeout(r, 600));
-      setProduct(getMockProductDetail(id));
+      // Simulate network delay
+      await new Promise((r) => setTimeout(r, 400));
+      const detail = getProductDetailById(id);
+      if (!detail) {
+        setError('找不到此產品');
+      } else {
+        setProduct(detail);
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : '載入失敗');
     } finally {
@@ -134,14 +75,18 @@ export default function ProductDetailScreen() {
     if (favorited) {
       removeFavorite(product.id);
     } else {
+      const lowest = product.prices.reduce(
+        (min, p) => (p.price < min.price ? p : min),
+        product.prices[0]
+      );
       addFavorite({
         id: product.id,
         name: product.name,
         brand: product.brand,
         category: product.category,
         imageUrl: product.imageUrl,
-        lowestPrice: product.prices[0]?.price ?? 0,
-        lowestSource: product.prices[0]?.source.name ?? '',
+        lowestPrice: lowest.price,
+        lowestSource: lowest.source.id,
         priceCount: product.prices.length,
       });
     }
@@ -174,10 +119,23 @@ export default function ProductDetailScreen() {
     product.prices[0]
   );
 
+  // Compute overall stock status
+  function getOverallStock() {
+    if (product.prices.some((p) => p.stockStatus === 'in_stock')) return 'in_stock';
+    if (product.prices.every((p) => p.stockStatus === 'out_of_stock')) return 'out_of_stock';
+    return 'unknown';
+  }
+
+  const overallStock = getOverallStock();
+
+  const categoryIcon = CATEGORY_ICONS[product.category] || '📦';
+  const categoryColor = CATEGORY_COLORS[product.category] || Colors.primary;
+  const categoryLabel = CATEGORY_LABELS[product.category] || product.category;
+
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.content}>
-      {/* Image */}
-      <View style={styles.imageContainer}>
+      {/* Image / Hero */}
+      <View style={[styles.imageContainer, { backgroundColor: categoryColor + '12' }]}>
         {product.imageUrl ? (
           <Image
             source={{ uri: product.imageUrl }}
@@ -186,8 +144,10 @@ export default function ProductDetailScreen() {
           />
         ) : (
           <View style={styles.imagePlaceholder}>
-            <Text style={styles.placeholderIcon}>📦</Text>
-            <Text style={styles.placeholderText}>{product.brand}</Text>
+            <Text style={styles.placeholderIcon}>{categoryIcon}</Text>
+            <Text style={[styles.placeholderText, { color: categoryColor }]}>
+              {product.brand}
+            </Text>
           </View>
         )}
 
@@ -198,6 +158,15 @@ export default function ProductDetailScreen() {
         >
           <Text style={styles.favoriteIcon}>{favorited ? '❤️' : '🤍'}</Text>
         </TouchableOpacity>
+
+        {/* Category badge overlay */}
+        <View style={styles.categoryBadgeOverlay}>
+          <View style={[styles.categoryBadge, { backgroundColor: categoryColor }]}>
+            <Text style={styles.categoryBadgeText}>
+              {categoryIcon} {categoryLabel}
+            </Text>
+          </View>
+        </View>
       </View>
 
       {/* Product Info */}
@@ -206,7 +175,12 @@ export default function ProductDetailScreen() {
         <Text style={styles.name}>{product.name}</Text>
 
         <View style={styles.metaRow}>
-          <Badge label={product.category.toUpperCase()} variant="primary" size="small" />
+          <Badge label={product.subcategory || product.category} variant="primary" size="small" />
+          <Badge
+            label={formatStockStatus(overallStock)}
+            variant={overallStock === 'in_stock' ? 'success' : overallStock === 'out_of_stock' ? 'danger' : 'neutral'}
+            size="small"
+          />
           <Text style={styles.updated}>
             更新於 {formatDate(product.updatedAt)}
           </Text>
@@ -214,7 +188,12 @@ export default function ProductDetailScreen() {
 
         {/* Lowest price highlight */}
         <View style={styles.priceHighlight}>
-          <Text style={styles.priceLabel}>最低價格</Text>
+          <View>
+            <Text style={styles.priceLabel}>最低價格</Text>
+            <Text style={styles.priceSource}>
+              來自 {SOURCE_NAMES[lowestPrice.source.id] || lowestPrice.source.name}
+            </Text>
+          </View>
           <PriceTag
             price={lowestPrice.price}
             currency={lowestPrice.currency}
@@ -224,17 +203,19 @@ export default function ProductDetailScreen() {
         </View>
       </View>
 
-      {/* Price Table */}
+      {/* Multi-Store Price Comparison Table */}
       <View style={styles.section}>
         <Text style={styles.sectionTitle}>各通路價格</Text>
         <PriceTable prices={product.prices} />
       </View>
 
       {/* Specs */}
-      <View style={styles.section}>
-        <Text style={styles.sectionTitle}>規格</Text>
-        <SpecList specs={product.specs} />
-      </View>
+      {product.specs && Object.keys(product.specs).length > 0 && (
+        <View style={styles.section}>
+          <Text style={styles.sectionTitle}>規格</Text>
+          <SpecList specs={product.specs} />
+        </View>
+      )}
 
       {/* Price History */}
       {product.priceHistory.length > 0 && (
@@ -293,7 +274,6 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     height: 280,
-    backgroundColor: Colors.bg.primary,
     alignItems: 'center',
     justifyContent: 'center',
     position: 'relative',
@@ -311,7 +291,6 @@ const styles = StyleSheet.create({
   },
   placeholderText: {
     ...Typography.h3,
-    color: Colors.text.tertiary,
   },
   favoriteButton: {
     position: 'absolute',
@@ -327,6 +306,21 @@ const styles = StyleSheet.create({
   },
   favoriteIcon: {
     fontSize: 22,
+  },
+  categoryBadgeOverlay: {
+    position: 'absolute',
+    bottom: Spacing.lg,
+    left: Spacing.lg,
+  },
+  categoryBadge: {
+    paddingVertical: Spacing.xs,
+    paddingHorizontal: Spacing.md,
+    borderRadius: BorderRadius.full,
+  },
+  categoryBadgeText: {
+    ...Typography.caption,
+    color: '#FFFFFF',
+    fontWeight: '600',
   },
   infoSection: {
     backgroundColor: Colors.bg.primary,
@@ -354,7 +348,7 @@ const styles = StyleSheet.create({
   },
   priceHighlight: {
     flexDirection: 'row',
-    alignItems: 'baseline',
+    alignItems: 'center',
     justifyContent: 'space-between',
     marginTop: Spacing.md,
     padding: Spacing.md,
@@ -364,6 +358,11 @@ const styles = StyleSheet.create({
   priceLabel: {
     ...Typography.label,
     color: Colors.text.secondary,
+  },
+  priceSource: {
+    ...Typography.caption,
+    color: Colors.text.tertiary,
+    marginTop: Spacing.xxs,
   },
   section: {
     marginTop: Spacing.lg,

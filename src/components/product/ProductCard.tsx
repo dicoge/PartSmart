@@ -3,6 +3,7 @@ import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
 import { Colors, Typography, Spacing, BorderRadius, Shadow } from '../../styles';
 import { PriceTag } from '../ui/PriceTag';
 import { Badge } from '../ui/Badge';
+import { SOURCE_NAMES } from '../../utils';
 import type { ProductSummary } from '../../types';
 
 interface ProductCardProps {
@@ -10,14 +11,45 @@ interface ProductCardProps {
   onPress: (product: ProductSummary) => void;
 }
 
+const CATEGORY_ICONS: Record<string, string> = {
+  cpu: '⚡', gpu: '🎮', motherboard: '🔌', ram: '🧠',
+  ssd: '💾', hdd: '💿', psu: '🔋', case: '🖥️',
+  cooler: '❄️', monitor: '🖵', other: '🔧',
+};
+
+const CATEGORY_COLORS: Record<string, string> = {
+  cpu: '#2563EB', gpu: '#059669', motherboard: '#7C3AED', ram: '#D97706',
+  ssd: '#DC2626', hdd: '#0891B2', psu: '#DB2777', case: '#6B7280',
+  cooler: '#0284C7', monitor: '#65A30D', other: '#8B5CF6',
+};
+
+const BRAND_COLORS: Record<string, string> = {
+  Intel: '#0071C5', AMD: '#ED1C24', NVIDIA: '#76B900',
+  ASUS: '#00A0E9', 技嘉: '#003366', 微星: '#FF0000',
+  Samsung: '#1428A0', WD: '#00A98F', Crucial: '#00A3E0',
+  Kingston: '#FF8200', Corsair: '#FF6900', Seagate: '#6EB02A',
+  Logitech: '#00B8FC', Razer: '#44D62C', Sony: '#000000',
+  海韻: '#003D7A', 振華: '#C41E3A', 酷碼: '#E3000F',
+  聯力: '#0077B5', Fractal: '#000000', 貓頭鷹: '#FF6600',
+  利民: '#333333', 海盜船: '#FF6900', 華碩: '#00A0E9',
+  三星: '#1428A0', Dell: '#007DB8',
+};
+
+function getSourceLabel(sourceKey: string): string {
+  return SOURCE_NAMES[sourceKey] || sourceKey;
+}
+
 export function ProductCard({ product, onPress }: ProductCardProps) {
+  const catColor = CATEGORY_COLORS[product.category] || Colors.primary;
+  const brandColor = BRAND_COLORS[product.brand] || Colors.text.primary;
+
   return (
     <TouchableOpacity
       style={styles.card}
       onPress={() => onPress(product)}
       activeOpacity={0.7}
     >
-      <View style={styles.imageContainer}>
+      <View style={[styles.imageContainer, { backgroundColor: catColor + '10' }]}>
         {product.imageUrl ? (
           <Image
             source={{ uri: product.imageUrl }}
@@ -26,13 +58,23 @@ export function ProductCard({ product, onPress }: ProductCardProps) {
           />
         ) : (
           <View style={styles.placeholder}>
-            <Text style={styles.placeholderText}>📦</Text>
+            <Text style={styles.placeholderIcon}>
+              {CATEGORY_ICONS[product.category] || '📦'}
+            </Text>
           </View>
         )}
+        {/* Source badge on image */}
+        <View style={styles.sourceBadge}>
+          <Badge
+            label={getSourceLabel(product.lowestSource)}
+            variant="success"
+            size="small"
+          />
+        </View>
       </View>
 
       <View style={styles.info}>
-        <Text style={styles.brand} numberOfLines={1}>
+        <Text style={[styles.brand, { color: brandColor }]} numberOfLines={1}>
           {product.brand}
         </Text>
         <Text style={styles.name} numberOfLines={2}>
@@ -65,9 +107,9 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     height: 140,
-    backgroundColor: Colors.bg.secondary,
     alignItems: 'center',
     justifyContent: 'center',
+    position: 'relative',
   },
   image: {
     width: '100%',
@@ -77,8 +119,13 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  placeholderText: {
+  placeholderIcon: {
     fontSize: 40,
+  },
+  sourceBadge: {
+    position: 'absolute',
+    top: Spacing.sm,
+    right: Spacing.sm,
   },
   info: {
     padding: Spacing.md,
@@ -86,7 +133,7 @@ const styles = StyleSheet.create({
   },
   brand: {
     ...Typography.caption,
-    color: Colors.text.tertiary,
+    fontWeight: '700',
     textTransform: 'uppercase',
     letterSpacing: 0.5,
   },
