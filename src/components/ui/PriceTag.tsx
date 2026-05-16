@@ -5,7 +5,7 @@ import { formatPrice } from '../../utils';
 
 interface PriceTagProps {
   price: number;
-  currency?: string;
+  currency?: 'TWD' | 'USD';
   source?: string;
   size?: 'small' | 'medium' | 'large';
   style?: ViewStyle;

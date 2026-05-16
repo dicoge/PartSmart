@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import type { Product, ProductSummary, ProductDetail, ProductCategory } from '../types';
+import type { ProductSummary, ProductDetail, ProductCategory } from '../types';
 
 interface ProductState {
   products: ProductSummary[];

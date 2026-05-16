@@ -1,4 +1,6 @@
-export function formatPrice(price: number, currency: string = 'TWD'): string {
+import { StockStatus } from '../types/price';
+
+export function formatPrice(price: number, currency: 'TWD' | 'USD' = 'TWD'): string {
   if (currency === 'TWD') {
     return `NT$${price.toLocaleString()}`;
   }
@@ -27,7 +29,7 @@ export function formatDate(dateStr: string): string {
   });
 }
 
-export function formatStockStatus(status: string): string {
+export function formatStockStatus(status: StockStatus): string {
   switch (status) {
     case 'in_stock': return '有庫存';
     case 'out_of_stock': return '缺貨';

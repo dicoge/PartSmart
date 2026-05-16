@@ -1,5 +1,4 @@
 import type { ProductDetail, ProductSummary, ProductCategory } from '../types';
-import { SORT_OPTIONS } from '../utils/constants';
 
 // ─── Full product details (for product detail page) ───
 
