@@ -606,7 +606,10 @@ function toSummary(detail: ProductDetail, lowestPrice: number, lowestSource: str
 }
 
 export const allProductSummaries: ProductSummary[] = Object.values(mockDetails).map((d) => {
-  const lowest = d.prices.reduce((min, p) => (p.price < min.price ? p : min), d.prices[0]);
+  if (d.prices.length === 0) {
+    return toSummary(d, 0, 'other');
+  }
+  const lowest = d.prices.reduce((min, p) => (p.price < min.price ? p : min));
   const srcId = lowest.source.id;
   const srcName =
     srcId === 'coolpc' ? 'coolpc' :

@@ -71,7 +71,7 @@ export default function ProductDetailScreen() {
   };
 
   const handleToggleFavorite = useCallback(() => {
-    if (!product) return;
+    if (!product || product.prices.length === 0) return;
     if (favorited) {
       removeFavorite(product.id);
     } else {
@@ -114,15 +114,16 @@ export default function ProductDetailScreen() {
     );
   }
 
-  const lowestPrice = product.prices.reduce(
-    (min, p) => (p.price < min.price ? p : min),
-    product.prices[0]
-  );
+  const lowestPrice = product.prices.length > 0
+    ? product.prices.reduce((min, p) => (p.price < min.price ? p : min))
+    : null;
 
   // Compute overall stock status
+  const p = product;
   function getOverallStock() {
-    if (product.prices.some((p) => p.stockStatus === 'in_stock')) return 'in_stock';
-    if (product.prices.every((p) => p.stockStatus === 'out_of_stock')) return 'out_of_stock';
+    if (p.prices.length === 0) return 'out_of_stock';
+    if (p.prices.some((entry) => entry.stockStatus === 'in_stock')) return 'in_stock';
+    if (p.prices.every((entry) => entry.stockStatus === 'out_of_stock')) return 'out_of_stock';
     return 'unknown';
   }
 
@@ -187,20 +188,22 @@ export default function ProductDetailScreen() {
         </View>
 
         {/* Lowest price highlight */}
-        <View style={styles.priceHighlight}>
-          <View>
-            <Text style={styles.priceLabel}>最低價格</Text>
-            <Text style={styles.priceSource}>
-              來自 {SOURCE_NAMES[lowestPrice.source.id] || lowestPrice.source.name}
-            </Text>
+        {lowestPrice && (
+          <View style={styles.priceHighlight}>
+            <View>
+              <Text style={styles.priceLabel}>最低價格</Text>
+              <Text style={styles.priceSource}>
+                來自 {SOURCE_NAMES[lowestPrice.source.id] || lowestPrice.source.name}
+              </Text>
+            </View>
+            <PriceTag
+              price={lowestPrice.price}
+              currency={lowestPrice.currency}
+              source={lowestPrice.source.name}
+              size="large"
+            />
           </View>
-          <PriceTag
-            price={lowestPrice.price}
-            currency={lowestPrice.currency}
-            source={lowestPrice.source.name}
-            size="large"
-          />
-        </View>
+        )}
       </View>
 
       {/* Multi-Store Price Comparison Table */}
