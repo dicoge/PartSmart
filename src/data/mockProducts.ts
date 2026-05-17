@@ -626,7 +626,7 @@ export function getProductDetailById(id: string): ProductDetail | null {
   return mockDetails[id] || null;
 }
 
-export function searchProducts(query: string, category?: ProductCategory, sortBy?: string): ProductSummary[] {
+export function searchProducts(query: string, category?: ProductCategory, sortBy?: 'price_asc' | 'price_desc' | 'newest' | 'popular'): ProductSummary[] {
   let results = allProductSummaries;
   const q = query.toLowerCase().trim();
 

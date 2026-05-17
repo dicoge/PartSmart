@@ -12,28 +12,15 @@ import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Colors, Typography, Spacing, BorderRadius, Shadow } from '../../src/styles';
 import { Card } from '../../src/components/ui/Card';
 import { Badge } from '../../src/components/ui/Badge';
-import { Button } from '../../src/components/ui/Button';
 import { PriceTag } from '../../src/components/ui/PriceTag';
 import { PriceTable } from '../../src/components/product/PriceTable';
 import { SpecList } from '../../src/components/product/SpecList';
 import { Loading } from '../../src/components/ui/Loading';
 import { EmptyState } from '../../src/components/common/EmptyState';
 import { useFavoriteStore } from '../../src/stores/favoriteStore';
-import { formatDate, formatStockStatus, CATEGORY_LABELS, SOURCE_NAMES } from '../../src/utils';
+import { formatDate, formatStockStatus, CATEGORY_ICONS, CATEGORY_COLORS, CATEGORY_LABELS, SOURCE_NAMES } from '../../src/utils';
 import { getProductDetailById } from '../../src/data/mockProducts';
-import type { ProductDetail, PriceEntry, PricePoint } from '../../src/types';
-
-const CATEGORY_ICONS: Record<string, string> = {
-  cpu: '⚡', gpu: '🎮', motherboard: '🔌', ram: '🧠',
-  ssd: '💾', hdd: '💿', psu: '🔋', case: '🖥️',
-  cooler: '❄️', monitor: '🖵', other: '🔧',
-};
-
-const CATEGORY_COLORS: Record<string, string> = {
-  cpu: '#2563EB', gpu: '#059669', motherboard: '#7C3AED', ram: '#D97706',
-  ssd: '#DC2626', hdd: '#0891B2', psu: '#DB2777', case: '#6B7280',
-  cooler: '#0284C7', monitor: '#65A30D', other: '#8B5CF6',
-};
+import type { ProductDetail } from '../../src/types';
 
 export default function ProductDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();

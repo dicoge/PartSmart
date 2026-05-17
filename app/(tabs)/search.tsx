@@ -7,9 +7,8 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import { useRouter } from 'expo-router';
-import { Colors, Typography, Spacing, BorderRadius, Shadow } from '../../src/styles';
+import { Colors, Typography, Spacing, BorderRadius } from '../../src/styles';
 import { SearchBar } from '../../src/components/ui/SearchBar';
-import { Card } from '../../src/components/ui/Card';
 import { Badge } from '../../src/components/ui/Badge';
 import { ProductCard } from '../../src/components/product/ProductCard';
 import { EmptyState } from '../../src/components/common/EmptyState';
@@ -24,7 +23,7 @@ export default function SearchScreen() {
   const router = useRouter();
   const {
     query, setQuery, filters, setFilters, resetFilters,
-    recentSearches, addRecentSearch, isSearching, setIsSearching,
+    recentSearches, addRecentSearch,
   } = useSearchStore();
   const {
     products, isLoading, error, setProducts,
@@ -32,7 +31,6 @@ export default function SearchScreen() {
   } = useProductStore();
 
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const [loadedFromCategory, setLoadedFromCategory] = useState(false);
   const [initialLoadDone, setInitialLoadDone] = useState(false);
 
   const performSearch = useCallback(

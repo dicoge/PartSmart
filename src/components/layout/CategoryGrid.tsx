@@ -1,22 +1,8 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Dimensions } from 'react-native';
 import { Colors, Typography, Spacing, BorderRadius, Shadow } from '../../styles';
-import { CATEGORY_LABELS } from '../../utils';
+import { CATEGORY_ICONS, CATEGORY_LABELS } from '../../utils';
 import type { ProductCategory } from '../../types';
-
-const CATEGORY_ICONS: Record<string, string> = {
-  cpu: '⚡',
-  gpu: '🎮',
-  motherboard: '🔌',
-  ram: '🧠',
-  ssd: '💾',
-  hdd: '💿',
-  psu: '🔋',
-  case: '🖥️',
-  cooler: '❄️',
-  monitor: '🖵',
-  other: '🔧',
-};
 
 interface CategoryGridProps {
   onSelectCategory: (category: ProductCategory) => void;

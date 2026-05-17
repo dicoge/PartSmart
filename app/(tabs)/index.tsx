@@ -4,24 +4,16 @@ import {
   Text,
   ScrollView,
   StyleSheet,
-  Dimensions,
   TouchableOpacity,
 } from 'react-native';
 import { useRouter } from 'expo-router';
 import { Colors, Typography, Spacing, BorderRadius, Shadow } from '../../src/styles';
-import { CATEGORY_LABELS } from '../../src/utils';
+import { CATEGORY_ICONS, CATEGORY_LABELS } from '../../src/utils';
 import { CategoryGrid } from '../../src/components/layout/CategoryGrid';
-import { Card } from '../../src/components/ui/Card';
 import { Loading } from '../../src/components/ui/Loading';
 import { useProductStore } from '../../src/stores/productStore';
 import { useSearchStore } from '../../src/stores/searchStore';
 import type { ProductCategory, ProductSummary } from '../../src/types';
-
-const CATEGORY_ICONS: Record<string, string> = {
-  cpu: '⚡', gpu: '🎮', motherboard: '🔌', ram: '🧠',
-  ssd: '💾', hdd: '💿', psu: '🔋', case: '🖥️',
-  cooler: '❄️', monitor: '🖵', other: '🔧',
-};
 
 export default function HomeScreen() {
   const router = useRouter();
@@ -33,15 +25,15 @@ export default function HomeScreen() {
     // Load popular products (mock data for now)
     const mockPopular: ProductSummary[] = [
       {
-        id: '1', name: 'Intel Core i7-14700K', brand: 'Intel',
+        id: 'cpu-i7-14700k', name: 'Intel Core i7-14700K', brand: 'Intel',
         category: 'cpu', lowestPrice: 13800, lowestSource: 'coolpc', priceCount: 5,
       },
       {
-        id: '2', name: 'NVIDIA RTX 4070 Super', brand: 'NVIDIA',
+        id: 'gpu-rtx4070s', name: 'NVIDIA GeForce RTX 4070 Super', brand: 'NVIDIA',
         category: 'gpu', lowestPrice: 21990, lowestSource: 'sinya', priceCount: 4,
       },
       {
-        id: '3', name: 'Samsung 990 Pro 2TB', brand: 'Samsung',
+        id: 'ssd-990pro-2t', name: 'Samsung 990 Pro 2TB NVMe', brand: 'Samsung',
         category: 'ssd', lowestPrice: 5888, lowestSource: 'coolpc', priceCount: 3,
       },
     ];

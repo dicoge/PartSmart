@@ -7,6 +7,7 @@ const FAVORITES_KEY = '@partsmart/favorites';
 interface FavoriteState {
   favorites: ProductSummary[];
   isLoading: boolean;
+  error: string | null;
 
   loadFavorites: () => Promise<void>;
   addFavorite: (product: ProductSummary) => Promise<void>;
@@ -17,6 +18,7 @@ interface FavoriteState {
 export const useFavoriteStore = create<FavoriteState>((set, get) => ({
   favorites: [],
   isLoading: false,
+  error: null,
 
   isFavorite: (productId: string) => {
     return get().favorites.some((f) => f.id === productId);
@@ -28,8 +30,8 @@ export const useFavoriteStore = create<FavoriteState>((set, get) => ({
       const data = await AsyncStorage.getItem(FAVORITES_KEY);
       const favorites: ProductSummary[] = data ? JSON.parse(data) : [];
       set({ favorites, isLoading: false });
-    } catch {
-      set({ isLoading: false });
+    } catch (e) {
+      set({ isLoading: false, error: e instanceof Error ? e.message : 'Failed to load favorites' });
     }
   },
 

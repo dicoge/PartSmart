@@ -1,7 +1,6 @@
 export const APP_NAME = 'PartSmart';
 export const API_BASE_URL = process.env.EXPO_PUBLIC_API_URL || 'https://partsmart.vercel.app';
 export const SEARCH_DEBOUNCE_MS = 300;
-export const PRICE_CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
 export const MAX_RECENT_SEARCHES = 20;
 export const PAGE_SIZE = 20;
 
@@ -25,6 +24,19 @@ export const SORT_OPTIONS = [
   { value: 'newest', label: '最新' },
   { value: 'popular', label: '熱門' },
 ] as const;
+
+export const CATEGORY_ICONS: Record<string, string> = {
+  cpu: '⚡', gpu: '🎮', motherboard: '🔌', ram: '🧠',
+  ssd: '💾', hdd: '💿', psu: '🔋', case: '🖥️',
+  cooler: '❄️', monitor: '🖵', other: '🔧',
+};
+
+export const CATEGORY_COLORS: Record<string, string> = {
+  cpu: '#FF6B6B', gpu: '#4ECDC4', motherboard: '#45B7D1',
+  ram: '#96CEB4', ssd: '#FFEAA7', hdd: '#DDA0DD',
+  psu: '#98D8C8', case: '#F7DC6F', cooler: '#85C1E9',
+  monitor: '#BB8FCE', other: '#F1948A',
+} as const;
 
 export const SOURCE_NAMES: Record<string, string> = {
   coolpc: '原價屋',

@@ -8,7 +8,7 @@ import {
   Alert,
 } from 'react-native';
 import { useRouter } from 'expo-router';
-import { Colors, Typography, Spacing, BorderRadius } from '../../src/styles';
+import { Colors, Typography, Spacing } from '../../src/styles';
 import { ProductCard } from '../../src/components/product/ProductCard';
 import { EmptyState } from '../../src/components/common/EmptyState';
 import { Loading } from '../../src/components/ui/Loading';

@@ -6,14 +6,12 @@ interface SearchState {
   query: string;
   filters: SearchFilters;
   recentSearches: string[];
-  isSearching: boolean;
 
   setQuery: (query: string) => void;
   setFilters: (filters: Partial<SearchFilters>) => void;
   resetFilters: () => void;
   addRecentSearch: (query: string) => void;
   clearRecentSearches: () => void;
-  setIsSearching: (isSearching: boolean) => void;
   reset: () => void;
 }
 
@@ -23,9 +21,8 @@ const defaultFilters: SearchFilters = {
 
 const initialState = {
   query: '',
-  filters: defaultFilters,
+  filters: { ...defaultFilters },
   recentSearches: [],
-  isSearching: false,
 };
 
 export const useSearchStore = create<SearchState>((set) => ({
@@ -36,7 +33,7 @@ export const useSearchStore = create<SearchState>((set) => ({
   setFilters: (filters) =>
     set((state) => ({ filters: { ...state.filters, ...filters } })),
 
-  resetFilters: () => set({ filters: defaultFilters }),
+  resetFilters: () => set({ filters: { ...defaultFilters } }),
 
   addRecentSearch: (query) =>
     set((state) => {
@@ -47,8 +44,6 @@ export const useSearchStore = create<SearchState>((set) => ({
     }),
 
   clearRecentSearches: () => set({ recentSearches: [] }),
-
-  setIsSearching: (isSearching) => set({ isSearching }),
 
   reset: () => set(initialState),
 }));

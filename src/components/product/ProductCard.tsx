@@ -3,25 +3,13 @@ import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
 import { Colors, Typography, Spacing, BorderRadius, Shadow } from '../../styles';
 import { PriceTag } from '../ui/PriceTag';
 import { Badge } from '../ui/Badge';
-import { SOURCE_NAMES } from '../../utils';
+import { CATEGORY_ICONS, CATEGORY_COLORS, SOURCE_NAMES } from '../../utils';
 import type { ProductSummary } from '../../types';
 
 interface ProductCardProps {
   product: ProductSummary;
   onPress: (product: ProductSummary) => void;
 }
-
-const CATEGORY_ICONS: Record<string, string> = {
-  cpu: '⚡', gpu: '🎮', motherboard: '🔌', ram: '🧠',
-  ssd: '💾', hdd: '💿', psu: '🔋', case: '🖥️',
-  cooler: '❄️', monitor: '🖵', other: '🔧',
-};
-
-const CATEGORY_COLORS: Record<string, string> = {
-  cpu: '#2563EB', gpu: '#059669', motherboard: '#7C3AED', ram: '#D97706',
-  ssd: '#DC2626', hdd: '#0891B2', psu: '#DB2777', case: '#6B7280',
-  cooler: '#0284C7', monitor: '#65A30D', other: '#8B5CF6',
-};
 
 const BRAND_COLORS: Record<string, string> = {
   Intel: '#0071C5', AMD: '#ED1C24', NVIDIA: '#76B900',
@@ -84,7 +72,7 @@ export function ProductCard({ product, onPress }: ProductCardProps) {
         <View style={styles.footer}>
           <PriceTag
             price={product.lowestPrice}
-            source={product.lowestSource}
+            source={getSourceLabel(product.lowestSource)}
             size="small"
           />
           <Badge

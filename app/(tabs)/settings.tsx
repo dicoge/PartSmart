@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
   Linking,
 } from 'react-native';
-import { Colors, Typography, Spacing, BorderRadius, Shadow } from '../../src/styles';
+import { Colors, Typography, Spacing, BorderRadius } from '../../src/styles';
 import { Card } from '../../src/components/ui/Card';
 import { Badge } from '../../src/components/ui/Badge';
 import { useUIStore } from '../../src/stores/uiStore';
