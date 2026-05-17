@@ -14,6 +14,7 @@ import { Loading } from '../../src/components/ui/Loading';
 import { useProductStore } from '../../src/stores/productStore';
 import { useSearchStore } from '../../src/stores/searchStore';
 import type { ProductCategory, ProductSummary } from '../../src/types';
+import { getPopularProducts, getActiveCategories } from '../../src/data';
 
 export default function HomeScreen() {
   const router = useRouter();
@@ -22,22 +23,9 @@ export default function HomeScreen() {
   const [popularProducts, setPopularProducts] = useState<ProductSummary[]>([]);
 
   useEffect(() => {
-    // Load popular products (mock data for now)
-    const mockPopular: ProductSummary[] = [
-      {
-        id: 'cpu-i7-14700k', name: 'Intel Core i7-14700K', brand: 'Intel',
-        category: 'cpu', lowestPrice: 13800, lowestSource: 'coolpc', priceCount: 5,
-      },
-      {
-        id: 'gpu-rtx4070s', name: 'NVIDIA GeForce RTX 4070 Super', brand: 'NVIDIA',
-        category: 'gpu', lowestPrice: 21990, lowestSource: 'sinya', priceCount: 4,
-      },
-      {
-        id: 'ssd-990pro-2t', name: 'Samsung 990 Pro 2TB NVMe', brand: 'Samsung',
-        category: 'ssd', lowestPrice: 5888, lowestSource: 'coolpc', priceCount: 3,
-      },
-    ];
-    setPopularProducts(mockPopular);
+    // 從真實爬蟲資料載入各分類最低價產品
+    const popular = getPopularProducts();
+    setPopularProducts(popular);
   }, []);
 
   const handleCategoryPress = (category: ProductCategory) => {

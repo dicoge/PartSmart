@@ -19,7 +19,7 @@ import { Loading } from '../../src/components/ui/Loading';
 import { EmptyState } from '../../src/components/common/EmptyState';
 import { useFavoriteStore } from '../../src/stores/favoriteStore';
 import { formatDate, formatStockStatus, CATEGORY_ICONS, CATEGORY_COLORS, CATEGORY_LABELS, SOURCE_NAMES } from '../../src/utils';
-import { getProductDetailById } from '../../src/data/mockProducts';
+import { getProductDetailById } from '../../src/data';
 import type { ProductDetail } from '../../src/types';
 
 export default function ProductDetailScreen() {

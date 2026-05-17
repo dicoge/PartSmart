@@ -16,7 +16,7 @@ import { Loading } from '../../src/components/ui/Loading';
 import { useSearchStore } from '../../src/stores/searchStore';
 import { useProductStore } from '../../src/stores/productStore';
 import { SORT_OPTIONS, SEARCH_DEBOUNCE_MS, CATEGORY_LABELS } from '../../src/utils';
-import { searchProducts } from '../../src/data/mockProducts';
+import { searchProducts } from '../../src/data';
 import type { ProductSummary } from '../../src/types';
 
 export default function SearchScreen() {
