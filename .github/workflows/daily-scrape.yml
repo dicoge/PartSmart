@@ -1,0 +1,60 @@
+name: Daily Scrape & Deploy
+
+on:
+  schedule:
+    # 每天台灣時間 06:00, 18:00 執行 (UTC 22:00, 10:00)
+    - cron: '0 22 * * *'
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install iconv-lite
+        run: npm install iconv-lite
+
+      - name: Run all scrapers
+        run: node scripts/run-all-scrapers.js
+
+      - name: Check data changes
+        id: check
+        run: |
+          if git diff --stat -- 'data/*.json' | grep -q .; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Data has changed"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No data changes"
+          fi
+
+      - name: Commit and push data updates
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'PartSmart Bot'
+          git config --global user.email 'bot@partsmart.app'
+          git add data/
+          git commit -m "chore: auto-update price data $(date +'%Y-%m-%d %H:%M')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v20
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: '--prod'

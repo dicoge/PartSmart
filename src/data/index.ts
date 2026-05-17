@@ -1,40 +1,29 @@
 /**
- * 產品資料層 — 使用真實爬蟲資料
- * 
+ * 產品資料層 — 合併所有爬蟲資料來源
+ *
  * 資料來源:
- *   - 原價屋: data/coolpc-products.json (由 scrape-coolpc.js 定時產生)
+ *   - 原價屋: data/coolpc-products.json (新品價格)
+ *   - PTT: data/ptt-products.json (二手價格)
  */
 
 import type { ProductDetail, ProductSummary, ProductCategory, PriceEntry } from '../types';
 
-// 使用 require 載入 JSON
 const coolpcData: any[] = require('../../data/coolpc-products.json');
+const pttData: any[] = require('../../data/ptt-products.json');
 
 interface CrawledProduct {
-  id: string;
-  name: string;
-  brand: string;
-  category: string;
-  price: number;
-  source: string;
-  sourceName: string;
-  selectCategory: string;
-  lastSeen: string;
+  id: string; name: string; brand: string; category: string;
+  price: number; source: string; sourceName: string;
+  lastSeen: string; url?: string;
 }
 
-const crawledProducts: CrawledProduct[] = coolpcData as CrawledProduct[];
+const coolpcProducts: CrawledProduct[] = coolpcData as CrawledProduct[];
+const pttProducts: CrawledProduct[] = pttData as CrawledProduct[];
 
 const CATEGORY_NAMES: Record<string, string> = {
-  cpu: 'CPU',
-  gpu: '顯示卡',
-  motherboard: '主機板',
-  ram: '記憶體',
-  ssd: 'SSD',
-  hdd: '硬碟',
-  psu: '電源供應器',
-  case: '機殼',
-  cooler: '散熱器',
-  monitor: '螢幕',
+  cpu: 'CPU', gpu: '顯示卡', motherboard: '主機板', ram: '記憶體',
+  ssd: 'SSD', hdd: '硬碟', psu: '電源供應器', case: '機殼',
+  cooler: '散熱器', monitor: '螢幕', peripheral: '周邊',
 };
 
 export function getCategoryLabel(category: string): string {
@@ -42,11 +31,14 @@ export function getCategoryLabel(category: string): string {
 }
 
 export function getActiveCategories(): string[] {
-  const cats = new Set(crawledProducts.map((p: CrawledProduct) => p.category));
+  const cats = new Set([
+    ...coolpcProducts.map((p: CrawledProduct) => p.category),
+    ...pttProducts.map((p: CrawledProduct) => p.category),
+  ]);
   return Object.keys(CATEGORY_NAMES).filter(c => cats.has(c));
 }
 
-function crawledToSummary(p: CrawledProduct): ProductSummary {
+function toSummary(p: CrawledProduct): ProductSummary {
   return {
     id: p.id,
     name: p.name,
@@ -65,15 +57,16 @@ export function searchProducts(
 ): ProductSummary[] {
   const q = query.toLowerCase().trim();
 
-  let results = crawledProducts
-    .filter((p: CrawledProduct) => p.category !== 'other')
-    .map(crawledToSummary);
+  let results = [
+    ...coolpcProducts
+      .filter((p: CrawledProduct) => p.category !== 'other')
+      .map(toSummary),
+    ...pttProducts.map(toSummary),
+  ];
 
   if (q) {
     results = results.filter(
-      (p) =>
-        p.name.toLowerCase().includes(q) ||
-        p.brand.toLowerCase().includes(q)
+      (p) => p.name.toLowerCase().includes(q) || p.brand.toLowerCase().includes(q)
     );
   }
 
@@ -81,17 +74,19 @@ export function searchProducts(
     results = results.filter((p) => p.category === category);
   }
 
-  // 去重
-  const seen = new Set<string>();
-  results = results.filter((p) => {
-    const key = p.name.substring(0, 30).toLowerCase();
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
+  // 去重 (同名同類別取低價)
+  const seen = new Map<string, ProductSummary>();
+  for (const p of results) {
+    const key = p.name.substring(0, 25).toLowerCase() + '-' + p.category;
+    const existing = seen.get(key);
+    if (!existing || p.lowestPrice < existing.lowestPrice) {
+      seen.set(key, p);
+    }
+  }
+  results = Array.from(seen.values());
 
   if (sortBy) {
-    results = [...results].sort((a, b) => {
+    results.sort((a, b) => {
       switch (sortBy) {
         case 'price_asc': return a.lowestPrice - b.lowestPrice;
         case 'price_desc': return b.lowestPrice - a.lowestPrice;
@@ -108,50 +103,67 @@ export function getProductsByCategory(category: string): ProductSummary[] {
 }
 
 export function getProductDetailById(id: string): ProductDetail | null {
-  const crawled = crawledProducts.find((p: CrawledProduct) => p.id === id);
-  if (!crawled) return null;
+  const coolpc = coolpcProducts.find((p: CrawledProduct) => p.id === id);
+  const ptt = pttProducts.find((p: CrawledProduct) => p.id === id);
+
+  if (!coolpc && !ptt) return null;
 
   const now = new Date().toISOString();
-  const priceEntry: PriceEntry = {
-    source: {
-      id: 'coolpc',
-      name: '原價屋',
-      type: 'retail' as const,
-      domain: 'coolpc.com.tw',
-      country: 'TW' as const,
-    },
-    price: crawled.price,
-    currency: 'TWD' as const,
-    stockStatus: 'in_stock' as const,
-    productUrl: 'https://www.coolpc.com.tw/evaluate.php',
-    capturedAt: now,
-  };
+  const prices: PriceEntry[] = [];
+
+  if (coolpc) {
+    prices.push({
+      source: { id: 'coolpc', name: '原價屋', type: 'retail' as const, domain: 'coolpc.com.tw', country: 'TW' as const },
+      price: coolpc.price,
+      currency: 'TWD' as const,
+      stockStatus: 'in_stock' as const,
+      productUrl: 'https://www.coolpc.com.tw/evaluate.php',
+      capturedAt: now,
+      note: '新品',
+    });
+  }
+
+  if (ptt) {
+    prices.push({
+      source: { id: 'ptt', name: 'PTT HardwareSale', type: 'marketplace' as const, domain: 'ptt.cc', country: 'TW' as const },
+      price: ptt.price,
+      currency: 'TWD' as const,
+      stockStatus: 'out_of_stock' as const,
+      productUrl: ptt.url || 'https://www.ptt.cc/bbs/HardwareSale/',
+      capturedAt: now,
+      note: '二手',
+    });
+  }
+
+  const sourceProduct: CrawledProduct | undefined = coolpc || ptt;
+  if (!sourceProduct) return null;
 
   return {
-    id: crawled.id,
-    name: crawled.name,
-    brand: crawled.brand,
-    category: crawled.category as ProductCategory,
-    subcategory: crawled.selectCategory || 'other',
+    id: sourceProduct.id,
+    name: sourceProduct.name,
+    brand: sourceProduct.brand,
+    category: sourceProduct.category as ProductCategory,
+    subcategory: 'other',
     imageUrl: undefined,
     specs: {},
-    createdAt: crawled.lastSeen,
-    updatedAt: crawled.lastSeen,
-    prices: [priceEntry],
+    createdAt: sourceProduct.lastSeen,
+    updatedAt: sourceProduct.lastSeen,
+    prices,
     priceHistory: [],
   };
 }
 
 export function getPopularProducts(): ProductSummary[] {
-  const byCategory = new Map<string, CrawledProduct>();
-  for (const p of crawledProducts) {
+  const byCategory = new Map<string, ProductSummary>();
+
+  const all = [...coolpcProducts.map(toSummary), ...pttProducts.map(toSummary)];
+  for (const p of all) {
     if (p.category === 'other') continue;
     const existing = byCategory.get(p.category);
-    if (!existing || p.price < existing.price) {
+    if (!existing || p.lowestPrice < existing.lowestPrice) {
       byCategory.set(p.category, p);
     }
   }
-  return Array.from(byCategory.values())
-    .map(crawledToSummary)
-    .sort((a, b) => a.lowestPrice - b.lowestPrice);
+
+  return Array.from(byCategory.values()).sort((a, b) => a.lowestPrice - b.lowestPrice);
 }
