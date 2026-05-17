@@ -148,6 +148,45 @@ const mockDetails: Record<string, ProductDetail> = {
     ],
     priceHistory: [{ date: '2024-12-01', price: 16900, source: '原價屋' }, { date: '2025-01-01', price: 15990, source: '原價屋' }],
   },
+  'gpu-rx580': {
+    id: 'gpu-rx580', name: 'AMD Radeon RX 580 8GB', brand: 'AMD', category: 'gpu', subcategory: 'graphics',
+    specs: { '串流處理器': '2304', 'VRAM': '8GB GDDR5', '記憶體介面': '256-bit', '核心時脈': '1257 MHz', 'Boost 時脈': '1340 MHz', 'TDP': '185W', '輸出': 'HDMI 2.0b, DP 1.4, DVI-D' },
+    createdAt: now, updatedAt: now, prices: [
+      makePriceEntry('coolpc', '原價屋', 'coolpc.com.tw', 3990),
+      makePriceEntry('sinya', '欣亞電子', 'sinya.com.tw', 3850),
+      makePriceEntry('ptt', 'PTT HardwareSale', 'ptt.cc', 2500, 'TWD', 'out_of_stock', '二手保固中'),
+    ],
+    priceHistory: [{ date: '2024-10-01', price: 4500, source: '原價屋' }, { date: '2025-01-01', price: 3990, source: '原價屋' }],
+  },
+  'gpu-rx6600': {
+    id: 'gpu-rx6600', name: 'AMD Radeon RX 6600 8GB', brand: 'AMD', category: 'gpu', subcategory: 'graphics',
+    specs: { '串流處理器': '1792', 'VRAM': '8GB GDDR6', '記憶體介面': '128-bit', '核心時脈': '1626 MHz', 'Boost 時脈': '2491 MHz', 'TDP': '132W', '輸出': 'HDMI 2.1, DP 1.4' },
+    createdAt: now, updatedAt: now, prices: [
+      makePriceEntry('coolpc', '原價屋', 'coolpc.com.tw', 6990),
+      makePriceEntry('sinya', '欣亞電子', 'sinya.com.tw', 6850),
+      makePriceEntry('ptt', 'PTT HardwareSale', 'ptt.cc', 4500, 'TWD', 'unknown', '二手'),
+    ],
+    priceHistory: [{ date: '2024-10-01', price: 7500, source: '原價屋' }, { date: '2025-01-01', price: 6990, source: '原價屋' }],
+  },
+  'gpu-rtx3060ti': {
+    id: 'gpu-rtx3060ti', name: 'NVIDIA GeForce RTX 3060 Ti', brand: 'NVIDIA', category: 'gpu', subcategory: 'graphics',
+    specs: { 'CUDA 核心': '4864', 'VRAM': '8GB GDDR6', '記憶體介面': '256-bit', '核心時脈': '1410 MHz', 'Boost 時脈': '1665 MHz', 'TDP': '200W', '輸出': 'HDMI 2.1, DP 1.4a' },
+    createdAt: now, updatedAt: now, prices: [
+      makePriceEntry('coolpc', '原價屋', 'coolpc.com.tw', 12990),
+      makePriceEntry('sinya', '欣亞電子', 'sinya.com.tw', 12700),
+      makePriceEntry('ptt', 'PTT HardwareSale', 'ptt.cc', 8000, 'TWD', 'out_of_stock', '二手'),
+    ],
+    priceHistory: [{ date: '2024-10-01', price: 14000, source: '原價屋' }, { date: '2025-01-01', price: 12990, source: '原價屋' }],
+  },
+  'gpu-rtx3050': {
+    id: 'gpu-rtx3050', name: 'NVIDIA GeForce RTX 3050 8GB', brand: 'NVIDIA', category: 'gpu', subcategory: 'graphics',
+    specs: { 'CUDA 核心': '2560', 'VRAM': '8GB GDDR6', '記憶體介面': '128-bit', '核心時脈': '1552 MHz', 'Boost 時脈': '1777 MHz', 'TDP': '130W', '輸出': 'HDMI 2.1, DP 1.4a' },
+    createdAt: now, updatedAt: now, prices: [
+      makePriceEntry('coolpc', '原價屋', 'coolpc.com.tw', 6990),
+      makePriceEntry('sinya', '欣亞電子', 'sinya.com.tw', 6790),
+    ],
+    priceHistory: [{ date: '2024-10-01', price: 7900, source: '原價屋' }, { date: '2025-01-01', price: 6990, source: '原價屋' }],
+  },
   'gpu-rx7800xt': {
     id: 'gpu-rx7800xt', name: 'AMD Radeon RX 7800 XT', brand: 'AMD', category: 'gpu', subcategory: 'graphics',
     specs: { '串流處理器': '3840', 'VRAM': '16GB GDDR6', '記憶體介面': '256-bit', '核心時脈': '1624 MHz', 'Boost 時脈': '2430 MHz', 'TDP': '263W', '輸出': 'HDMI 2.1, DP 2.1' },
