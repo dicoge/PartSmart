@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-dvd燒錄機-硬碟-nvr-x-h110",
-    "name": "DVD燒錄機/硬碟/NVR/X/H110",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 110,
-    "action": "賣/台北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "wu90315",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779800347.A.55F.html",
-    "date": "5/26",
-    "lastSeen": "2026-05-28T13:01:41.707Z"
-  },
-  {
     "id": "ptt-s-2060-1070",
     "name": "s 2060 1070",
     "brand": "其他",
@@ -29,7 +13,7 @@
     "author": "ray8082",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779889822.A.DDE.html",
     "date": "5/27",
-    "lastSeen": "2026-05-28T13:01:41.706Z"
+    "lastSeen": "2026-05-28T23:08:14.470Z"
   },
   {
     "id": "ptt-b-b550m-rtx2060",
@@ -45,23 +29,7 @@
     "author": "chungtt",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779950337.A.1BB.html",
     "date": "5/28",
-    "lastSeen": "2026-05-28T13:01:41.706Z"
-  },
-  {
-    "id": "ptt-筆電-ddr2400-3200",
-    "name": "筆電 DDR2400 3200",
-    "brand": "其他",
-    "category": "laptop",
-    "price": 3200,
-    "action": "賣/雙北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "mastery7733",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779805296.A.81E.html",
-    "date": "5/26",
-    "lastSeen": "2026-05-28T13:01:41.707Z"
+    "lastSeen": "2026-05-28T23:08:14.469Z"
   },
   {
     "id": "ptt-ddr-4000-16gb-暫售-amd3500",
@@ -77,39 +45,7 @@
     "author": "yuyu2357",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779880120.A.56A.html",
     "date": "5/27",
-    "lastSeen": "2026-05-28T13:01:41.707Z"
-  },
-  {
-    "id": "ptt-amd-r-3600",
-    "name": "AMD R-3600",
-    "brand": "AMD",
-    "category": "other",
-    "price": 3600,
-    "action": "賣/新北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "gg01861894",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779801277.A.4BC.html",
-    "date": "5/26",
-    "lastSeen": "2026-05-28T13:01:41.707Z"
-  },
-  {
-    "id": "ptt-御三家-rtx-4060ti-4060",
-    "name": "御三家 RTX 4060Ti 4060",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 4060,
-    "action": "徵/雙北",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Orilla",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779809361.A.0AC.html",
-    "date": "5/26",
-    "lastSeen": "2026-05-28T13:01:41.707Z"
+    "lastSeen": "2026-05-28T23:08:14.471Z"
   },
   {
     "id": "ptt-netgear-v",
@@ -125,7 +61,7 @@
     "author": "babyF",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779879069.A.8FC.html",
     "date": "5/27",
-    "lastSeen": "2026-05-28T13:01:41.707Z"
+    "lastSeen": "2026-05-28T23:08:14.470Z"
   },
   {
     "id": "ptt-intel-九代-9900",
@@ -141,6 +77,6 @@
     "author": "WaLuKa",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779885168.A.FD8.html",
     "date": "5/27",
-    "lastSeen": "2026-05-28T13:01:41.707Z"
+    "lastSeen": "2026-05-28T23:08:14.471Z"
   }
 ]
