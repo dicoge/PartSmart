@@ -13,7 +13,23 @@
     "author": "tg5oc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1780049655.A.114.html",
     "date": "5/29",
-    "lastSeen": "2026-05-29T12:40:54.600Z"
+    "lastSeen": "2026-05-29T23:04:54.443Z"
+  },
+  {
+    "id": "ptt-s-2060-1070",
+    "name": "s 2060 1070",
+    "brand": "其他",
+    "category": "other",
+    "price": 1070,
+    "action": "賣/台中",
+    "location": "均可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ray8082",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779889822.A.DDE.html",
+    "date": "5/27",
+    "lastSeen": "2026-05-29T23:04:54.444Z"
   },
   {
     "id": "ptt-b-b550m-rtx2060",
@@ -29,6 +45,22 @@
     "author": "chungtt",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779950337.A.1BB.html",
     "date": "5/28",
-    "lastSeen": "2026-05-29T12:40:54.600Z"
+    "lastSeen": "2026-05-29T23:04:54.444Z"
+  },
+  {
+    "id": "ptt-rtx",
+    "name": "RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 4060,
+    "action": "徵/桃園",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "supercatt",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1780083225.A.BEE.html",
+    "date": "5/30",
+    "lastSeen": "2026-05-29T23:04:54.443Z"
   }
 ]
