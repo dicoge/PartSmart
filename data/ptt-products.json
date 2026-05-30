@@ -13,23 +13,23 @@
     "author": "tg5oc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1780049655.A.114.html",
     "date": "5/29",
-    "lastSeen": "2026-05-29T23:04:54.443Z"
+    "lastSeen": "2026-05-30T11:12:11.903Z"
   },
   {
-    "id": "ptt-s-2060-1070",
-    "name": "s 2060 1070",
+    "id": "ptt-顯示卡gt",
+    "name": "顯示卡GT",
     "brand": "其他",
-    "category": "other",
-    "price": 1070,
-    "action": "賣/台中",
-    "location": "均可",
+    "category": "gpu",
+    "price": 730,
+    "action": "賣/中壢",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "ray8082",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779889822.A.DDE.html",
-    "date": "5/27",
-    "lastSeen": "2026-05-29T23:04:54.444Z"
+    "author": "frencen",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1780134669.A.391.html",
+    "date": "5/30",
+    "lastSeen": "2026-05-30T11:12:11.902Z"
   },
   {
     "id": "ptt-b-b550m-rtx2060",
@@ -45,7 +45,23 @@
     "author": "chungtt",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1779950337.A.1BB.html",
     "date": "5/28",
-    "lastSeen": "2026-05-29T23:04:54.444Z"
+    "lastSeen": "2026-05-30T11:12:11.903Z"
+  },
+  {
+    "id": "ptt-amd-r-3100",
+    "name": "AMD R-3100",
+    "brand": "AMD",
+    "category": "other",
+    "price": 3100,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "lopvvqol",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1780113269.A.779.html",
+    "date": "5/30",
+    "lastSeen": "2026-05-30T11:12:11.903Z"
   },
   {
     "id": "ptt-rtx",
@@ -61,6 +77,22 @@
     "author": "supercatt",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1780083225.A.BEE.html",
     "date": "5/30",
-    "lastSeen": "2026-05-29T23:04:54.443Z"
+    "lastSeen": "2026-05-30T11:12:11.902Z"
+  },
+  {
+    "id": "ptt-prime-rx",
+    "name": "PRIME-RX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 9070,
+    "action": "賣/台南",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "d0178411",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1780124216.A.247.html",
+    "date": "5/30",
+    "lastSeen": "2026-05-30T11:12:11.902Z"
   }
 ]
