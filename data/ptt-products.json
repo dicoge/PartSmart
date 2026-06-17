@@ -13,7 +13,7 @@
     "author": "cds13188",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781599664.A.887.html",
     "date": "6/16",
-    "lastSeen": "2026-06-16T23:18:06.347Z"
+    "lastSeen": "2026-06-17T13:36:08.813Z"
   },
   {
     "id": "ptt-華碩-b-g-i7-8700-美光-bx500",
@@ -29,7 +29,23 @@
     "author": "tg5oc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781625932.A.6AB.html",
     "date": "6/17",
-    "lastSeen": "2026-06-16T23:18:06.347Z"
+    "lastSeen": "2026-06-17T13:36:08.813Z"
+  },
+  {
+    "id": "ptt-dell-ultrasharp-uq-ac511",
+    "name": "Dell Ultrasharp UQ AC511",
+    "brand": "Dell",
+    "category": "other",
+    "price": 511,
+    "action": "賣/台北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "dartslive",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781668238.A.197.html",
+    "date": "6/17",
+    "lastSeen": "2026-06-17T13:36:08.812Z"
   },
   {
     "id": "ptt-nb-d8g-16g-2666-3200",
@@ -45,7 +61,7 @@
     "author": "apley",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781527272.A.697.html",
     "date": "6/15",
-    "lastSeen": "2026-06-16T23:18:06.347Z"
+    "lastSeen": "2026-06-17T13:36:08.813Z"
   },
   {
     "id": "ptt-技嘉vision8g白-amd-r5-3600",
@@ -61,54 +77,6 @@
     "author": "rei0129",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781538403.A.04B.html",
     "date": "6/15",
-    "lastSeen": "2026-06-16T23:18:06.348Z"
-  },
-  {
-    "id": "ptt-r3600",
-    "name": "R3600",
-    "brand": "其他",
-    "category": "other",
-    "price": 3600,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Ryan891227",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781498160.A.C90.html",
-    "date": "6/15",
-    "lastSeen": "2026-06-16T23:18:06.348Z"
-  },
-  {
-    "id": "ptt-ddr2666-2400-8g-i5-6400",
-    "name": "DDR2666/2400 8G.i5-6400",
-    "brand": "其他",
-    "category": "cpu",
-    "price": 6400,
-    "action": "賣/高雄",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "bchoice",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781483716.A.4A7.html",
-    "date": "6/15",
-    "lastSeen": "2026-06-16T23:18:06.348Z"
-  },
-  {
-    "id": "ptt-已徵得-i-12100-g7400",
-    "name": "已徵得 i-12100/G7400",
-    "brand": "其他",
-    "category": "other",
-    "price": 7400,
-    "action": "徵/高雄",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "CNegative",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781503361.A.5C5.html",
-    "date": "6/15",
-    "lastSeen": "2026-06-16T23:18:06.348Z"
+    "lastSeen": "2026-06-17T13:36:08.813Z"
   }
 ]
