@@ -13,7 +13,7 @@
     "author": "cds13188",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781599664.A.887.html",
     "date": "6/16",
-    "lastSeen": "2026-06-17T23:17:08.968Z"
+    "lastSeen": "2026-06-18T12:45:03.522Z"
   },
   {
     "id": "ptt-華碩-b-g-i7-8700-美光-bx500",
@@ -29,7 +29,7 @@
     "author": "tg5oc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781625932.A.6AB.html",
     "date": "6/17",
-    "lastSeen": "2026-06-17T23:17:08.967Z"
+    "lastSeen": "2026-06-18T12:45:03.522Z"
   },
   {
     "id": "ptt-dell-ultrasharp-uq-ac511",
@@ -45,39 +45,71 @@
     "author": "dartslive",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781668238.A.197.html",
     "date": "6/17",
-    "lastSeen": "2026-06-17T23:17:08.967Z"
+    "lastSeen": "2026-06-18T12:45:03.522Z"
   },
   {
-    "id": "ptt-nb-d8g-16g-2666-3200",
-    "name": "NB D8G/16G 2666/3200",
+    "id": "ptt-威剛-ddrd50-8gx4-3200-3600",
+    "name": "威剛 DDRD50 8Gx4 3200 3600",
     "brand": "其他",
-    "category": "motherboard",
-    "price": 3200,
-    "action": "徵/竹苗",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "apley",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781527272.A.697.html",
-    "date": "6/15",
-    "lastSeen": "2026-06-17T23:17:08.968Z"
-  },
-  {
-    "id": "ptt-技嘉vision8g白-amd-r5-3600",
-    "name": "技嘉Vision8G白 AMD R5 3600",
-    "brand": "AMD",
     "category": "other",
     "price": 3600,
-    "action": "賣/全國",
+    "action": "賣/雙北",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "rei0129",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781538403.A.04B.html",
-    "date": "6/15",
-    "lastSeen": "2026-06-17T23:17:08.968Z"
+    "author": "jogy",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781744789.A.3A6.html",
+    "date": "6/18",
+    "lastSeen": "2026-06-18T12:45:03.522Z"
+  },
+  {
+    "id": "ptt-徵板跟u-bm-a520m-r5-5600",
+    "name": "徵板跟U～BM a520m～R5 5600",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 5600,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "auoei",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781753218.A.7A8.html",
+    "date": "6/18",
+    "lastSeen": "2026-06-18T12:45:03.521Z"
+  },
+  {
+    "id": "ptt-保固內-微星魔龍-msi-rx",
+    "name": "保固內 微星魔龍 MSI RX",
+    "brand": "微星",
+    "category": "gpu",
+    "price": 6800,
+    "action": "賣/台中",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "asdf1041",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781744664.A.084.html",
+    "date": "6/18",
+    "lastSeen": "2026-06-18T12:45:03.522Z"
+  },
+  {
+    "id": "ptt-i-7400",
+    "name": "I_7400",
+    "brand": "其他",
+    "category": "other",
+    "price": 7400,
+    "action": "賣/新北",
+    "location": "賣貨便",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "k360",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781774190.A.046.html",
+    "date": "6/18",
+    "lastSeen": "2026-06-18T12:45:03.522Z"
   },
   {
     "id": "ptt-i12400",
@@ -93,6 +125,6 @@
     "author": "cpc76831812",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781713069.A.508.html",
     "date": "6/18",
-    "lastSeen": "2026-06-17T23:17:08.967Z"
+    "lastSeen": "2026-06-18T12:45:03.522Z"
   }
 ]
