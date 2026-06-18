@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-ausu-滑鼠-md",
-    "name": "AUSU 滑鼠 MD",
-    "brand": "其他",
-    "category": "peripheral",
-    "price": 300,
-    "action": "賣/雙北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "cds13188",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781599664.A.887.html",
-    "date": "6/16",
-    "lastSeen": "2026-06-18T12:45:03.522Z"
-  },
-  {
     "id": "ptt-華碩-b-g-i7-8700-美光-bx500",
     "name": "華碩 B-G+i7-8700 美光 BX500",
     "brand": "華碩",
@@ -29,7 +13,7 @@
     "author": "tg5oc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781625932.A.6AB.html",
     "date": "6/17",
-    "lastSeen": "2026-06-18T12:45:03.522Z"
+    "lastSeen": "2026-06-18T23:28:56.449Z"
   },
   {
     "id": "ptt-dell-ultrasharp-uq-ac511",
@@ -45,7 +29,23 @@
     "author": "dartslive",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781668238.A.197.html",
     "date": "6/17",
-    "lastSeen": "2026-06-18T12:45:03.522Z"
+    "lastSeen": "2026-06-18T23:28:56.449Z"
+  },
+  {
+    "id": "ptt-x半套-b660m-z790",
+    "name": "X半套/B660m/Z790",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 790,
+    "action": "賣/高雄",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "TWMoose",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781814632.A.98D.html",
+    "date": "6/19",
+    "lastSeen": "2026-06-18T23:28:56.448Z"
   },
   {
     "id": "ptt-威剛-ddrd50-8gx4-3200-3600",
@@ -61,7 +61,7 @@
     "author": "jogy",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781744789.A.3A6.html",
     "date": "6/18",
-    "lastSeen": "2026-06-18T12:45:03.522Z"
+    "lastSeen": "2026-06-18T23:28:56.449Z"
   },
   {
     "id": "ptt-徵板跟u-bm-a520m-r5-5600",
@@ -77,7 +77,7 @@
     "author": "auoei",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781753218.A.7A8.html",
     "date": "6/18",
-    "lastSeen": "2026-06-18T12:45:03.521Z"
+    "lastSeen": "2026-06-18T23:28:56.448Z"
   },
   {
     "id": "ptt-保固內-微星魔龍-msi-rx",
@@ -86,14 +86,14 @@
     "category": "gpu",
     "price": 6800,
     "action": "賣/台中",
-    "location": "面交",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
     "author": "asdf1041",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781744664.A.084.html",
     "date": "6/18",
-    "lastSeen": "2026-06-18T12:45:03.522Z"
+    "lastSeen": "2026-06-18T23:28:56.449Z"
   },
   {
     "id": "ptt-i-7400",
@@ -109,7 +109,7 @@
     "author": "k360",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781774190.A.046.html",
     "date": "6/18",
-    "lastSeen": "2026-06-18T12:45:03.522Z"
+    "lastSeen": "2026-06-18T23:28:56.449Z"
   },
   {
     "id": "ptt-i12400",
@@ -125,6 +125,6 @@
     "author": "cpc76831812",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781713069.A.508.html",
     "date": "6/18",
-    "lastSeen": "2026-06-18T12:45:03.522Z"
+    "lastSeen": "2026-06-18T23:28:56.449Z"
   }
 ]
