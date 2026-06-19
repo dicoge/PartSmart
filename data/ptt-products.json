@@ -13,7 +13,7 @@
     "author": "jack999hhh95",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781861906.A.63A.html",
     "date": "6/19",
-    "lastSeen": "2026-06-19T13:27:29.742Z"
+    "lastSeen": "2026-06-19T22:44:24.685Z"
   },
   {
     "id": "ptt-x半套-b660m-z790",
@@ -29,7 +29,23 @@
     "author": "TWMoose",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781814632.A.98D.html",
     "date": "6/19",
-    "lastSeen": "2026-06-19T13:27:29.743Z"
+    "lastSeen": "2026-06-19T22:44:24.686Z"
+  },
+  {
+    "id": "ptt-rtx-ti-rtx-3070",
+    "name": "RTX Ti / RTX 3070",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3070,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ianlee0800",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781898159.A.5E5.html",
+    "date": "6/20",
+    "lastSeen": "2026-06-19T22:44:24.685Z"
   },
   {
     "id": "ptt-matx-機殼-創建ddr8g-3200",
@@ -45,11 +61,11 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781872294.A.341.html",
     "date": "6/19",
-    "lastSeen": "2026-06-19T13:27:29.743Z"
+    "lastSeen": "2026-06-19T22:44:24.686Z"
   },
   {
-    "id": "ptt-已售出-謝謝買賣-威剛-ddrd50-8gx4-3200-3600",
-    "name": "已售出 謝謝買賣��� 威剛 DDRD50 8Gx4 3200 3600",
+    "id": "ptt-已售出-謝謝買賣版-威剛-ddrd50-8gx4-3200-3600",
+    "name": "已售出 謝謝買賣版 威剛 DDRD50 8Gx4 3200 3600",
     "brand": "其他",
     "category": "other",
     "price": 3600,
@@ -61,23 +77,7 @@
     "author": "jogy",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781744789.A.3A6.html",
     "date": "6/18",
-    "lastSeen": "2026-06-19T13:27:29.744Z"
-  },
-  {
-    "id": "ptt-徵r5600",
-    "name": "徵R5600",
-    "brand": "其他",
-    "category": "other",
-    "price": 5600,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "auoei",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781753218.A.7A8.html",
-    "date": "6/18",
-    "lastSeen": "2026-06-19T13:27:29.743Z"
+    "lastSeen": "2026-06-19T22:44:24.686Z"
   },
   {
     "id": "ptt-保固內-微星魔龍-msi-rx",
@@ -93,7 +93,7 @@
     "author": "asdf1041",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781744664.A.084.html",
     "date": "6/18",
-    "lastSeen": "2026-06-19T13:27:29.744Z"
+    "lastSeen": "2026-06-19T22:44:24.686Z"
   },
   {
     "id": "ptt-i-7400",
@@ -109,7 +109,7 @@
     "author": "k360",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781774190.A.046.html",
     "date": "6/18",
-    "lastSeen": "2026-06-19T13:27:29.743Z"
+    "lastSeen": "2026-06-19T22:44:24.686Z"
   },
   {
     "id": "ptt-i12400",
@@ -125,6 +125,6 @@
     "author": "cpc76831812",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781713069.A.508.html",
     "date": "6/18",
-    "lastSeen": "2026-06-19T13:27:29.744Z"
+    "lastSeen": "2026-06-19T22:44:24.686Z"
   }
 ]
