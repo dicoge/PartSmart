@@ -13,23 +13,39 @@
     "author": "jack999hhh95",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781861906.A.63A.html",
     "date": "6/19",
-    "lastSeen": "2026-06-20T11:50:53.182Z"
+    "lastSeen": "2026-06-20T22:58:34.851Z"
   },
   {
-    "id": "ptt-x半套-b660m-z790",
-    "name": "X半套/B660m/Z790",
+    "id": "ptt-x-e-c8h-wifi-其他x570",
+    "name": "X-E /C8H WiFi 其他X570",
     "brand": "其他",
     "category": "motherboard",
-    "price": 790,
-    "action": "賣/高雄",
+    "price": 570,
+    "action": "徵/高雄台南",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "TWMoose",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781814632.A.98D.html",
-    "date": "6/19",
-    "lastSeen": "2026-06-20T11:50:53.183Z"
+    "author": "s70076",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781959935.A.EB7.html",
+    "date": "6/20",
+    "lastSeen": "2026-06-20T22:58:34.850Z"
+  },
+  {
+    "id": "ptt-筆電ddr4g-2133-2400",
+    "name": "筆電DDR4G 2133/2400",
+    "brand": "其他",
+    "category": "ram",
+    "price": 2400,
+    "action": "徵/高雄",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "mucky",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781958561.A.990.html",
+    "date": "6/20",
+    "lastSeen": "2026-06-20T22:58:34.849Z"
   },
   {
     "id": "ptt-rtx-ti-rtx-3070",
@@ -45,7 +61,7 @@
     "author": "ianlee0800",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781898159.A.5E5.html",
     "date": "6/20",
-    "lastSeen": "2026-06-20T11:50:53.181Z"
+    "lastSeen": "2026-06-20T22:58:34.850Z"
   },
   {
     "id": "ptt-matx-機殼-創建ddr8g-3200",
@@ -61,22 +77,6 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781872294.A.341.html",
     "date": "6/19",
-    "lastSeen": "2026-06-20T11:50:53.183Z"
-  },
-  {
-    "id": "ptt-i-7400",
-    "name": "I_7400",
-    "brand": "其他",
-    "category": "other",
-    "price": 7400,
-    "action": "賣/新北",
-    "location": "賣貨便",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "k360",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1781774190.A.046.html",
-    "date": "6/18",
-    "lastSeen": "2026-06-20T11:50:53.183Z"
+    "lastSeen": "2026-06-20T22:58:34.850Z"
   }
 ]
