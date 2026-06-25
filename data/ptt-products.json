@@ -1,19 +1,19 @@
 [
   {
-    "id": "ptt-半套-10700-3050-1650-550",
-    "name": "半套/10700/3050/1650/550",
+    "id": "ptt-ti-12400-b660m-750w-ag400",
+    "name": "TI/12400/B660M/750W/AG400",
     "brand": "其他",
-    "category": "other",
-    "price": 550,
+    "category": "motherboard",
+    "price": 400,
     "action": "賣/全國",
     "location": "寄送",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "shanzhang",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782198860.A.1C2.html",
-    "date": "6/23",
-    "lastSeen": "2026-06-25T10:55:01.485Z"
+    "author": "yomi54801",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782409133.A.6AB.html",
+    "date": "6/26",
+    "lastSeen": "2026-06-25T22:29:21.939Z"
   },
   {
     "id": "ptt-x3d-b850",
@@ -29,7 +29,7 @@
     "author": "garyshao",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782373047.A.CD5.html",
     "date": "6/25",
-    "lastSeen": "2026-06-25T10:55:01.483Z"
+    "lastSeen": "2026-06-25T22:29:21.940Z"
   },
   {
     "id": "ptt-eizo-ev",
@@ -45,7 +45,7 @@
     "author": "dscndg",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782275169.A.767.html",
     "date": "6/24",
-    "lastSeen": "2026-06-25T10:55:01.484Z"
+    "lastSeen": "2026-06-25T22:29:21.940Z"
   },
   {
     "id": "ptt-hynix-ddr2666",
@@ -61,7 +61,7 @@
     "author": "oceanusX",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782224874.A.EF6.html",
     "date": "6/23",
-    "lastSeen": "2026-06-25T10:55:01.485Z"
+    "lastSeen": "2026-06-25T22:29:21.941Z"
   },
   {
     "id": "ptt-洽中暫時勿來信-nb-ddr8g-samsung-4800",
@@ -77,22 +77,22 @@
     "author": "besthank",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782220140.A.545.html",
     "date": "6/23",
-    "lastSeen": "2026-06-25T10:55:01.484Z"
+    "lastSeen": "2026-06-25T22:29:21.941Z"
   },
   {
-    "id": "ptt-r5600",
-    "name": "R5600",
-    "brand": "其他",
+    "id": "ptt-intel-cpu-i-9700",
+    "name": "Intel cpu. I-9700",
+    "brand": "Intel",
     "category": "other",
-    "price": 5600,
-    "action": "徵/雙北",
+    "price": 9700,
+    "action": "徵/全國",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "emalleric",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782205749.A.E57.html",
-    "date": "6/23",
-    "lastSeen": "2026-06-25T10:55:01.485Z"
+    "author": "kinco",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782388261.A.6EF.html",
+    "date": "6/25",
+    "lastSeen": "2026-06-25T22:29:21.940Z"
   }
 ]
