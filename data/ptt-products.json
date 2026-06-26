@@ -13,7 +13,7 @@
     "author": "hsumingchun8",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782458291.A.54D.html",
     "date": "6/26",
-    "lastSeen": "2026-06-26T10:59:06.967Z"
+    "lastSeen": "2026-06-26T22:25:05.265Z"
   },
   {
     "id": "ptt-ti-12400-b660m-750w-ag400",
@@ -29,7 +29,7 @@
     "author": "yomi54801",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782409133.A.6AB.html",
     "date": "6/26",
-    "lastSeen": "2026-06-26T10:59:06.968Z"
+    "lastSeen": "2026-06-26T22:25:05.266Z"
   },
   {
     "id": "ptt-羅技-gtkl-mxkeys-k580",
@@ -45,7 +45,7 @@
     "author": "landy600",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782443836.A.68C.html",
     "date": "6/26",
-    "lastSeen": "2026-06-26T10:59:06.968Z"
+    "lastSeen": "2026-06-26T22:25:05.266Z"
   },
   {
     "id": "ptt-x3d-b850",
@@ -61,23 +61,7 @@
     "author": "garyshao",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782373047.A.CD5.html",
     "date": "6/25",
-    "lastSeen": "2026-06-26T10:59:06.969Z"
-  },
-  {
-    "id": "ptt-eizo-ev",
-    "name": "EIZO EV",
-    "brand": "其他",
-    "category": "other",
-    "price": 2485,
-    "action": "賣/雙北",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "dscndg",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782275169.A.767.html",
-    "date": "6/24",
-    "lastSeen": "2026-06-26T10:59:06.969Z"
+    "lastSeen": "2026-06-26T22:25:05.266Z"
   },
   {
     "id": "ptt-intel-cpu-i-9700",
@@ -93,6 +77,22 @@
     "author": "kinco",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782388261.A.6EF.html",
     "date": "6/25",
-    "lastSeen": "2026-06-26T10:59:06.969Z"
+    "lastSeen": "2026-06-26T22:25:05.266Z"
+  },
+  {
+    "id": "ptt-zotac-ti-solid-sff-27000",
+    "name": "Zotac ti Solid SFF$27000",
+    "brand": "其他",
+    "category": "other",
+    "price": 27000,
+    "action": "賣/全國",
+    "location": "寄送",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "fbifxxkma",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782465634.A.8FF.html",
+    "date": "6/26",
+    "lastSeen": "2026-06-26T22:25:05.266Z"
   }
 ]
