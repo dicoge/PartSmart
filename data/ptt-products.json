@@ -1,5 +1,21 @@
 [
   {
+    "id": "ptt-新竹msi-z-a-wifi-i5-13600k-pa120",
+    "name": "新竹MSI Z-A Wifi / i5-13600k/PA120",
+    "brand": "MSI",
+    "category": "cpu",
+    "price": 120,
+    "action": "賣/",
+    "location": "",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "hsumingchun8",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782458291.A.54D.html",
+    "date": "6/26",
+    "lastSeen": "2026-06-26T10:59:06.967Z"
+  },
+  {
     "id": "ptt-ti-12400-b660m-750w-ag400",
     "name": "TI/12400/B660M/750W/AG400",
     "brand": "其他",
@@ -13,7 +29,23 @@
     "author": "yomi54801",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782409133.A.6AB.html",
     "date": "6/26",
-    "lastSeen": "2026-06-25T22:29:21.939Z"
+    "lastSeen": "2026-06-26T10:59:06.968Z"
+  },
+  {
+    "id": "ptt-羅技-gtkl-mxkeys-k580",
+    "name": "羅技 GTKL MXKeys K580",
+    "brand": "羅技",
+    "category": "other",
+    "price": 580,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "landy600",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782443836.A.68C.html",
+    "date": "6/26",
+    "lastSeen": "2026-06-26T10:59:06.968Z"
   },
   {
     "id": "ptt-x3d-b850",
@@ -29,7 +61,7 @@
     "author": "garyshao",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782373047.A.CD5.html",
     "date": "6/25",
-    "lastSeen": "2026-06-25T22:29:21.940Z"
+    "lastSeen": "2026-06-26T10:59:06.969Z"
   },
   {
     "id": "ptt-eizo-ev",
@@ -45,39 +77,7 @@
     "author": "dscndg",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782275169.A.767.html",
     "date": "6/24",
-    "lastSeen": "2026-06-25T22:29:21.940Z"
-  },
-  {
-    "id": "ptt-hynix-ddr2666",
-    "name": "HYNIX DDR2666",
-    "brand": "其他",
-    "category": "other",
-    "price": 2666,
-    "action": "徵/台北",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "oceanusX",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782224874.A.EF6.html",
-    "date": "6/23",
-    "lastSeen": "2026-06-25T22:29:21.941Z"
-  },
-  {
-    "id": "ptt-洽中暫時勿來信-nb-ddr8g-samsung-4800",
-    "name": "洽中暫時勿來信 nb ddr8G Samsung 4800",
-    "brand": "Samsung",
-    "category": "other",
-    "price": 4800,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "besthank",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782220140.A.545.html",
-    "date": "6/23",
-    "lastSeen": "2026-06-25T22:29:21.941Z"
+    "lastSeen": "2026-06-26T10:59:06.969Z"
   },
   {
     "id": "ptt-intel-cpu-i-9700",
@@ -93,6 +93,6 @@
     "author": "kinco",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782388261.A.6EF.html",
     "date": "6/25",
-    "lastSeen": "2026-06-25T22:29:21.940Z"
+    "lastSeen": "2026-06-26T10:59:06.969Z"
   }
 ]
