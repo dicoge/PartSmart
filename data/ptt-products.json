@@ -13,7 +13,7 @@
     "author": "hsumingchun8",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782458291.A.54D.html",
     "date": "6/26",
-    "lastSeen": "2026-06-26T22:25:05.265Z"
+    "lastSeen": "2026-06-27T10:37:34.068Z"
   },
   {
     "id": "ptt-ti-12400-b660m-750w-ag400",
@@ -29,7 +29,7 @@
     "author": "yomi54801",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782409133.A.6AB.html",
     "date": "6/26",
-    "lastSeen": "2026-06-26T22:25:05.266Z"
+    "lastSeen": "2026-06-27T10:37:34.069Z"
   },
   {
     "id": "ptt-羅技-gtkl-mxkeys-k580",
@@ -45,7 +45,7 @@
     "author": "landy600",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782443836.A.68C.html",
     "date": "6/26",
-    "lastSeen": "2026-06-26T22:25:05.266Z"
+    "lastSeen": "2026-06-27T10:37:34.069Z"
   },
   {
     "id": "ptt-x3d-b850",
@@ -61,7 +61,55 @@
     "author": "garyshao",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782373047.A.CD5.html",
     "date": "6/25",
-    "lastSeen": "2026-06-26T22:25:05.266Z"
+    "lastSeen": "2026-06-27T10:37:34.069Z"
+  },
+  {
+    "id": "ptt-羅技鍵盤ergo-k",
+    "name": "羅技鍵盤ERGO K",
+    "brand": "羅技",
+    "category": "peripheral",
+    "price": 860,
+    "action": "徵/雙北",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "jun721111",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782536001.A.964.html",
+    "date": "6/27",
+    "lastSeen": "2026-06-27T10:37:34.068Z"
+  },
+  {
+    "id": "ptt-徵-12g-或-4060",
+    "name": "徵-12G 或 4060",
+    "brand": "其他",
+    "category": "other",
+    "price": 4060,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "MilkerMdot",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782542411.A.428.html",
+    "date": "6/27",
+    "lastSeen": "2026-06-27T10:37:34.068Z"
+  },
+  {
+    "id": "ptt-rtx",
+    "name": "RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 4070,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "abearkk",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782540671.A.F9B.html",
+    "date": "6/27",
+    "lastSeen": "2026-06-27T10:37:34.068Z"
   },
   {
     "id": "ptt-intel-cpu-i-9700",
@@ -77,7 +125,23 @@
     "author": "kinco",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782388261.A.6EF.html",
     "date": "6/25",
-    "lastSeen": "2026-06-26T22:25:05.266Z"
+    "lastSeen": "2026-06-27T10:37:34.069Z"
+  },
+  {
+    "id": "ptt-cpu-i-10100",
+    "name": "cpu i-10100",
+    "brand": "其他",
+    "category": "other",
+    "price": 10100,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "shinloveu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782531878.A.FFF.html",
+    "date": "6/27",
+    "lastSeen": "2026-06-27T10:37:34.068Z"
   },
   {
     "id": "ptt-zotac-ti-solid-sff-27000",
@@ -93,6 +157,6 @@
     "author": "fbifxxkma",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782465634.A.8FF.html",
     "date": "6/26",
-    "lastSeen": "2026-06-26T22:25:05.266Z"
+    "lastSeen": "2026-06-27T10:37:34.069Z"
   }
 ]
