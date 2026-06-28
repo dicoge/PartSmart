@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-新竹msi-z-a-wifi-i5-13600k-pa120",
-    "name": "新竹MSI Z-A Wifi / i5-13600k/PA120",
-    "brand": "MSI",
-    "category": "cpu",
-    "price": 120,
-    "action": "賣/",
-    "location": "",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "hsumingchun8",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782458291.A.54D.html",
-    "date": "6/26",
-    "lastSeen": "2026-06-27T22:21:19.783Z"
-  },
-  {
     "id": "ptt-美光-mx",
     "name": "美光 MX",
     "brand": "美光",
@@ -29,7 +13,7 @@
     "author": "sailingday",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782558674.A.867.html",
     "date": "6/27",
-    "lastSeen": "2026-06-27T22:21:19.782Z"
+    "lastSeen": "2026-06-28T10:42:58.577Z"
   },
   {
     "id": "ptt-羅技鍵盤ergo-k",
@@ -45,7 +29,23 @@
     "author": "jun721111",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782536001.A.964.html",
     "date": "6/27",
-    "lastSeen": "2026-06-27T22:21:19.783Z"
+    "lastSeen": "2026-06-28T10:42:58.577Z"
+  },
+  {
+    "id": "ptt-售-ti-1060",
+    "name": "售 Ti/1060",
+    "brand": "其他",
+    "category": "other",
+    "price": 1060,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ru19",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782614457.A.541.html",
+    "date": "6/28",
+    "lastSeen": "2026-06-28T10:42:58.576Z"
   },
   {
     "id": "ptt-rx-rx570-rx580-gtx1060",
@@ -61,7 +61,7 @@
     "author": "zerhbbo78",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782562324.A.3A1.html",
     "date": "6/27",
-    "lastSeen": "2026-06-27T22:21:19.782Z"
+    "lastSeen": "2026-06-28T10:42:58.577Z"
   },
   {
     "id": "ptt-徵-12g-或-4060",
@@ -77,7 +77,7 @@
     "author": "MilkerMdot",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782542411.A.428.html",
     "date": "6/27",
-    "lastSeen": "2026-06-27T22:21:19.783Z"
+    "lastSeen": "2026-06-28T10:42:58.577Z"
   },
   {
     "id": "ptt-rtx",
@@ -93,7 +93,23 @@
     "author": "abearkk",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782540671.A.F9B.html",
     "date": "6/27",
-    "lastSeen": "2026-06-27T22:21:19.783Z"
+    "lastSeen": "2026-06-28T10:42:58.577Z"
+  },
+  {
+    "id": "ptt-razer-pro-click-mini-cherry-mw",
+    "name": "Razer Pro Click Mini、Cherry MW",
+    "brand": "Razer",
+    "category": "other",
+    "price": 5180,
+    "action": "賣/新莊",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ted10",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782613668.A.50C.html",
+    "date": "6/28",
+    "lastSeen": "2026-06-28T10:42:58.576Z"
   },
   {
     "id": "ptt-intel-cpu-i-8700",
@@ -109,7 +125,7 @@
     "author": "as9d",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782563104.A.CD0.html",
     "date": "6/27",
-    "lastSeen": "2026-06-27T22:21:19.782Z"
+    "lastSeen": "2026-06-28T10:42:58.577Z"
   },
   {
     "id": "ptt-cpu-i-10100",
@@ -125,22 +141,6 @@
     "author": "shinloveu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782531878.A.FFF.html",
     "date": "6/27",
-    "lastSeen": "2026-06-27T22:21:19.782Z"
-  },
-  {
-    "id": "ptt-zotac-ti-solid-sff-27000",
-    "name": "Zotac ti Solid SFF$27000",
-    "brand": "其他",
-    "category": "other",
-    "price": 27000,
-    "action": "賣/全國",
-    "location": "寄送",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "fbifxxkma",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1782465634.A.8FF.html",
-    "date": "6/26",
-    "lastSeen": "2026-06-27T22:21:19.783Z"
+    "lastSeen": "2026-06-28T10:42:58.577Z"
   }
 ]
