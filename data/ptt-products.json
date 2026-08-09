@@ -13,23 +13,23 @@
     "author": "whazcuat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786257708.A.53A.html",
     "date": "8/09",
-    "lastSeen": "2026-08-09T10:22:12.035Z"
+    "lastSeen": "2026-08-09T22:20:13.831Z"
   },
   {
-    "id": "ptt-mssd-gen3-1t或512",
-    "name": "MSSD Gen3 1T或512",
+    "id": "ptt-w-4t-b360-b550-gt1030-rx570",
+    "name": "W 4T B360 B550 GT1030 RX570",
     "brand": "其他",
-    "category": "ssd",
-    "price": 512,
-    "action": "徵/全國",
+    "category": "motherboard",
+    "price": 570,
+    "action": "賣/全國",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "johnny972329",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786068465.A.FB7.html",
-    "date": "8/07",
-    "lastSeen": "2026-08-09T10:22:12.036Z"
+    "author": "realfire",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786291109.A.3E7.html",
+    "date": "8/09",
+    "lastSeen": "2026-08-09T22:20:13.830Z"
   },
   {
     "id": "ptt-bi-sf600",
@@ -45,7 +45,7 @@
     "author": "BAKAUSAGI",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786190073.A.2FC.html",
     "date": "8/08",
-    "lastSeen": "2026-08-09T10:22:12.035Z"
+    "lastSeen": "2026-08-09T22:20:13.831Z"
   },
   {
     "id": "ptt-dell-uqe-a80-nr980",
@@ -61,7 +61,7 @@
     "author": "as255287",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786182781.A.422.html",
     "date": "8/08",
-    "lastSeen": "2026-08-09T10:22:12.036Z"
+    "lastSeen": "2026-08-09T22:20:13.831Z"
   },
   {
     "id": "ptt-金士頓筆電ddr2400",
@@ -77,7 +77,23 @@
     "author": "chluo",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786263331.A.27D.html",
     "date": "8/09",
-    "lastSeen": "2026-08-09T10:22:12.034Z"
+    "lastSeen": "2026-08-09T22:20:13.830Z"
+  },
+  {
+    "id": "ptt-顯卡rtx",
+    "name": "顯卡RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3070,
+    "action": "徵/高雄",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "victorchc",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786289566.A.BDE.html",
+    "date": "8/09",
+    "lastSeen": "2026-08-09T22:20:13.830Z"
   },
   {
     "id": "ptt-rtx-3080",
@@ -93,7 +109,7 @@
     "author": "eggbao",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786208562.A.023.html",
     "date": "8/09",
-    "lastSeen": "2026-08-09T10:22:12.035Z"
+    "lastSeen": "2026-08-09T22:20:13.831Z"
   },
   {
     "id": "ptt-i-6700",
@@ -109,22 +125,6 @@
     "author": "exodusx",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786178461.A.99A.html",
     "date": "8/08",
-    "lastSeen": "2026-08-09T10:22:12.036Z"
-  },
-  {
-    "id": "ptt-gigabyte-rx",
-    "name": "GIGABYTE RX",
-    "brand": "GIGABYTE",
-    "category": "gpu",
-    "price": 6800,
-    "action": "賣/台北",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "woow1225",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786101738.A.9DA.html",
-    "date": "8/07",
-    "lastSeen": "2026-08-09T10:22:12.036Z"
+    "lastSeen": "2026-08-09T22:20:13.831Z"
   }
 ]
