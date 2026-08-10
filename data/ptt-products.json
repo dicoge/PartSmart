@@ -13,7 +13,7 @@
     "author": "whazcuat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786257708.A.53A.html",
     "date": "8/09",
-    "lastSeen": "2026-08-09T22:20:13.831Z"
+    "lastSeen": "2026-08-10T10:57:21.064Z"
   },
   {
     "id": "ptt-w-4t-b360-b550-gt1030-rx570",
@@ -29,39 +29,23 @@
     "author": "realfire",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786291109.A.3E7.html",
     "date": "8/09",
-    "lastSeen": "2026-08-09T22:20:13.830Z"
+    "lastSeen": "2026-08-10T10:57:21.064Z"
   },
   {
-    "id": "ptt-bi-sf600",
-    "name": "Bi、SF600",
-    "brand": "其他",
-    "category": "other",
-    "price": 600,
-    "action": "賣/全國",
-    "location": "超商",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "BAKAUSAGI",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786190073.A.2FC.html",
-    "date": "8/08",
-    "lastSeen": "2026-08-09T22:20:13.831Z"
-  },
-  {
-    "id": "ptt-dell-uqe-a80-nr980",
-    "name": "DELL UQE A80 NR980",
+    "id": "ptt-以全售-r-5600x-b550-ddr4-3600-1060",
+    "name": "以全售 R-5600X+B550+DDR4 3600+1060",
     "brand": "其他",
     "category": "motherboard",
-    "price": 980,
-    "action": "賣/台北",
+    "price": 1060,
+    "action": "賣/淡水",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "as255287",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786182781.A.422.html",
-    "date": "8/08",
-    "lastSeen": "2026-08-09T22:20:13.831Z"
+    "author": "lanjack",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786321955.A.064.html",
+    "date": "8/10",
+    "lastSeen": "2026-08-10T10:57:21.064Z"
   },
   {
     "id": "ptt-金士頓筆電ddr2400",
@@ -77,23 +61,7 @@
     "author": "chluo",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786263331.A.27D.html",
     "date": "8/09",
-    "lastSeen": "2026-08-09T22:20:13.830Z"
-  },
-  {
-    "id": "ptt-顯卡rtx",
-    "name": "顯卡RTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 3070,
-    "action": "徵/高雄",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "victorchc",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786289566.A.BDE.html",
-    "date": "8/09",
-    "lastSeen": "2026-08-09T22:20:13.830Z"
+    "lastSeen": "2026-08-10T10:57:21.064Z"
   },
   {
     "id": "ptt-rtx-3080",
@@ -109,22 +77,54 @@
     "author": "eggbao",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786208562.A.023.html",
     "date": "8/09",
-    "lastSeen": "2026-08-09T22:20:13.831Z"
+    "lastSeen": "2026-08-10T10:57:21.064Z"
   },
   {
-    "id": "ptt-i-6700",
-    "name": "i-6700",
+    "id": "ptt-nvidia-rtx",
+    "name": "Nvidia RTX",
     "brand": "其他",
-    "category": "other",
-    "price": 6700,
-    "action": "賣/全國",
-    "location": "寄送",
+    "category": "gpu",
+    "price": 3090,
+    "action": "徵/新竹台北",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "exodusx",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786178461.A.99A.html",
-    "date": "8/08",
-    "lastSeen": "2026-08-09T22:20:13.831Z"
+    "author": "chrisnavy",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786334143.A.ED5.html",
+    "date": "8/10",
+    "lastSeen": "2026-08-10T10:57:21.063Z"
+  },
+  {
+    "id": "ptt-rtx",
+    "name": "RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 5080,
+    "action": "徵/台南",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "Qiyana",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786353264.A.B0C.html",
+    "date": "8/10",
+    "lastSeen": "2026-08-10T10:57:21.064Z"
+  },
+  {
+    "id": "ptt-i-11700-i9-11900",
+    "name": "i-11700 i9-11900",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 11900,
+    "action": "徵/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "entersoso",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786347744.A.319.html",
+    "date": "8/10",
+    "lastSeen": "2026-08-10T10:57:21.064Z"
   }
 ]
