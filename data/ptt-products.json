@@ -1,19 +1,19 @@
 [
   {
-    "id": "ptt-i8400-h310-z370-h510",
-    "name": "i8400/H310/Z370/H510",
+    "id": "ptt-筆電記憶體samsung-ddr320",
+    "name": "筆電記憶體samsung ddr320",
     "brand": "其他",
-    "category": "motherboard",
-    "price": 510,
-    "action": "賣/雙北",
-    "location": "皆可",
+    "category": "ram",
+    "price": 320,
+    "action": "賣/台北桃園",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "whazcuat",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786257708.A.53A.html",
-    "date": "8/09",
-    "lastSeen": "2026-08-10T22:26:57.533Z"
+    "author": "soulin",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786444060.A.DD4.html",
+    "date": "8/11",
+    "lastSeen": "2026-08-11T10:41:10.187Z"
   },
   {
     "id": "ptt-w-4t-b360-b550-gt1030-rx570",
@@ -29,7 +29,23 @@
     "author": "realfire",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786291109.A.3E7.html",
     "date": "8/09",
-    "lastSeen": "2026-08-10T22:26:57.532Z"
+    "lastSeen": "2026-08-11T10:41:10.188Z"
+  },
+  {
+    "id": "ptt-zddr4-d4-z690-b760",
+    "name": "ZDDR4 D4 Z690 B760",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 760,
+    "action": "徵/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "soweigift",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786408705.A.FB7.html",
+    "date": "8/11",
+    "lastSeen": "2026-08-11T10:41:10.187Z"
   },
   {
     "id": "ptt-以全售-r-5600x-b550-ddr4-3600-1060",
@@ -45,7 +61,7 @@
     "author": "lanjack",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786321955.A.064.html",
     "date": "8/10",
-    "lastSeen": "2026-08-10T22:26:57.533Z"
+    "lastSeen": "2026-08-11T10:41:10.188Z"
   },
   {
     "id": "ptt-g-原廠扇mx-4散熱膏-1151",
@@ -61,23 +77,7 @@
     "author": "cs01580",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786354060.A.3A8.html",
     "date": "8/10",
-    "lastSeen": "2026-08-10T22:26:57.532Z"
-  },
-  {
-    "id": "ptt-金士頓筆電ddr2400",
-    "name": "金士頓筆電DDR2400",
-    "brand": "金士頓",
-    "category": "laptop",
-    "price": 2400,
-    "action": "賣/雙北",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "chluo",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786263331.A.27D.html",
-    "date": "8/09",
-    "lastSeen": "2026-08-10T22:26:57.533Z"
+    "lastSeen": "2026-08-11T10:41:10.188Z"
   },
   {
     "id": "ptt-已售出-sevga-geforce-rtx",
@@ -93,23 +93,7 @@
     "author": "Entzu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786373427.A.B7A.html",
     "date": "8/10",
-    "lastSeen": "2026-08-10T22:26:57.532Z"
-  },
-  {
-    "id": "ptt-rtx-3080",
-    "name": "RTX 3080",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 3080,
-    "action": "徵/新竹",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "eggbao",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786208562.A.023.html",
-    "date": "8/09",
-    "lastSeen": "2026-08-10T22:26:57.533Z"
+    "lastSeen": "2026-08-11T10:41:10.188Z"
   },
   {
     "id": "ptt-nvidia-rtx",
@@ -125,7 +109,7 @@
     "author": "chrisnavy",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786334143.A.ED5.html",
     "date": "8/10",
-    "lastSeen": "2026-08-10T22:26:57.532Z"
+    "lastSeen": "2026-08-11T10:41:10.188Z"
   },
   {
     "id": "ptt-rtx",
@@ -141,7 +125,7 @@
     "author": "Qiyana",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786353264.A.B0C.html",
     "date": "8/10",
-    "lastSeen": "2026-08-10T22:26:57.532Z"
+    "lastSeen": "2026-08-11T10:41:10.188Z"
   },
   {
     "id": "ptt-i-11700-i9-11900",
@@ -157,6 +141,6 @@
     "author": "entersoso",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786347744.A.319.html",
     "date": "8/10",
-    "lastSeen": "2026-08-10T22:26:57.532Z"
+    "lastSeen": "2026-08-11T10:41:10.188Z"
   }
 ]
