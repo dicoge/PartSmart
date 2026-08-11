@@ -13,23 +13,23 @@
     "author": "soulin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786444060.A.DD4.html",
     "date": "8/11",
-    "lastSeen": "2026-08-11T10:41:10.187Z"
+    "lastSeen": "2026-08-11T22:32:10.130Z"
   },
   {
-    "id": "ptt-w-4t-b360-b550-gt1030-rx570",
-    "name": "W 4T B360 B550 GT1030 RX570",
+    "id": "ptt-ti-i7-8代-ddr4-8g-4-h370",
+    "name": "ti/i7 8代/DDR4 8g*4/H370",
     "brand": "其他",
     "category": "motherboard",
-    "price": 570,
-    "action": "賣/全國",
-    "location": "皆可",
+    "price": 370,
+    "action": "賣/北桃",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "realfire",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786291109.A.3E7.html",
-    "date": "8/09",
-    "lastSeen": "2026-08-11T10:41:10.188Z"
+    "author": "kujiraking59",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786445764.A.3CE.html",
+    "date": "8/11",
+    "lastSeen": "2026-08-11T22:32:10.130Z"
   },
   {
     "id": "ptt-zddr4-d4-z690-b760",
@@ -45,23 +45,7 @@
     "author": "soweigift",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786408705.A.FB7.html",
     "date": "8/11",
-    "lastSeen": "2026-08-11T10:41:10.187Z"
-  },
-  {
-    "id": "ptt-以全售-r-5600x-b550-ddr4-3600-1060",
-    "name": "以全售 R-5600X+B550+DDR4 3600+1060",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 1060,
-    "action": "賣/淡水",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "lanjack",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786321955.A.064.html",
-    "date": "8/10",
-    "lastSeen": "2026-08-11T10:41:10.188Z"
+    "lastSeen": "2026-08-11T22:32:10.131Z"
   },
   {
     "id": "ptt-g-原廠扇mx-4散熱膏-1151",
@@ -77,7 +61,7 @@
     "author": "cs01580",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786354060.A.3A8.html",
     "date": "8/10",
-    "lastSeen": "2026-08-11T10:41:10.188Z"
+    "lastSeen": "2026-08-11T22:32:10.131Z"
   },
   {
     "id": "ptt-已售出-sevga-geforce-rtx",
@@ -93,7 +77,7 @@
     "author": "Entzu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786373427.A.B7A.html",
     "date": "8/10",
-    "lastSeen": "2026-08-11T10:41:10.188Z"
+    "lastSeen": "2026-08-11T22:32:10.131Z"
   },
   {
     "id": "ptt-nvidia-rtx",
@@ -109,7 +93,7 @@
     "author": "chrisnavy",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786334143.A.ED5.html",
     "date": "8/10",
-    "lastSeen": "2026-08-11T10:41:10.188Z"
+    "lastSeen": "2026-08-11T22:32:10.131Z"
   },
   {
     "id": "ptt-rtx",
@@ -125,7 +109,23 @@
     "author": "Qiyana",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786353264.A.B0C.html",
     "date": "8/10",
-    "lastSeen": "2026-08-11T10:41:10.188Z"
+    "lastSeen": "2026-08-11T22:32:10.131Z"
+  },
+  {
+    "id": "ptt-rtx或5090",
+    "name": "RTX或5090",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 5090,
+    "action": "徵/雙北",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "magic543",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786465261.A.4DE.html",
+    "date": "8/12",
+    "lastSeen": "2026-08-11T22:32:10.131Z"
   },
   {
     "id": "ptt-i-11700-i9-11900",
@@ -141,6 +141,6 @@
     "author": "entersoso",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786347744.A.319.html",
     "date": "8/10",
-    "lastSeen": "2026-08-11T10:41:10.188Z"
+    "lastSeen": "2026-08-11T22:32:10.131Z"
   }
 ]
