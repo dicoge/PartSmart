@@ -13,7 +13,7 @@
     "author": "soulin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786444060.A.DD4.html",
     "date": "8/11",
-    "lastSeen": "2026-08-12T10:50:29.145Z"
+    "lastSeen": "2026-08-12T22:30:39.383Z"
   },
   {
     "id": "ptt-ti-i7-8代-ddr4-8g-4-h370",
@@ -29,7 +29,7 @@
     "author": "kujiraking59",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786445764.A.3CE.html",
     "date": "8/11",
-    "lastSeen": "2026-08-12T10:50:29.145Z"
+    "lastSeen": "2026-08-12T22:30:39.383Z"
   },
   {
     "id": "ptt-zddr4-d4-z690-b760",
@@ -45,23 +45,7 @@
     "author": "soweigift",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786408705.A.FB7.html",
     "date": "8/11",
-    "lastSeen": "2026-08-12T10:50:29.145Z"
-  },
-  {
-    "id": "ptt-amd-r2600",
-    "name": "AMD R2600",
-    "brand": "AMD",
-    "category": "other",
-    "price": 2600,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "wayni",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786531110.A.088.html",
-    "date": "8/12",
-    "lastSeen": "2026-08-12T10:50:29.145Z"
+    "lastSeen": "2026-08-12T22:30:39.383Z"
   },
   {
     "id": "ptt-k板u-p4000-筆電d4-2666",
@@ -77,23 +61,7 @@
     "author": "aery537",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786510639.A.A21.html",
     "date": "8/12",
-    "lastSeen": "2026-08-12T10:50:29.145Z"
-  },
-  {
-    "id": "ptt-已售出-sevga-geforce-rtx",
-    "name": "已售出 SEVGA GeForce RTX",
-    "brand": "EVGA",
-    "category": "gpu",
-    "price": 3060,
-    "action": "賣/台南",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Entzu",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786373427.A.B7A.html",
-    "date": "8/10",
-    "lastSeen": "2026-08-12T10:50:29.146Z"
+    "lastSeen": "2026-08-12T22:30:39.383Z"
   },
   {
     "id": "ptt-筆電記憶體g-ddr4-3200",
@@ -109,7 +77,23 @@
     "author": "c8810746",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786493878.A.268.html",
     "date": "8/12",
-    "lastSeen": "2026-08-12T10:50:29.145Z"
+    "lastSeen": "2026-08-12T22:30:39.382Z"
+  },
+  {
+    "id": "ptt-asus-rog-strix-rtx",
+    "name": "ASUS ROG STRIX RTX",
+    "brand": "ASUS",
+    "category": "gpu",
+    "price": 4070,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "sohaha",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786564429.A.DD4.html",
+    "date": "8/13",
+    "lastSeen": "2026-08-12T22:30:39.381Z"
   },
   {
     "id": "ptt-rtx或5090",
@@ -125,6 +109,22 @@
     "author": "magic543",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786465261.A.4DE.html",
     "date": "8/12",
-    "lastSeen": "2026-08-12T10:50:29.145Z"
+    "lastSeen": "2026-08-12T22:30:39.383Z"
+  },
+  {
+    "id": "ptt-i-8700-i7-8700k-i7-9700",
+    "name": "i-8700/i7-8700K/i7-9700",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 9700,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "chenk2316",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786539947.A.9C3.html",
+    "date": "8/12",
+    "lastSeen": "2026-08-12T22:30:39.382Z"
   }
 ]
