@@ -13,7 +13,7 @@
     "author": "soulin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786444060.A.DD4.html",
     "date": "8/11",
-    "lastSeen": "2026-08-12T22:30:39.383Z"
+    "lastSeen": "2026-08-13T10:52:09.574Z"
   },
   {
     "id": "ptt-ti-i7-8代-ddr4-8g-4-h370",
@@ -29,39 +29,7 @@
     "author": "kujiraking59",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786445764.A.3CE.html",
     "date": "8/11",
-    "lastSeen": "2026-08-12T22:30:39.383Z"
-  },
-  {
-    "id": "ptt-zddr4-d4-z690-b760",
-    "name": "ZDDR4 D4 Z690 B760",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 760,
-    "action": "徵/台中",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "soweigift",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786408705.A.FB7.html",
-    "date": "8/11",
-    "lastSeen": "2026-08-12T22:30:39.383Z"
-  },
-  {
-    "id": "ptt-k板u-p4000-筆電d4-2666",
-    "name": "k板u/P4000/筆電D4-2666",
-    "brand": "其他",
-    "category": "laptop",
-    "price": 2666,
-    "action": "賣/全國",
-    "location": "寄送",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "aery537",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786510639.A.A21.html",
-    "date": "8/12",
-    "lastSeen": "2026-08-12T22:30:39.383Z"
+    "lastSeen": "2026-08-13T10:52:09.574Z"
   },
   {
     "id": "ptt-筆電記憶體g-ddr4-3200",
@@ -77,7 +45,7 @@
     "author": "c8810746",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786493878.A.268.html",
     "date": "8/12",
-    "lastSeen": "2026-08-12T22:30:39.382Z"
+    "lastSeen": "2026-08-13T10:52:09.574Z"
   },
   {
     "id": "ptt-asus-rog-strix-rtx",
@@ -93,7 +61,7 @@
     "author": "sohaha",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786564429.A.DD4.html",
     "date": "8/13",
-    "lastSeen": "2026-08-12T22:30:39.381Z"
+    "lastSeen": "2026-08-13T10:52:09.573Z"
   },
   {
     "id": "ptt-rtx或5090",
@@ -109,7 +77,23 @@
     "author": "magic543",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786465261.A.4DE.html",
     "date": "8/12",
-    "lastSeen": "2026-08-12T22:30:39.383Z"
+    "lastSeen": "2026-08-13T10:52:09.574Z"
+  },
+  {
+    "id": "ptt-cpu-intel-i-7700",
+    "name": "CPU intel I-7700",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 7700,
+    "action": "徵/全國",
+    "location": "寄送",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "saiboos",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786586290.A.2F2.html",
+    "date": "8/13",
+    "lastSeen": "2026-08-13T10:52:09.573Z"
   },
   {
     "id": "ptt-i-8700-i7-8700k-i7-9700",
@@ -125,6 +109,22 @@
     "author": "chenk2316",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786539947.A.9C3.html",
     "date": "8/12",
-    "lastSeen": "2026-08-12T22:30:39.382Z"
+    "lastSeen": "2026-08-13T10:52:09.574Z"
+  },
+  {
+    "id": "ptt-i-11700-i9-11900",
+    "name": "i-11700 i9-11900",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 11900,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "bigG0619",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786608031.A.559.html",
+    "date": "8/13",
+    "lastSeen": "2026-08-13T10:52:09.573Z"
   }
 ]
