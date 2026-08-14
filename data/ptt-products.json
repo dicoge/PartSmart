@@ -1,10 +1,10 @@
 [
   {
-    "id": "ptt-rog鍵盤-文書電腦-w電供-rx560",
-    "name": "ROG鍵盤/文書電腦/W電供/RX560",
+    "id": "ptt-rog鍵盤-電腦-rx明天面交-200",
+    "name": "ROG鍵盤/電腦/RX明天面交-200",
     "brand": "其他",
-    "category": "motherboard",
-    "price": 560,
+    "category": "gpu",
+    "price": 200,
     "action": "賣/台南",
     "location": "面交",
     "delivery": "",
@@ -13,7 +13,7 @@
     "author": "a3456727",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786628902.A.488.html",
     "date": "8/13",
-    "lastSeen": "2026-08-14T10:48:28.496Z"
+    "lastSeen": "2026-08-14T22:12:53.665Z"
   },
   {
     "id": "ptt-asus-rog-strix-rtx",
@@ -29,7 +29,7 @@
     "author": "sohaha",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786564429.A.DD4.html",
     "date": "8/13",
-    "lastSeen": "2026-08-14T10:48:28.496Z"
+    "lastSeen": "2026-08-14T22:12:53.666Z"
   },
   {
     "id": "ptt-cpu-intel-i-7700",
@@ -45,23 +45,7 @@
     "author": "saiboos",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786586290.A.2F2.html",
     "date": "8/13",
-    "lastSeen": "2026-08-14T10:48:28.496Z"
-  },
-  {
-    "id": "ptt-i-8700-i7-8700k-i7-9700",
-    "name": "i-8700/i7-8700K/i7-9700",
-    "brand": "其他",
-    "category": "cpu",
-    "price": 9700,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "chenk2316",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786539947.A.9C3.html",
-    "date": "8/12",
-    "lastSeen": "2026-08-14T10:48:28.496Z"
+    "lastSeen": "2026-08-14T22:12:53.666Z"
   },
   {
     "id": "ptt-i-11700-i9-11900",
@@ -77,6 +61,6 @@
     "author": "bigG0619",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786608031.A.559.html",
     "date": "8/13",
-    "lastSeen": "2026-08-14T10:48:28.495Z"
+    "lastSeen": "2026-08-14T22:12:53.665Z"
   }
 ]
