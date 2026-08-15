@@ -13,39 +13,23 @@
     "author": "a3456727",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786628902.A.488.html",
     "date": "8/13",
-    "lastSeen": "2026-08-14T22:12:53.665Z"
+    "lastSeen": "2026-08-15T10:12:15.362Z"
   },
   {
-    "id": "ptt-asus-rog-strix-rtx",
-    "name": "ASUS ROG STRIX RTX",
-    "brand": "ASUS",
+    "id": "ptt-顯卡-gtx",
+    "name": "顯卡 GTX",
+    "brand": "其他",
     "category": "gpu",
-    "price": 4070,
+    "price": 1650,
     "action": "賣/全國",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "sohaha",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786564429.A.DD4.html",
-    "date": "8/13",
-    "lastSeen": "2026-08-14T22:12:53.666Z"
-  },
-  {
-    "id": "ptt-cpu-intel-i-7700",
-    "name": "CPU intel I-7700",
-    "brand": "其他",
-    "category": "cpu",
-    "price": 7700,
-    "action": "徵/全國",
-    "location": "寄送",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "saiboos",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786586290.A.2F2.html",
-    "date": "8/13",
-    "lastSeen": "2026-08-14T22:12:53.666Z"
+    "author": "rook18ies",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786781717.A.FE1.html",
+    "date": "8/15",
+    "lastSeen": "2026-08-15T10:12:15.361Z"
   },
   {
     "id": "ptt-i-11700-i9-11900",
@@ -61,6 +45,6 @@
     "author": "bigG0619",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786608031.A.559.html",
     "date": "8/13",
-    "lastSeen": "2026-08-14T22:12:53.665Z"
+    "lastSeen": "2026-08-15T10:12:15.362Z"
   }
 ]
