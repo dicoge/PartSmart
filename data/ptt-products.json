@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-rog鍵盤-電腦-rx明天面交-200",
-    "name": "ROG鍵盤/電腦/RX明天面交-200",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 200,
-    "action": "賣/台南",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "a3456727",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786628902.A.488.html",
-    "date": "8/13",
-    "lastSeen": "2026-08-15T22:11:04.892Z"
-  },
-  {
     "id": "ptt-海韻gx電源-deskmini-x",
     "name": "海韻GX電源/deskmini x",
     "brand": "海韻",
@@ -29,7 +13,39 @@
     "author": "BGWalker",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786793846.A.960.html",
     "date": "8/15",
-    "lastSeen": "2026-08-15T22:11:04.891Z"
+    "lastSeen": "2026-08-16T10:12:41.311Z"
+  },
+  {
+    "id": "ptt-r-3600-gtx1070-qube500",
+    "name": "R-3600 GTX1070 QUBE500",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 500,
+    "action": "賣/新北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "exdxboy",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786864664.A.342.html",
+    "date": "8/16",
+    "lastSeen": "2026-08-16T10:12:41.311Z"
+  },
+  {
+    "id": "ptt-ddr3200-16g-2-圓剛gc553",
+    "name": "DDR3200 16G*2/圓剛GC553",
+    "brand": "其他",
+    "category": "other",
+    "price": 553,
+    "action": "賣/永和",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "justlong",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786848272.A.14B.html",
+    "date": "8/16",
+    "lastSeen": "2026-08-16T10:12:41.311Z"
   },
   {
     "id": "ptt-顯卡-gtx",
@@ -45,7 +61,7 @@
     "author": "rook18ies",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786781717.A.FE1.html",
     "date": "8/15",
-    "lastSeen": "2026-08-15T22:11:04.892Z"
+    "lastSeen": "2026-08-16T10:12:41.311Z"
   },
   {
     "id": "ptt-12g-或-3070",
@@ -61,6 +77,70 @@
     "author": "kangfox",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786806470.A.3BC.html",
     "date": "8/15",
-    "lastSeen": "2026-08-15T22:11:04.892Z"
+    "lastSeen": "2026-08-16T10:12:41.311Z"
+  },
+  {
+    "id": "ptt-rog-rtx-3070-3080",
+    "name": "ROG RTX 、3070、3080",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3080,
+    "action": "徵/全國",
+    "location": "寄送",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ENGneweu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786848148.A.C0D.html",
+    "date": "8/16",
+    "lastSeen": "2026-08-16T10:12:41.311Z"
+  },
+  {
+    "id": "ptt-asus套裝機i-8500",
+    "name": "ASUS套裝機i-8500",
+    "brand": "ASUS",
+    "category": "other",
+    "price": 8500,
+    "action": "賣/彰化",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "darren9420",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786866423.A.8BD.html",
+    "date": "8/16",
+    "lastSeen": "2026-08-16T10:12:41.311Z"
+  },
+  {
+    "id": "ptt-intel-i-11700",
+    "name": "intel i-11700",
+    "brand": "其他",
+    "category": "other",
+    "price": 11700,
+    "action": "徵/新竹",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "kranoawi",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786867041.A.B08.html",
+    "date": "8/16",
+    "lastSeen": "2026-08-16T10:12:41.311Z"
+  },
+  {
+    "id": "ptt-i-12700",
+    "name": "i-12700",
+    "brand": "其他",
+    "category": "other",
+    "price": 12700,
+    "action": "賣/雙北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "bbjerry13",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786845490.A.C95.html",
+    "date": "8/16",
+    "lastSeen": "2026-08-16T10:12:41.310Z"
   }
 ]
