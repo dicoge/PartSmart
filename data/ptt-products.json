@@ -13,7 +13,7 @@
     "author": "BGWalker",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786793846.A.960.html",
     "date": "8/15",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   },
   {
     "id": "ptt-r-3600-gtx1070-qube500",
@@ -29,7 +29,7 @@
     "author": "exdxboy",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786864664.A.342.html",
     "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   },
   {
     "id": "ptt-ddr3200-16g-2-圓剛gc553",
@@ -45,39 +45,23 @@
     "author": "justlong",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786848272.A.14B.html",
     "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   },
   {
-    "id": "ptt-顯卡-gtx",
-    "name": "顯卡 GTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 1650,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "rook18ies",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786781717.A.FE1.html",
-    "date": "8/15",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
-  },
-  {
-    "id": "ptt-cpu-麥克風-ax",
-    "name": "CPU 麥克風 AX",
+    "id": "ptt-r3500同級cpu-rtx2060",
+    "name": "R3500同級CPU/RTX2060",
     "brand": "其他",
     "category": "cpu",
-    "price": 1800,
-    "action": "賣/全國",
+    "price": 2060,
+    "action": "徵/高雄",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "gigaleaf",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786892175.A.C29.html",
-    "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.506Z"
+    "author": "zuzuzu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786954433.A.4A0.html",
+    "date": "8/17",
+    "lastSeen": "2026-08-17T10:21:01.078Z"
   },
   {
     "id": "ptt-12g-或-3070",
@@ -93,7 +77,7 @@
     "author": "kangfox",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786806470.A.3BC.html",
     "date": "8/15",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   },
   {
     "id": "ptt-rog-rtx-3070-3080",
@@ -109,7 +93,7 @@
     "author": "ENGneweu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786848148.A.C0D.html",
     "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   },
   {
     "id": "ptt-rtx",
@@ -125,7 +109,7 @@
     "author": "softmm",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786878626.A.80A.html",
     "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.506Z"
+    "lastSeen": "2026-08-17T10:21:01.078Z"
   },
   {
     "id": "ptt-asus套裝機i-8500",
@@ -141,7 +125,7 @@
     "author": "darren9420",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786866423.A.8BD.html",
     "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   },
   {
     "id": "ptt-intel-i-11700",
@@ -157,7 +141,7 @@
     "author": "kranoawi",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786867041.A.B08.html",
     "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   },
   {
     "id": "ptt-i-12700",
@@ -173,6 +157,6 @@
     "author": "bbjerry13",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786845490.A.C95.html",
     "date": "8/16",
-    "lastSeen": "2026-08-16T22:11:31.507Z"
+    "lastSeen": "2026-08-17T10:21:01.079Z"
   }
 ]
