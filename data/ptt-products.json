@@ -1,5 +1,21 @@
 [
   {
+    "id": "ptt-amd-radeon-rx",
+    "name": "AMD Radeon RX",
+    "brand": "AMD",
+    "category": "gpu",
+    "price": 460,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "gaypin",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787117601.A.7D5.html",
+    "date": "8/19",
+    "lastSeen": "2026-08-19T10:17:53.206Z"
+  },
+  {
     "id": "ptt-rtx",
     "name": "RTX",
     "brand": "其他",
@@ -13,6 +29,22 @@
     "author": "s10016450",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786982467.A.ECD.html",
     "date": "8/18",
-    "lastSeen": "2026-08-18T22:12:48.981Z"
+    "lastSeen": "2026-08-19T10:17:53.207Z"
+  },
+  {
+    "id": "ptt-amd-x-rtx5060",
+    "name": "AMD X + RTX5060",
+    "brand": "AMD",
+    "category": "motherboard",
+    "price": 5060,
+    "action": "賣/竹苗",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "homer00",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787091183.A.EBC.html",
+    "date": "8/19",
+    "lastSeen": "2026-08-19T10:17:53.207Z"
   }
 ]
