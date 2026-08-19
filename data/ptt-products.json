@@ -1,5 +1,21 @@
 [
   {
+    "id": "ptt-主機板-z-h510-b450",
+    "name": "主機板 Z/H510/B450",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 450,
+    "action": "賣/雙北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "whazcuat",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787149819.A.062.html",
+    "date": "8/19",
+    "lastSeen": "2026-08-19T22:14:39.417Z"
+  },
+  {
     "id": "ptt-amd-radeon-rx",
     "name": "AMD Radeon RX",
     "brand": "AMD",
@@ -13,23 +29,23 @@
     "author": "gaypin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787117601.A.7D5.html",
     "date": "8/19",
-    "lastSeen": "2026-08-19T10:17:53.206Z"
+    "lastSeen": "2026-08-19T22:14:39.417Z"
   },
   {
-    "id": "ptt-rtx",
-    "name": "RTX",
+    "id": "ptt-便攜螢幕-15吋-1200-1800",
+    "name": "便攜螢幕/15吋 1200/1800",
     "brand": "其他",
-    "category": "gpu",
-    "price": 2060,
-    "action": "賣/彰化",
+    "category": "monitor",
+    "price": 1800,
+    "action": "賣/雲林",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "s10016450",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1786982467.A.ECD.html",
-    "date": "8/18",
-    "lastSeen": "2026-08-19T10:17:53.207Z"
+    "author": "solasga",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787155429.A.21A.html",
+    "date": "8/20",
+    "lastSeen": "2026-08-19T22:14:39.417Z"
   },
   {
     "id": "ptt-amd-x-rtx5060",
@@ -45,6 +61,22 @@
     "author": "homer00",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787091183.A.EBC.html",
     "date": "8/19",
-    "lastSeen": "2026-08-19T10:17:53.207Z"
+    "lastSeen": "2026-08-19T22:14:39.418Z"
+  },
+  {
+    "id": "ptt-gigabyte-rx",
+    "name": "GIGABYTE RX",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "price": 6800,
+    "action": "賣/台中",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "top800321",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787150892.A.653.html",
+    "date": "8/19",
+    "lastSeen": "2026-08-19T22:14:39.417Z"
   }
 ]
