@@ -13,7 +13,7 @@
     "author": "whazcuat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787149819.A.062.html",
     "date": "8/19",
-    "lastSeen": "2026-08-19T22:14:39.417Z"
+    "lastSeen": "2026-08-20T10:18:58.031Z"
   },
   {
     "id": "ptt-amd-radeon-rx",
@@ -29,7 +29,7 @@
     "author": "gaypin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787117601.A.7D5.html",
     "date": "8/19",
-    "lastSeen": "2026-08-19T22:14:39.417Z"
+    "lastSeen": "2026-08-20T10:18:58.031Z"
   },
   {
     "id": "ptt-便攜螢幕-15吋-1200-1800",
@@ -45,7 +45,7 @@
     "author": "solasga",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787155429.A.21A.html",
     "date": "8/20",
-    "lastSeen": "2026-08-19T22:14:39.417Z"
+    "lastSeen": "2026-08-20T10:18:58.031Z"
   },
   {
     "id": "ptt-amd-x-rtx5060",
@@ -61,7 +61,23 @@
     "author": "homer00",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787091183.A.EBC.html",
     "date": "8/19",
-    "lastSeen": "2026-08-19T22:14:39.418Z"
+    "lastSeen": "2026-08-20T10:18:58.031Z"
+  },
+  {
+    "id": "ptt-rtx",
+    "name": "RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 5070,
+    "action": "徵/臺中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "tgbyhn123456",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787180903.A.CD5.html",
+    "date": "8/20",
+    "lastSeen": "2026-08-20T10:18:58.030Z"
   },
   {
     "id": "ptt-gigabyte-rx",
@@ -77,6 +93,6 @@
     "author": "top800321",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787150892.A.653.html",
     "date": "8/19",
-    "lastSeen": "2026-08-19T22:14:39.417Z"
+    "lastSeen": "2026-08-20T10:18:58.031Z"
   }
 ]
