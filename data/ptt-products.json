@@ -13,7 +13,7 @@
     "author": "whazcuat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787149819.A.062.html",
     "date": "8/19",
-    "lastSeen": "2026-08-20T10:18:58.031Z"
+    "lastSeen": "2026-08-20T22:16:45.336Z"
   },
   {
     "id": "ptt-amd-radeon-rx",
@@ -29,7 +29,7 @@
     "author": "gaypin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787117601.A.7D5.html",
     "date": "8/19",
-    "lastSeen": "2026-08-20T10:18:58.031Z"
+    "lastSeen": "2026-08-20T22:16:45.336Z"
   },
   {
     "id": "ptt-便攜螢幕-15吋-1200-1800",
@@ -45,23 +45,7 @@
     "author": "solasga",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787155429.A.21A.html",
     "date": "8/20",
-    "lastSeen": "2026-08-20T10:18:58.031Z"
-  },
-  {
-    "id": "ptt-amd-x-rtx5060",
-    "name": "AMD X + RTX5060",
-    "brand": "AMD",
-    "category": "motherboard",
-    "price": 5060,
-    "action": "賣/竹苗",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "homer00",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787091183.A.EBC.html",
-    "date": "8/19",
-    "lastSeen": "2026-08-20T10:18:58.031Z"
+    "lastSeen": "2026-08-20T22:16:45.336Z"
   },
   {
     "id": "ptt-rtx",
@@ -77,7 +61,23 @@
     "author": "tgbyhn123456",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787180903.A.CD5.html",
     "date": "8/20",
-    "lastSeen": "2026-08-20T10:18:58.030Z"
+    "lastSeen": "2026-08-20T22:16:45.336Z"
+  },
+  {
+    "id": "ptt-rx-xt-rx-6800",
+    "name": "RX XT、RX 6800",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 6800,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "Mysticokk",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787149903.A.2AE.html",
+    "date": "8/19",
+    "lastSeen": "2026-08-20T22:16:45.336Z"
   },
   {
     "id": "ptt-gigabyte-rx",
@@ -93,6 +93,22 @@
     "author": "top800321",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787150892.A.653.html",
     "date": "8/19",
-    "lastSeen": "2026-08-20T10:18:58.031Z"
+    "lastSeen": "2026-08-20T22:16:45.336Z"
+  },
+  {
+    "id": "ptt-intel-i-12700",
+    "name": "Intel i-12700",
+    "brand": "Intel",
+    "category": "other",
+    "price": 12700,
+    "action": "徵/雲林",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "why306",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787232802.A.EAD.html",
+    "date": "8/20",
+    "lastSeen": "2026-08-20T22:16:45.335Z"
   }
 ]
