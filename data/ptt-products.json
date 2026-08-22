@@ -13,39 +13,23 @@
     "author": "Ryo5566",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787279104.A.FDA.html",
     "date": "8/21",
-    "lastSeen": "2026-08-21T22:13:53.381Z"
+    "lastSeen": "2026-08-22T10:12:13.989Z"
   },
   {
-    "id": "ptt-主機板-z-h510-b450",
-    "name": "主機板 Z/H510/B450",
+    "id": "ptt-rog-strix-scope-ii-rtx",
+    "name": "ROG Strix Scope II / RTX",
     "brand": "其他",
-    "category": "motherboard",
-    "price": 450,
-    "action": "賣/雙北",
+    "category": "gpu",
+    "price": 1060,
+    "action": "賣/高雄",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "whazcuat",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787149819.A.062.html",
-    "date": "8/19",
-    "lastSeen": "2026-08-21T22:13:53.382Z"
-  },
-  {
-    "id": "ptt-便攜螢幕-15吋-1200-1800",
-    "name": "便攜螢幕/15吋 1200/1800",
-    "brand": "其他",
-    "category": "monitor",
-    "price": 1800,
-    "action": "賣/雲林",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "solasga",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787155429.A.21A.html",
-    "date": "8/20",
-    "lastSeen": "2026-08-21T22:13:53.382Z"
+    "author": "Semaphorin3D",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787393445.A.C7A.html",
+    "date": "8/22",
+    "lastSeen": "2026-08-22T10:12:13.989Z"
   },
   {
     "id": "ptt-技嘉rtx",
@@ -61,7 +45,7 @@
     "author": "a778156",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787275644.A.23D.html",
     "date": "8/21",
-    "lastSeen": "2026-08-21T22:13:53.381Z"
+    "lastSeen": "2026-08-22T10:12:13.989Z"
   },
   {
     "id": "ptt-rtx",
@@ -77,39 +61,7 @@
     "author": "tgbyhn123456",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787180903.A.CD5.html",
     "date": "8/20",
-    "lastSeen": "2026-08-21T22:13:53.381Z"
-  },
-  {
-    "id": "ptt-rx-xt-rx-6800",
-    "name": "RX XT、RX 6800",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 6800,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Mysticokk",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787149903.A.2AE.html",
-    "date": "8/19",
-    "lastSeen": "2026-08-21T22:13:53.382Z"
-  },
-  {
-    "id": "ptt-gigabyte-rx",
-    "name": "GIGABYTE RX",
-    "brand": "GIGABYTE",
-    "category": "gpu",
-    "price": 6800,
-    "action": "賣/台中",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "top800321",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787150892.A.653.html",
-    "date": "8/19",
-    "lastSeen": "2026-08-21T22:13:53.382Z"
+    "lastSeen": "2026-08-22T10:12:13.990Z"
   },
   {
     "id": "ptt-amd-x-3700x-3800x11400",
@@ -125,6 +77,6 @@
     "author": "crazyasd123",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787330745.A.78A.html",
     "date": "8/22",
-    "lastSeen": "2026-08-21T22:13:53.380Z"
+    "lastSeen": "2026-08-22T10:12:13.989Z"
   }
 ]
