@@ -1,23 +1,7 @@
 [
   {
-    "id": "ptt-w-b85m-b360-b550m-gt1030",
-    "name": "W B85M B360 B550M GT1030",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 1030,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "realfire",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787412894.A.ECF.html",
-    "date": "8/22",
-    "lastSeen": "2026-08-24T22:16:02.532Z"
-  },
-  {
-    "id": "ptt-msi-6g-雙扇-benq-gw2470",
-    "name": "MSI 6G 雙扇 / Benq GW2470",
+    "id": "ptt-msi-6g-雙扇-接洽中-benq-gw2470",
+    "name": "MSI 6G 雙扇 （接洽中） / Benq GW2470",
     "brand": "MSI",
     "category": "other",
     "price": 2470,
@@ -29,7 +13,7 @@
     "author": "jim35851",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787495815.A.EDB.html",
     "date": "8/23",
-    "lastSeen": "2026-08-24T22:16:02.532Z"
+    "lastSeen": "2026-08-25T10:20:57.166Z"
   },
   {
     "id": "ptt-benq-gw",
@@ -43,25 +27,25 @@
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
     "author": "ludashi",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787404040.A.867.html",
-    "date": "8/22",
-    "lastSeen": "2026-08-24T22:16:02.532Z"
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787646652.A.5DE.html",
+    "date": "8/25",
+    "lastSeen": "2026-08-25T10:20:57.165Z"
   },
   {
-    "id": "ptt-i-3770",
-    "name": "i-3770",
-    "brand": "其他",
-    "category": "other",
-    "price": 3770,
-    "action": "徵/新北",
-    "location": "皆可",
+    "id": "ptt-顯卡華碩ti-威剛ddr4-3200",
+    "name": "顯卡華碩ti/威剛ddr4 3200",
+    "brand": "華碩",
+    "category": "gpu",
+    "price": 3200,
+    "action": "賣/嘉義",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "hochill",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787460683.A.106.html",
-    "date": "8/23",
-    "lastSeen": "2026-08-24T22:16:02.532Z"
+    "author": "princerex",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787639074.A.1D4.html",
+    "date": "8/25",
+    "lastSeen": "2026-08-25T10:20:57.165Z"
   },
   {
     "id": "ptt-bi-b450i-5600x-5600",
@@ -77,22 +61,6 @@
     "author": "Smallsh",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787538373.A.A5B.html",
     "date": "8/24",
-    "lastSeen": "2026-08-24T22:16:02.531Z"
-  },
-  {
-    "id": "ptt-收cpu-i-12500",
-    "name": "收CPU i-12500",
-    "brand": "其他",
-    "category": "cpu",
-    "price": 12500,
-    "action": "徵/桃園",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "arsonson",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787457254.A.151.html",
-    "date": "8/23",
-    "lastSeen": "2026-08-24T22:16:02.532Z"
+    "lastSeen": "2026-08-25T10:20:57.166Z"
   }
 ]
