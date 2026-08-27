@@ -1,19 +1,19 @@
 [
   {
-    "id": "ptt-lepow-z15-6吋螢幕-1800",
-    "name": "Lepow Z15.6吋螢幕 1800",
+    "id": "ptt-r3600-ddr4-2400-16g-rx580",
+    "name": "R3600/DDR4-2400-16G/RX580",
     "brand": "其他",
     "category": "motherboard",
-    "price": 1800,
-    "action": "賣/雲林",
-    "location": "皆可",
+    "price": 580,
+    "action": "賣/雙北",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "solasga",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787663139.A.84C.html",
-    "date": "8/25",
-    "lastSeen": "2026-08-27T02:25:35.253Z"
+    "author": "et22639643",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787834108.A.C33.html",
+    "date": "8/27",
+    "lastSeen": "2026-08-27T20:03:24.900Z"
   },
   {
     "id": "ptt-創見筆電ddr8g-2666",
@@ -29,39 +29,39 @@
     "author": "ks99flame",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787670711.A.D93.html",
     "date": "8/25",
-    "lastSeen": "2026-08-27T02:25:35.252Z"
+    "lastSeen": "2026-08-27T20:03:24.901Z"
   },
   {
-    "id": "ptt-benq-gw",
-    "name": "Benq GW",
-    "brand": "其他",
-    "category": "other",
-    "price": 2791,
-    "action": "賣/台中",
-    "location": "自取",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "ludashi",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787646652.A.5DE.html",
-    "date": "8/25",
-    "lastSeen": "2026-08-27T02:25:35.253Z"
-  },
-  {
-    "id": "ptt-顯卡華碩ti-威剛ddr4-3200",
-    "name": "顯卡華碩ti/威剛ddr4 3200",
-    "brand": "華碩",
-    "category": "gpu",
-    "price": 3200,
-    "action": "賣/嘉義",
+    "id": "ptt-amd-x-rtx5060",
+    "name": "AMD X + RTX5060",
+    "brand": "AMD",
+    "category": "motherboard",
+    "price": 5060,
+    "action": "賣/竹苗",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "princerex",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787639074.A.1D4.html",
-    "date": "8/25",
-    "lastSeen": "2026-08-27T02:25:35.253Z"
+    "author": "homer00",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787807231.A.672.html",
+    "date": "8/27",
+    "lastSeen": "2026-08-27T20:03:24.901Z"
+  },
+  {
+    "id": "ptt-gre-7900-gre-5070",
+    "name": "GRE/7900 GRE/5070",
+    "brand": "其他",
+    "category": "other",
+    "price": 5070,
+    "action": "徵/雙北",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "afteryoudie",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787856199.A.CFF.html",
+    "date": "8/28",
+    "lastSeen": "2026-08-27T20:03:24.900Z"
   },
   {
     "id": "ptt-rtx",
@@ -77,6 +77,22 @@
     "author": "Durayer",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787742902.A.6EB.html",
     "date": "8/26",
-    "lastSeen": "2026-08-27T02:25:35.252Z"
+    "lastSeen": "2026-08-27T20:03:24.901Z"
+  },
+  {
+    "id": "ptt-netgear-v",
+    "name": "Netgear V",
+    "brand": "其他",
+    "category": "other",
+    "price": 7610,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "babyF",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787834846.A.514.html",
+    "date": "8/27",
+    "lastSeen": "2026-08-27T20:03:24.901Z"
   }
 ]
