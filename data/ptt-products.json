@@ -1,7 +1,39 @@
 [
   {
-    "id": "ptt-r3600-ddr4-2400-16g-rx580",
-    "name": "R3600/DDR4-2400-16G/RX580",
+    "id": "ptt-deskmeet-or-deskmini-x",
+    "name": "DeskMeet or Deskmini X",
+    "brand": "其他",
+    "category": "other",
+    "price": 300,
+    "action": "徵/高雄",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "terry0720",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787883793.A.FE7.html",
+    "date": "8/28",
+    "lastSeen": "2026-08-28T05:52:37.860Z"
+  },
+  {
+    "id": "ptt-arc-a-a380",
+    "name": "Arc A/ A380",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 380,
+    "action": "徵/高雄",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "frances82531",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787888123.A.024.html",
+    "date": "8/28",
+    "lastSeen": "2026-08-28T05:52:37.860Z"
+  },
+  {
+    "id": "ptt-暫售-r3600-ddr4-2400-16g-rx580",
+    "name": "[暫售]R3600/DDR4-2400-16G/RX580",
     "brand": "其他",
     "category": "motherboard",
     "price": 580,
@@ -13,7 +45,7 @@
     "author": "et22639643",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787834108.A.C33.html",
     "date": "8/27",
-    "lastSeen": "2026-08-27T20:03:24.900Z"
+    "lastSeen": "2026-08-28T05:52:37.861Z"
   },
   {
     "id": "ptt-創見筆電ddr8g-2666",
@@ -29,7 +61,7 @@
     "author": "ks99flame",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787670711.A.D93.html",
     "date": "8/25",
-    "lastSeen": "2026-08-27T20:03:24.901Z"
+    "lastSeen": "2026-08-28T05:52:37.861Z"
   },
   {
     "id": "ptt-amd-x-rtx5060",
@@ -45,7 +77,7 @@
     "author": "homer00",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787807231.A.672.html",
     "date": "8/27",
-    "lastSeen": "2026-08-27T20:03:24.901Z"
+    "lastSeen": "2026-08-28T05:52:37.861Z"
   },
   {
     "id": "ptt-gre-7900-gre-5070",
@@ -61,7 +93,7 @@
     "author": "afteryoudie",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787856199.A.CFF.html",
     "date": "8/28",
-    "lastSeen": "2026-08-27T20:03:24.900Z"
+    "lastSeen": "2026-08-28T05:52:37.860Z"
   },
   {
     "id": "ptt-rtx",
@@ -77,7 +109,7 @@
     "author": "Durayer",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787742902.A.6EB.html",
     "date": "8/26",
-    "lastSeen": "2026-08-27T20:03:24.901Z"
+    "lastSeen": "2026-08-28T05:52:37.861Z"
   },
   {
     "id": "ptt-netgear-v",
@@ -93,6 +125,6 @@
     "author": "babyF",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787834846.A.514.html",
     "date": "8/27",
-    "lastSeen": "2026-08-27T20:03:24.901Z"
+    "lastSeen": "2026-08-28T05:52:37.861Z"
   }
 ]
