@@ -13,7 +13,23 @@
     "author": "satfa516",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788098659.A.EF5.html",
     "date": "8/30",
-    "lastSeen": "2026-08-30T14:33:56.883Z"
+    "lastSeen": "2026-08-31T00:02:23.722Z"
+  },
+  {
+    "id": "ptt-w-b85m-b360-b550m-gt1030",
+    "name": "W B85M B360 B550M GT1030",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 1030,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "realfire",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788105313.A.6B3.html",
+    "date": "8/30",
+    "lastSeen": "2026-08-31T00:02:23.722Z"
   },
   {
     "id": "ptt-rtx",
@@ -29,6 +45,70 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788080014.A.562.html",
     "date": "8/30",
-    "lastSeen": "2026-08-30T14:33:56.883Z"
+    "lastSeen": "2026-08-31T00:02:23.722Z"
+  },
+  {
+    "id": "ptt-拆機或oem-ssd-t-2t-3060",
+    "name": "拆機或OEM SSD T/2T 3060",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 3060,
+    "action": "徵/高雄台南",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "s70076",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788014036.A.C98.html",
+    "date": "8/29",
+    "lastSeen": "2026-08-31T00:02:23.723Z"
+  },
+  {
+    "id": "ptt-rtx-ti-3080",
+    "name": "RTX ti 3080",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3080,
+    "action": "徵/台中彰化",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "frankies",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788069738.A.FD6.html",
+    "date": "8/30",
+    "lastSeen": "2026-08-31T00:02:23.722Z"
+  },
+  {
+    "id": "ptt-3060ti-4060",
+    "name": "/3060ti/4060",
+    "brand": "其他",
+    "category": "other",
+    "price": 4060,
+    "action": "徵/高雄",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "Alfie24",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787970273.A.3B4.html",
+    "date": "8/29",
+    "lastSeen": "2026-08-31T00:02:23.723Z"
+  },
+  {
+    "id": "ptt-intel-代cpu-i7-9700-i9-9900",
+    "name": "intel 代CPU i7-9700 i9-9900",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 9900,
+    "action": "徵/全省",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "infi",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1787989510.A.AAF.html",
+    "date": "8/29",
+    "lastSeen": "2026-08-31T00:02:23.723Z"
   }
 ]
