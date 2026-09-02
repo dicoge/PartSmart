@@ -13,7 +13,7 @@
     "author": "ja881213",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788192769.A.895.html",
     "date": "9/01",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "lastSeen": "2026-09-02T13:56:49.147Z"
   },
   {
     "id": "ptt-亮機卡a-a380",
@@ -29,7 +29,7 @@
     "author": "gainsborough",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788157731.A.A45.html",
     "date": "8/31",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "lastSeen": "2026-09-02T13:56:49.147Z"
   },
   {
     "id": "ptt-聯力-黑-酷媽elite-600",
@@ -45,23 +45,23 @@
     "author": "rark",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788149151.A.583.html",
     "date": "8/31",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "lastSeen": "2026-09-02T13:56:49.147Z"
   },
   {
-    "id": "ptt-w-b85m-b360-b550m-gt1030",
-    "name": "W B85M B360 B550M GT1030",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 1030,
+    "id": "ptt-amd-r1700",
+    "name": "AMD R1700",
+    "brand": "AMD",
+    "category": "other",
+    "price": 1700,
     "action": "賣/全國",
-    "location": "皆可",
+    "location": "寄送",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "realfire",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788105313.A.6B3.html",
-    "date": "8/30",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "author": "yhioio",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788337229.A.A2E.html",
+    "date": "9/02",
+    "lastSeen": "2026-09-02T13:56:49.146Z"
   },
   {
     "id": "ptt-rtx",
@@ -77,7 +77,7 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788272186.A.7B7.html",
     "date": "9/01",
-    "lastSeen": "2026-09-01T23:41:07.438Z"
+    "lastSeen": "2026-09-02T13:56:49.146Z"
   },
   {
     "id": "ptt-美光-金士頓-筆電記憶體ddr-2666",
@@ -93,7 +93,7 @@
     "author": "we456789w",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788276809.A.BD1.html",
     "date": "9/01",
-    "lastSeen": "2026-09-01T23:41:07.438Z"
+    "lastSeen": "2026-09-02T13:56:49.146Z"
   },
   {
     "id": "ptt-asus-tuf-rtx",
@@ -109,7 +109,23 @@
     "author": "rt8333",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788184868.A.B79.html",
     "date": "8/31",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "lastSeen": "2026-09-02T13:56:49.147Z"
+  },
+  {
+    "id": "ptt-evga-rtx-3080",
+    "name": "EVGA RTX /3080",
+    "brand": "EVGA",
+    "category": "gpu",
+    "price": 3080,
+    "action": "徵/高雄",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "nippleman",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788316001.A.C85.html",
+    "date": "9/02",
+    "lastSeen": "2026-09-02T13:56:49.147Z"
   },
   {
     "id": "ptt-技嘉bi-美光-ddr4-3600",
@@ -125,7 +141,39 @@
     "author": "csam7952",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788184415.A.E38.html",
     "date": "8/31",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "lastSeen": "2026-09-02T13:56:49.147Z"
+  },
+  {
+    "id": "ptt-筆電d-2666-8g-p4000",
+    "name": "筆電D-2666 8G / P4000",
+    "brand": "其他",
+    "category": "laptop",
+    "price": 4000,
+    "action": "賣/全國",
+    "location": "寄送",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "aery537",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788325311.A.22A.html",
+    "date": "9/02",
+    "lastSeen": "2026-09-02T13:56:49.147Z"
+  },
+  {
+    "id": "ptt-amd-x-rtx5060",
+    "name": "AMD X + RTX5060",
+    "brand": "AMD",
+    "category": "motherboard",
+    "price": 5060,
+    "action": "賣/北竹苗",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "homer00",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788354406.A.724.html",
+    "date": "9/02",
+    "lastSeen": "2026-09-02T13:56:49.146Z"
   },
   {
     "id": "ptt-cpu-intel-i-7700",
@@ -141,7 +189,7 @@
     "author": "leon0124",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788187262.A.CE4.html",
     "date": "8/31",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "lastSeen": "2026-09-02T13:56:49.147Z"
   },
   {
     "id": "ptt-cpu-intel",
@@ -157,6 +205,6 @@
     "author": "gggaaa",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788194308.A.C6C.html",
     "date": "9/01",
-    "lastSeen": "2026-09-01T23:41:07.439Z"
+    "lastSeen": "2026-09-02T13:56:49.147Z"
   }
 ]
