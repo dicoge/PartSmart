@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-cst-pa120",
-    "name": "CST /PA120",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 120,
-    "action": "賣/高雄",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "ja881213",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788192769.A.895.html",
-    "date": "9/01",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
-  },
-  {
     "id": "ptt-x-c7h-ddr4-16g-evga-1060",
     "name": "X C7H DDR4-16G EVGA 1060",
     "brand": "EVGA",
@@ -29,7 +13,7 @@
     "author": "WildCherry",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788380958.A.17A.html",
     "date": "9/03",
-    "lastSeen": "2026-09-02T23:41:33.280Z"
+    "lastSeen": "2026-09-03T13:59:12.016Z"
   },
   {
     "id": "ptt-amd-r1700",
@@ -45,7 +29,7 @@
     "author": "yhioio",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788337229.A.A2E.html",
     "date": "9/02",
-    "lastSeen": "2026-09-02T23:41:33.280Z"
+    "lastSeen": "2026-09-03T13:59:12.016Z"
   },
   {
     "id": "ptt-rtx",
@@ -61,23 +45,7 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788272186.A.7B7.html",
     "date": "9/01",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
-  },
-  {
-    "id": "ptt-asus-tuf-rtx",
-    "name": "ASUS TUF RTX",
-    "brand": "ASUS",
-    "category": "gpu",
-    "price": 3070,
-    "action": "賣/南投",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "rt8333",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788184868.A.B79.html",
-    "date": "8/31",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
+    "lastSeen": "2026-09-03T13:59:12.016Z"
   },
   {
     "id": "ptt-evga-rtx-3080",
@@ -93,23 +61,7 @@
     "author": "nippleman",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788316001.A.C85.html",
     "date": "9/02",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
-  },
-  {
-    "id": "ptt-技嘉bi-美光-ddr4-3600",
-    "name": "技嘉Bi 美光 DDR4 3600",
-    "brand": "技嘉",
-    "category": "ram",
-    "price": 3600,
-    "action": "徵/全國",
-    "location": "寄送",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "csam7952",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788184415.A.E38.html",
-    "date": "8/31",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
+    "lastSeen": "2026-09-03T13:59:12.017Z"
   },
   {
     "id": "ptt-筆電d-2666-8g-p4000",
@@ -125,7 +77,7 @@
     "author": "aery537",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788325311.A.22A.html",
     "date": "9/02",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
+    "lastSeen": "2026-09-03T13:59:12.017Z"
   },
   {
     "id": "ptt-amd-x-rtx5060",
@@ -141,7 +93,7 @@
     "author": "homer00",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788354406.A.724.html",
     "date": "9/02",
-    "lastSeen": "2026-09-02T23:41:33.280Z"
+    "lastSeen": "2026-09-03T13:59:12.016Z"
   },
   {
     "id": "ptt-linksys-mx",
@@ -157,38 +109,6 @@
     "author": "jh961202",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788365480.A.C42.html",
     "date": "9/03",
-    "lastSeen": "2026-09-02T23:41:33.280Z"
-  },
-  {
-    "id": "ptt-cpu-intel-i-7700",
-    "name": "CPU intel i-7700",
-    "brand": "其他",
-    "category": "cpu",
-    "price": 7700,
-    "action": "徵/全國",
-    "location": "寄送",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "leon0124",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788187262.A.CE4.html",
-    "date": "8/31",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
-  },
-  {
-    "id": "ptt-cpu-intel",
-    "name": "CPU intel",
-    "brand": "其他",
-    "category": "cpu",
-    "price": 7700,
-    "action": "徵/新竹",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "gggaaa",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788194308.A.C6C.html",
-    "date": "9/01",
-    "lastSeen": "2026-09-02T23:41:33.281Z"
+    "lastSeen": "2026-09-03T13:59:12.016Z"
   }
 ]
