@@ -13,7 +13,7 @@
     "author": "WildCherry",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788380958.A.17A.html",
     "date": "9/03",
-    "lastSeen": "2026-09-03T23:43:12.081Z"
+    "lastSeen": "2026-09-04T13:51:53.096Z"
   },
   {
     "id": "ptt-amd-r1700",
@@ -29,55 +29,7 @@
     "author": "yhioio",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788337229.A.A2E.html",
     "date": "9/02",
-    "lastSeen": "2026-09-03T23:43:12.081Z"
-  },
-  {
-    "id": "ptt-rtx",
-    "name": "RTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 2060,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "jack0419",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788272186.A.7B7.html",
-    "date": "9/01",
-    "lastSeen": "2026-09-03T23:43:12.082Z"
-  },
-  {
-    "id": "ptt-evga-rtx-3080",
-    "name": "EVGA RTX /3080",
-    "brand": "EVGA",
-    "category": "gpu",
-    "price": 3080,
-    "action": "徵/高雄",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "nippleman",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788316001.A.C85.html",
-    "date": "9/02",
-    "lastSeen": "2026-09-03T23:43:12.082Z"
-  },
-  {
-    "id": "ptt-筆電d-2666-8g-p4000",
-    "name": "筆電D-2666 8G / P4000",
-    "brand": "其他",
-    "category": "laptop",
-    "price": 4000,
-    "action": "賣/全國",
-    "location": "寄送",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "aery537",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788325311.A.22A.html",
-    "date": "9/02",
-    "lastSeen": "2026-09-03T23:43:12.082Z"
+    "lastSeen": "2026-09-04T13:51:53.096Z"
   },
   {
     "id": "ptt-amd-x-rtx5060",
@@ -93,7 +45,7 @@
     "author": "homer00",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788354406.A.724.html",
     "date": "9/02",
-    "lastSeen": "2026-09-03T23:43:12.082Z"
+    "lastSeen": "2026-09-04T13:51:53.096Z"
   },
   {
     "id": "ptt-linksys-mx",
@@ -109,6 +61,22 @@
     "author": "jh961202",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788365480.A.C42.html",
     "date": "9/03",
-    "lastSeen": "2026-09-03T23:43:12.081Z"
+    "lastSeen": "2026-09-04T13:51:53.096Z"
+  },
+  {
+    "id": "ptt-徵i-8500-i5-8400",
+    "name": "徵i-8500/i5-8400",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 8400,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "s250380",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788512771.A.382.html",
+    "date": "9/04",
+    "lastSeen": "2026-09-04T13:51:53.095Z"
   }
 ]
