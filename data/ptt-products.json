@@ -13,7 +13,7 @@
     "author": "JingChiu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788581185.A.FC3.html",
     "date": "9/05",
-    "lastSeen": "2026-09-05T23:27:44.613Z"
+    "lastSeen": "2026-09-06T13:17:05.849Z"
   },
   {
     "id": "ptt-瓦爾基里-vk-cqargb-cl125",
@@ -29,23 +29,39 @@
     "author": "AllTimeMoney",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788601970.A.9E5.html",
     "date": "9/05",
-    "lastSeen": "2026-09-05T23:27:44.613Z"
+    "lastSeen": "2026-09-06T13:17:05.849Z"
   },
   {
     "id": "ptt-自組n6bay-nas-quadro-p400",
-    "name": "自組N6bay NAS / Quadro P400",
+    "name": "自組N6bay NAS/Quadro P400",
     "brand": "其他",
     "category": "other",
     "price": 400,
     "action": "賣/台南",
-    "location": "皆可",
+    "location": "已售出",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
     "author": "IMCENTER",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788620133.A.A9C.html",
     "date": "9/05",
-    "lastSeen": "2026-09-05T23:27:44.612Z"
+    "lastSeen": "2026-09-06T13:17:05.849Z"
+  },
+  {
+    "id": "ptt-msi-asus-5070",
+    "name": "MSI / ASUS 5070",
+    "brand": "ASUS",
+    "category": "other",
+    "price": 5070,
+    "action": "賣/台中",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "bobo5050",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788679062.A.450.html",
+    "date": "9/06",
+    "lastSeen": "2026-09-06T13:17:05.848Z"
   },
   {
     "id": "ptt-rtx",
@@ -61,7 +77,7 @@
     "author": "game0502",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788589822.A.456.html",
     "date": "9/05",
-    "lastSeen": "2026-09-05T23:27:44.613Z"
+    "lastSeen": "2026-09-06T13:17:05.849Z"
   },
   {
     "id": "ptt-i-12500-12400",
@@ -77,6 +93,6 @@
     "author": "ch88",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788573606.A.E3D.html",
     "date": "9/05",
-    "lastSeen": "2026-09-05T23:27:44.613Z"
+    "lastSeen": "2026-09-06T13:17:05.849Z"
   }
 ]
