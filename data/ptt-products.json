@@ -1,37 +1,5 @@
 [
   {
-    "id": "ptt-瓦爾基里-vk-cqargb-cl125",
-    "name": "瓦爾基里 VK cqargb / cl125",
-    "brand": "其他",
-    "category": "other",
-    "price": 125,
-    "action": "徵/台北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "AllTimeMoney",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788601970.A.9E5.html",
-    "date": "9/05",
-    "lastSeen": "2026-09-06T23:21:43.369Z"
-  },
-  {
-    "id": "ptt-自組n6bay-nas-quadro-p400",
-    "name": "自組N6bay NAS/Quadro P400",
-    "brand": "其他",
-    "category": "other",
-    "price": 400,
-    "action": "賣/台南",
-    "location": "已售出",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "IMCENTER",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788620133.A.A9C.html",
-    "date": "9/05",
-    "lastSeen": "2026-09-06T23:21:43.369Z"
-  },
-  {
     "id": "ptt-羅技鍵盤g青軸-amp-酷碼-ck550",
     "name": "羅技鍵盤G青軸 &amp; 酷碼 CK550",
     "brand": "羅技",
@@ -45,7 +13,7 @@
     "author": "vul31ul3",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788702316.A.C83.html",
     "date": "9/06",
-    "lastSeen": "2026-09-06T23:21:43.369Z"
+    "lastSeen": "2026-09-07T15:22:53.621Z"
   },
   {
     "id": "ptt-顯卡rtx",
@@ -61,7 +29,23 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788711292.A.FC9.html",
     "date": "9/07",
-    "lastSeen": "2026-09-06T23:21:43.368Z"
+    "lastSeen": "2026-09-07T15:22:53.621Z"
+  },
+  {
+    "id": "ptt-顯卡-i3-3220",
+    "name": "顯卡,I3-3220",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3220,
+    "action": "賣/台北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "rombuc",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788756270.A.AB1.html",
+    "date": "9/07",
+    "lastSeen": "2026-09-07T15:22:53.621Z"
   },
   {
     "id": "ptt-msi",
@@ -77,22 +61,38 @@
     "author": "bobo5050",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788679062.A.450.html",
     "date": "9/06",
-    "lastSeen": "2026-09-06T23:21:43.368Z"
+    "lastSeen": "2026-09-07T15:22:53.621Z"
   },
   {
-    "id": "ptt-rtx",
-    "name": "RTX",
+    "id": "ptt-rtx-或rx6600",
+    "name": "RTX 或RX6600",
     "brand": "其他",
-    "category": "gpu",
-    "price": 5090,
-    "action": "徵/雙桃",
-    "location": "面交",
+    "category": "motherboard",
+    "price": 6600,
+    "action": "徵/全國",
+    "location": "寄���",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "game0502",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788589822.A.456.html",
-    "date": "9/05",
-    "lastSeen": "2026-09-06T23:21:43.369Z"
+    "author": "ray791207",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788784667.A.DEC.html",
+    "date": "9/07",
+    "lastSeen": "2026-09-07T15:22:53.620Z"
+  },
+  {
+    "id": "ptt-cpu-intel-i9700",
+    "name": "CPU intel i9700",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 9700,
+    "action": "徵/新北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "lushin",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788764159.A.E13.html",
+    "date": "9/07",
+    "lastSeen": "2026-09-07T15:22:53.621Z"
   }
 ]
