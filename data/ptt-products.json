@@ -1,19 +1,35 @@
 [
   {
-    "id": "ptt-羅技鍵盤g青軸-amp-酷碼-ck550",
-    "name": "羅技鍵盤G青軸 &amp; 酷碼 CK550",
-    "brand": "羅技",
-    "category": "peripheral",
-    "price": 550,
-    "action": "賣/雙北",
-    "location": "面交",
+    "id": "ptt-rog-x-e-b760-a-ram-mx500",
+    "name": "Rog X-E,B760-A,Ram,MX500",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 500,
+    "action": "賣/新竹",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "vul31ul3",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788702316.A.C83.html",
-    "date": "9/06",
-    "lastSeen": "2026-09-07T23:52:21.476Z"
+    "author": "bluestar116",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788830552.A.43B.html",
+    "date": "9/08",
+    "lastSeen": "2026-09-08T13:59:01.510Z"
+  },
+  {
+    "id": "ptt-技嘉bm-d4-君主機殼-酷碼v750",
+    "name": "技嘉BM D4/君主機殼/酷碼V750",
+    "brand": "技嘉",
+    "category": "motherboard",
+    "price": 750,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "yourgrace95",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788847671.A.60D.html",
+    "date": "9/08",
+    "lastSeen": "2026-09-08T13:59:01.510Z"
   },
   {
     "id": "ptt-顯卡rtx",
@@ -29,7 +45,7 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788711292.A.FC9.html",
     "date": "9/07",
-    "lastSeen": "2026-09-07T23:52:21.475Z"
+    "lastSeen": "2026-09-08T13:59:01.511Z"
   },
   {
     "id": "ptt-顯卡-i3-3220",
@@ -45,23 +61,23 @@
     "author": "rombuc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788756270.A.AB1.html",
     "date": "9/07",
-    "lastSeen": "2026-09-07T23:52:21.475Z"
+    "lastSeen": "2026-09-08T13:59:01.511Z"
   },
   {
-    "id": "ptt-msi",
-    "name": "MSI",
-    "brand": "MSI",
+    "id": "ptt-asus-tuf-be",
+    "name": "ASUS TUF BE",
+    "brand": "ASUS",
     "category": "other",
-    "price": 4060,
-    "action": "賣/台中",
-    "location": "面交",
+    "price": 6500,
+    "action": "賣/新北",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "bobo5050",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788679062.A.450.html",
-    "date": "9/06",
-    "lastSeen": "2026-09-07T23:52:21.476Z"
+    "author": "baby41414",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788839505.A.9F7.html",
+    "date": "9/08",
+    "lastSeen": "2026-09-08T13:59:01.510Z"
   },
   {
     "id": "ptt-rtx-或rx6600",
@@ -70,14 +86,14 @@
     "category": "motherboard",
     "price": 6600,
     "action": "徵/全國",
-    "location": "寄���",
+    "location": "寄送",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
     "author": "ray791207",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788784667.A.DEC.html",
     "date": "9/07",
-    "lastSeen": "2026-09-07T23:52:21.475Z"
+    "lastSeen": "2026-09-08T13:59:01.510Z"
   },
   {
     "id": "ptt-cpu-intel-i9700",
@@ -93,6 +109,22 @@
     "author": "lushin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788764159.A.E13.html",
     "date": "9/07",
-    "lastSeen": "2026-09-07T23:52:21.475Z"
+    "lastSeen": "2026-09-08T13:59:01.511Z"
+  },
+  {
+    "id": "ptt-intel-core-i-11700",
+    "name": "Intel Core I-11700",
+    "brand": "Intel",
+    "category": "other",
+    "price": 11700,
+    "action": "徵/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "f1420012002",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788867338.A.2BF.html",
+    "date": "9/08",
+    "lastSeen": "2026-09-08T13:59:01.510Z"
   }
 ]
