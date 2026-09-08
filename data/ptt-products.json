@@ -13,7 +13,7 @@
     "author": "bluestar116",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788830552.A.43B.html",
     "date": "9/08",
-    "lastSeen": "2026-09-08T13:59:01.510Z"
+    "lastSeen": "2026-09-08T23:45:19.780Z"
   },
   {
     "id": "ptt-技嘉bm-d4-君主機殼-酷碼v750",
@@ -29,7 +29,7 @@
     "author": "yourgrace95",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788847671.A.60D.html",
     "date": "9/08",
-    "lastSeen": "2026-09-08T13:59:01.510Z"
+    "lastSeen": "2026-09-08T23:45:19.779Z"
   },
   {
     "id": "ptt-顯卡rtx",
@@ -45,7 +45,23 @@
     "author": "jack0419",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788711292.A.FC9.html",
     "date": "9/07",
-    "lastSeen": "2026-09-08T13:59:01.511Z"
+    "lastSeen": "2026-09-08T23:45:19.780Z"
+  },
+  {
+    "id": "ptt-金士頓筆電記憶體ddr8g-2400",
+    "name": "金士頓筆電記憶體DDR8g 2400",
+    "brand": "金士頓",
+    "category": "ram",
+    "price": 2400,
+    "action": "賣/台北",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "lianghuwu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788888353.A.F22.html",
+    "date": "9/09",
+    "lastSeen": "2026-09-08T23:45:19.779Z"
   },
   {
     "id": "ptt-顯卡-i3-3220",
@@ -61,7 +77,7 @@
     "author": "rombuc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788756270.A.AB1.html",
     "date": "9/07",
-    "lastSeen": "2026-09-08T13:59:01.511Z"
+    "lastSeen": "2026-09-08T23:45:19.780Z"
   },
   {
     "id": "ptt-asus-tuf-be",
@@ -77,7 +93,7 @@
     "author": "baby41414",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788839505.A.9F7.html",
     "date": "9/08",
-    "lastSeen": "2026-09-08T13:59:01.510Z"
+    "lastSeen": "2026-09-08T23:45:19.779Z"
   },
   {
     "id": "ptt-rtx-或rx6600",
@@ -93,7 +109,23 @@
     "author": "ray791207",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788784667.A.DEC.html",
     "date": "9/07",
-    "lastSeen": "2026-09-08T13:59:01.510Z"
+    "lastSeen": "2026-09-08T23:45:19.779Z"
+  },
+  {
+    "id": "ptt-cpu-intel",
+    "name": "CPU Intel",
+    "brand": "Intel",
+    "category": "cpu",
+    "price": 7700,
+    "action": "徵/新竹",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "gggaaa",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788875999.A.055.html",
+    "date": "9/08",
+    "lastSeen": "2026-09-08T23:45:19.778Z"
   },
   {
     "id": "ptt-cpu-intel-i9700",
@@ -109,7 +141,7 @@
     "author": "lushin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788764159.A.E13.html",
     "date": "9/07",
-    "lastSeen": "2026-09-08T13:59:01.511Z"
+    "lastSeen": "2026-09-08T23:45:19.780Z"
   },
   {
     "id": "ptt-intel-core-i-11700",
@@ -117,7 +149,7 @@
     "brand": "Intel",
     "category": "other",
     "price": 11700,
-    "action": "徵/台中",
+    "action": "徵/台���",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
@@ -125,6 +157,6 @@
     "author": "f1420012002",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788867338.A.2BF.html",
     "date": "9/08",
-    "lastSeen": "2026-09-08T13:59:01.510Z"
+    "lastSeen": "2026-09-08T23:45:19.779Z"
   }
 ]
