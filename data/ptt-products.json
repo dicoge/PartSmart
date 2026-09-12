@@ -13,7 +13,23 @@
     "author": "realfire",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789054546.A.583.html",
     "date": "9/10",
-    "lastSeen": "2026-09-12T13:13:43.761Z"
+    "lastSeen": "2026-09-12T23:35:16.504Z"
+  },
+  {
+    "id": "ptt-i-6700-d4-mx500-1t-3070",
+    "name": "i-6700/D4/MX500 1T/3070",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 3070,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "windmasa",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789186058.A.6D3.html",
+    "date": "9/12",
+    "lastSeen": "2026-09-12T23:35:16.504Z"
   },
   {
     "id": "ptt-rtx",
@@ -29,7 +45,7 @@
     "author": "cboat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789039481.A.EF1.html",
     "date": "9/10",
-    "lastSeen": "2026-09-12T13:13:43.761Z"
+    "lastSeen": "2026-09-12T23:35:16.504Z"
   },
   {
     "id": "ptt-i-4790",
@@ -45,7 +61,39 @@
     "author": "difish",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789180128.A.6B2.html",
     "date": "9/12",
-    "lastSeen": "2026-09-12T13:13:43.761Z"
+    "lastSeen": "2026-09-12T23:35:16.503Z"
+  },
+  {
+    "id": "ptt-海盜船-air",
+    "name": "海盜船 AIR",
+    "brand": "其他",
+    "category": "other",
+    "price": 5400,
+    "action": "徵/雙北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "a00730517",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789219676.A.48A.html",
+    "date": "9/12",
+    "lastSeen": "2026-09-12T23:35:16.503Z"
+  },
+  {
+    "id": "ptt-intel-i-12100-或-i5-12400",
+    "name": "Intel i-12100 或 i5-12400",
+    "brand": "Intel",
+    "category": "cpu",
+    "price": 12400,
+    "action": "徵/高雄",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "wethsu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789222423.A.D84.html",
+    "date": "9/12",
+    "lastSeen": "2026-09-12T23:35:16.503Z"
   },
   {
     "id": "ptt-i14400",
@@ -61,6 +109,6 @@
     "author": "goerty",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789198409.A.10A.html",
     "date": "9/12",
-    "lastSeen": "2026-09-12T13:13:43.761Z"
+    "lastSeen": "2026-09-12T23:35:16.503Z"
   }
 ]
