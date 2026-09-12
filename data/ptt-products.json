@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-benq-gw-羅技-g713",
-    "name": "BENQ GW/ 羅技 G713",
-    "brand": "羅技",
-    "category": "other",
-    "price": 713,
-    "action": "賣/台南",
-    "location": "自取",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "su72mei",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788957524.A.51F.html",
-    "date": "9/09",
-    "lastSeen": "2026-09-11T23:41:43.850Z"
-  },
-  {
     "id": "ptt-w-b85m-b360-b550m-gtx1650",
     "name": "W B85M B360 B550M GTX1650",
     "brand": "其他",
@@ -29,7 +13,7 @@
     "author": "realfire",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789054546.A.583.html",
     "date": "9/10",
-    "lastSeen": "2026-09-11T23:41:43.849Z"
+    "lastSeen": "2026-09-12T13:13:43.761Z"
   },
   {
     "id": "ptt-rtx",
@@ -45,22 +29,38 @@
     "author": "cboat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789039481.A.EF1.html",
     "date": "9/10",
-    "lastSeen": "2026-09-11T23:41:43.849Z"
+    "lastSeen": "2026-09-12T13:13:43.761Z"
   },
   {
-    "id": "ptt-已徵到-amd-xt-16g-顯卡-xt-9060",
-    "name": "已徵到 AMD XT 16G 顯卡 XT 9060",
-    "brand": "AMD",
-    "category": "gpu",
-    "price": 9060,
-    "action": "徵/全國",
+    "id": "ptt-i-4790",
+    "name": "i-4790",
+    "brand": "其他",
+    "category": "other",
+    "price": 4790,
+    "action": "徵/台南",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "antiichristt",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1788946896.A.41E.html",
-    "date": "9/09",
-    "lastSeen": "2026-09-11T23:41:43.850Z"
+    "author": "difish",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789180128.A.6B2.html",
+    "date": "9/12",
+    "lastSeen": "2026-09-12T13:13:43.761Z"
+  },
+  {
+    "id": "ptt-i14400",
+    "name": "i14400",
+    "brand": "其他",
+    "category": "other",
+    "price": 14400,
+    "action": "賣/三重",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "goerty",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789198409.A.10A.html",
+    "date": "9/12",
+    "lastSeen": "2026-09-12T13:13:43.761Z"
   }
 ]
