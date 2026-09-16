@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "ptt-benq-gw",
+    "name": "BENQ GW",
+    "brand": "BENQ",
+    "category": "other",
+    "price": 2490,
+    "action": "賣/全國",
+    "location": "郵寄",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "heyshowsong",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789546914.A.E1F.html",
+    "date": "9/16",
+    "lastSeen": "2026-09-16T23:58:31.696Z"
+  }
+]
