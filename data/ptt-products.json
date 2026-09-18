@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-顯卡",
-    "name": "顯卡",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 2060,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "aldo",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789660843.A.3B7.html",
-    "date": "9/18",
-    "lastSeen": "2026-09-17T23:48:27.585Z"
-  },
-  {
     "id": "ptt-benq-gw",
     "name": "BENQ GW",
     "brand": "BENQ",
@@ -29,23 +13,7 @@
     "author": "heyshowsong",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789546914.A.E1F.html",
     "date": "9/16",
-    "lastSeen": "2026-09-17T23:48:27.585Z"
-  },
-  {
-    "id": "ptt-rtx",
-    "name": "RTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 4090,
-    "action": "徵/台北 全省",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "superandylin",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789621484.A.CDA.html",
-    "date": "9/17",
-    "lastSeen": "2026-09-17T23:48:27.585Z"
+    "lastSeen": "2026-09-18T13:58:13.436Z"
   },
   {
     "id": "ptt-i-10700",
@@ -61,6 +29,6 @@
     "author": "lotian",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789631723.A.D9D.html",
     "date": "9/17",
-    "lastSeen": "2026-09-17T23:48:27.585Z"
+    "lastSeen": "2026-09-18T13:58:13.435Z"
   }
 ]
