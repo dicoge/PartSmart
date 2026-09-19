@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-i-10700",
-    "name": "I-10700",
-    "brand": "其他",
-    "category": "other",
-    "price": 10700,
-    "action": "徵/全國",
-    "location": "郵寄",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "lotian",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789631723.A.D9D.html",
-    "date": "9/17",
-    "lastSeen": "2026-09-19T13:34:01.330Z"
-  },
-  {
     "id": "ptt-美光海力士筆電記憶體g-ddr43200",
     "name": "美光海力士筆電記憶體G DDR43200",
     "brand": "美光",
@@ -29,6 +13,6 @@
     "author": "ChenStar",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789760194.A.BDD.html",
     "date": "9/19",
-    "lastSeen": "2026-09-19T13:34:01.329Z"
+    "lastSeen": "2026-09-19T23:47:31.514Z"
   }
 ]
