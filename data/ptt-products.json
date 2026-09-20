@@ -1,5 +1,53 @@
 [
   {
+    "id": "ptt-msi-gtx",
+    "name": "MSI GTX",
+    "brand": "MSI",
+    "category": "gpu",
+    "price": 970,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "MEVIUS",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789906511.A.CDD.html",
+    "date": "9/20",
+    "lastSeen": "2026-09-20T13:48:02.252Z"
+  },
+  {
+    "id": "ptt-h610-10700kf-3050",
+    "name": "H610 10700KF 3050",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 3050,
+    "action": "賣/桃園",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "pokl1210",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789890088.A.550.html",
+    "date": "9/20",
+    "lastSeen": "2026-09-20T13:48:02.253Z"
+  },
+  {
+    "id": "ptt-rtx",
+    "name": "RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 5090,
+    "action": "徵/北桃",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "game0502",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789899108.A.7A4.html",
+    "date": "9/20",
+    "lastSeen": "2026-09-20T13:48:02.253Z"
+  },
+  {
     "id": "ptt-美光海力士筆電記憶體g-ddr43200",
     "name": "美光海力士筆電記憶體G DDR43200",
     "brand": "美光",
@@ -13,6 +61,6 @@
     "author": "ChenStar",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789760194.A.BDD.html",
     "date": "9/19",
-    "lastSeen": "2026-09-19T23:47:31.514Z"
+    "lastSeen": "2026-09-20T13:48:02.253Z"
   }
 ]
