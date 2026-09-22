@@ -1,5 +1,21 @@
 [
   {
+    "id": "ptt-asus鍵盤沒使用過",
+    "name": "ASUS鍵盤沒使用過",
+    "brand": "ASUS",
+    "category": "peripheral",
+    "price": 200,
+    "action": "賣/臺南",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "z2719839",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790009826.A.8AF.html",
+    "date": "9/22",
+    "lastSeen": "2026-09-22T00:24:23.400Z"
+  },
+  {
     "id": "ptt-msi-gtx",
     "name": "MSI GTX",
     "brand": "MSI",
@@ -13,7 +29,7 @@
     "author": "MEVIUS",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789906511.A.CDD.html",
     "date": "9/20",
-    "lastSeen": "2026-09-21T16:04:35.171Z"
+    "lastSeen": "2026-09-22T00:24:23.400Z"
   },
   {
     "id": "ptt-h610-10700kf-3050",
@@ -29,7 +45,7 @@
     "author": "pokl1210",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789890088.A.550.html",
     "date": "9/20",
-    "lastSeen": "2026-09-21T16:04:35.171Z"
+    "lastSeen": "2026-09-22T00:24:23.401Z"
   },
   {
     "id": "ptt-rtx",
@@ -45,6 +61,6 @@
     "author": "game0502",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1789899108.A.7A4.html",
     "date": "9/20",
-    "lastSeen": "2026-09-21T16:04:35.171Z"
+    "lastSeen": "2026-09-22T00:24:23.401Z"
   }
 ]
