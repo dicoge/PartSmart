@@ -1,5 +1,21 @@
 [
   {
+    "id": "ptt-jcreat-資料傳輸線-juc100",
+    "name": "Jcreat 資料傳輸線 JUC100",
+    "brand": "其他",
+    "category": "other",
+    "price": 100,
+    "action": "賣/高雄",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "lwktomcat",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790608730.A.164.html",
+    "date": "9/28",
+    "lastSeen": "2026-09-28T17:52:08.692Z"
+  },
+  {
     "id": "ptt-dell-sqc-edifier-n300",
     "name": "DELL SQC Edifier N300",
     "brand": "其他",
@@ -13,7 +29,7 @@
     "author": "TG21005",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790436565.A.D1A.html",
     "date": "9/26",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
+    "lastSeen": "2026-09-28T17:52:08.693Z"
   },
   {
     "id": "ptt-吋螢幕-鍵盤-deskmini-h470",
@@ -29,23 +45,23 @@
     "author": "neverscare",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790499431.A.325.html",
     "date": "9/27",
-    "lastSeen": "2026-09-28T00:08:02.712Z"
+    "lastSeen": "2026-09-28T17:52:08.692Z"
   },
   {
-    "id": "ptt-半套-9900k-x570-a770",
-    "name": "半套 9900K X570 A770",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 770,
-    "action": "賣/桃園",
+    "id": "ptt-x3d-酷碼hyper-612",
+    "name": "X3D 酷碼HYPER 612",
+    "brand": "酷碼",
+    "category": "other",
+    "price": 612,
+    "action": "賣/全國",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "pokl1210",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790404309.A.F19.html",
-    "date": "9/26",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
+    "author": "mioz",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790582257.A.592.html",
+    "date": "9/28",
+    "lastSeen": "2026-09-28T17:52:08.692Z"
   },
   {
     "id": "ptt-msi-gtx",
@@ -61,7 +77,23 @@
     "author": "MEVIUS",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790469759.A.F41.html",
     "date": "9/27",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
+    "lastSeen": "2026-09-28T17:52:08.693Z"
+  },
+  {
+    "id": "ptt-g-威剛ddr4-8gb-gt1030",
+    "name": "G/威剛DDR4-8GB/GT1030",
+    "brand": "其他",
+    "category": "ram",
+    "price": 1030,
+    "action": "賣/全國",
+    "location": "賣貨便",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "fjm01207",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790581604.A.ECD.html",
+    "date": "9/28",
+    "lastSeen": "2026-09-28T17:52:08.692Z"
   },
   {
     "id": "ptt-w-b85m-b360-b550m-gtx1650",
@@ -77,70 +109,6 @@
     "author": "realfire",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790436473.A.170.html",
     "date": "9/26",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
-  },
-  {
-    "id": "ptt-amd-r-3400g-2600",
-    "name": "AMD R-3400G/2600",
-    "brand": "AMD",
-    "category": "other",
-    "price": 2600,
-    "action": "賣/台中",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "andy0ken",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790391319.A.B3E.html",
-    "date": "9/26",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
-  },
-  {
-    "id": "ptt-xg-mobile",
-    "name": "XG mobile",
-    "brand": "其他",
-    "category": "other",
-    "price": 4090,
-    "action": "徵/台北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "a601142001",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790338969.A.66E.html",
-    "date": "9/25",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
-  },
-  {
-    "id": "ptt-i-8400",
-    "name": "i-8400",
-    "brand": "其他",
-    "category": "other",
-    "price": 8400,
-    "action": "賣/高雄",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Wynn",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790405859.A.C9F.html",
-    "date": "9/26",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
-  },
-  {
-    "id": "ptt-i-8700",
-    "name": "i-8700",
-    "brand": "其他",
-    "category": "other",
-    "price": 8700,
-    "action": "徵/",
-    "location": "",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "supershado",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790350406.A.253.html",
-    "date": "9/25",
-    "lastSeen": "2026-09-28T00:08:02.713Z"
+    "lastSeen": "2026-09-28T17:52:08.692Z"
   }
 ]
