@@ -1,7 +1,7 @@
 [
   {
-    "id": "ptt-jcreat-資料傳輸線-juc100",
-    "name": "Jcreat 資料傳輸線 JUC100",
+    "id": "ptt-已售出-jcreat-資料傳輸線-juc100",
+    "name": "(已售出)Jcreat 資料傳輸線 JUC100",
     "brand": "其他",
     "category": "other",
     "price": 100,
@@ -13,23 +13,7 @@
     "author": "lwktomcat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790608730.A.164.html",
     "date": "9/28",
-    "lastSeen": "2026-09-29T01:21:33.354Z"
-  },
-  {
-    "id": "ptt-dell-sqc-edifier-n300",
-    "name": "DELL SQC Edifier N300",
-    "brand": "其他",
-    "category": "other",
-    "price": 300,
-    "action": "賣/桃園",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "TG21005",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790436565.A.D1A.html",
-    "date": "9/26",
-    "lastSeen": "2026-09-29T01:21:33.355Z"
+    "lastSeen": "2026-09-29T16:13:23.383Z"
   },
   {
     "id": "ptt-吋螢幕-鍵盤-deskmini-h470",
@@ -45,7 +29,7 @@
     "author": "neverscare",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790499431.A.325.html",
     "date": "9/27",
-    "lastSeen": "2026-09-29T01:21:33.355Z"
+    "lastSeen": "2026-09-29T16:13:23.383Z"
   },
   {
     "id": "ptt-x3d-酷碼hyper-612",
@@ -61,23 +45,7 @@
     "author": "mioz",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790582257.A.592.html",
     "date": "9/28",
-    "lastSeen": "2026-09-29T01:21:33.355Z"
-  },
-  {
-    "id": "ptt-msi-gtx",
-    "name": "MSI GTX",
-    "brand": "MSI",
-    "category": "gpu",
-    "price": 970,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "MEVIUS",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790469759.A.F41.html",
-    "date": "9/27",
-    "lastSeen": "2026-09-29T01:21:33.355Z"
+    "lastSeen": "2026-09-29T16:13:23.383Z"
   },
   {
     "id": "ptt-g-威剛ddr4-8gb-gt1030",
@@ -93,22 +61,22 @@
     "author": "fjm01207",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790581604.A.ECD.html",
     "date": "9/28",
-    "lastSeen": "2026-09-29T01:21:33.354Z"
+    "lastSeen": "2026-09-29T16:13:23.383Z"
   },
   {
-    "id": "ptt-w-b85m-b360-b550m-gtx1650",
-    "name": "W B85M B360 B550M GTX1650",
+    "id": "ptt-rxxt-3080-rx6800",
+    "name": "rxxt 3080 rx6800",
     "brand": "其他",
-    "category": "motherboard",
-    "price": 1650,
-    "action": "賣/全國",
+    "category": "other",
+    "price": 6800,
+    "action": "徵/雙北",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "realfire",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790436473.A.170.html",
-    "date": "9/26",
-    "lastSeen": "2026-09-29T01:21:33.355Z"
+    "author": "MulletGame",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790683946.A.1C5.html",
+    "date": "9/29",
+    "lastSeen": "2026-09-29T16:13:23.382Z"
   }
 ]
