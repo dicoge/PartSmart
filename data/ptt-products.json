@@ -13,23 +13,7 @@
     "author": "Janmice",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790734726.A.417.html",
     "date": "9/30",
-    "lastSeen": "2026-10-01T00:55:14.443Z"
-  },
-  {
-    "id": "ptt-已售出-jcreat-資料傳輸線-juc100",
-    "name": "(已售出)Jcreat 資料傳輸線 JUC100",
-    "brand": "其他",
-    "category": "other",
-    "price": 100,
-    "action": "賣/高雄",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "lwktomcat",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790608730.A.164.html",
-    "date": "9/28",
-    "lastSeen": "2026-10-01T00:55:14.443Z"
+    "lastSeen": "2026-10-01T16:46:43.308Z"
   },
   {
     "id": "ptt-i2080ti-16gb-z390",
@@ -45,7 +29,39 @@
     "author": "chaseworker",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790761867.A.385.html",
     "date": "9/30",
-    "lastSeen": "2026-10-01T00:55:14.442Z"
+    "lastSeen": "2026-10-01T16:46:43.308Z"
+  },
+  {
+    "id": "ptt-i-11700-11900-z590",
+    "name": "i-11700 /11900 + Z590",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 590,
+    "action": "徵/雙北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "bingjunpp",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790833715.A.D4F.html",
+    "date": "10/01",
+    "lastSeen": "2026-10-01T16:46:43.308Z"
+  },
+  {
+    "id": "ptt-i-6400-power-機殼-gt730",
+    "name": "I-6400.POWER.機殼.GT730",
+    "brand": "其他",
+    "category": "case",
+    "price": 730,
+    "action": "賣/台南",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "dark7271",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790860169.A.525.html",
+    "date": "10/01",
+    "lastSeen": "2026-10-01T16:46:43.308Z"
   },
   {
     "id": "ptt-tp-link-cac750",
@@ -61,7 +77,23 @@
     "author": "a49828057",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790773090.A.0D8.html",
     "date": "9/30",
-    "lastSeen": "2026-10-01T00:55:14.442Z"
+    "lastSeen": "2026-10-01T16:46:43.308Z"
+  },
+  {
+    "id": "ptt-msi-gtx",
+    "name": "MSI GTX",
+    "brand": "MSI",
+    "category": "gpu",
+    "price": 970,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "MEVIUS",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790855347.A.3A8.html",
+    "date": "10/01",
+    "lastSeen": "2026-10-01T16:46:43.307Z"
   },
   {
     "id": "ptt-已徵得-筆電-ddrl-1600-1866",
@@ -77,39 +109,55 @@
     "author": "sapple2",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790752366.A.41D.html",
     "date": "9/30",
-    "lastSeen": "2026-10-01T00:55:14.443Z"
+    "lastSeen": "2026-10-01T16:46:43.308Z"
   },
   {
-    "id": "ptt-筆電-ddr8g-3200",
-    "name": "筆電 ddr8g 3200",
-    "brand": "其他",
-    "category": "laptop",
-    "price": 3200,
-    "action": "徵/雙北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "ttyeden",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790732790.A.437.html",
-    "date": "9/30",
-    "lastSeen": "2026-10-01T00:55:14.443Z"
-  },
-  {
-    "id": "ptt-rxxt-3080-rx6800",
-    "name": "rxxt 3080 rx6800",
+    "id": "ptt-final-vr",
+    "name": "final VR",
     "brand": "其他",
     "category": "other",
-    "price": 6800,
-    "action": "徵/雙北",
+    "price": 3000,
+    "action": "賣/台北",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "lianghuwu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790860797.A.9DC.html",
+    "date": "10/01",
+    "lastSeen": "2026-10-01T16:46:43.308Z"
+  },
+  {
+    "id": "ptt-賣-台北市-面交-asus-rt-axu-和-netgear-r7000",
+    "name": "[賣/台北市/面交]ASUS RT-AXU 和 NETGEAR R7000",
+    "brand": "ASUS",
+    "category": "other",
+    "price": 7000,
+    "action": "賣/",
+    "location": "",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "tsr91",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790859911.A.F01.html",
+    "date": "10/01",
+    "lastSeen": "2026-10-01T16:46:43.307Z"
+  },
+  {
+    "id": "ptt-cpu-i8100",
+    "name": "CPU I8100",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 8100,
+    "action": "賣/全國",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "MulletGame",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790683946.A.1C5.html",
-    "date": "9/29",
-    "lastSeen": "2026-10-01T00:55:14.443Z"
+    "author": "rayko0702",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790860248.A.CA1.html",
+    "date": "10/01",
+    "lastSeen": "2026-10-01T16:46:43.308Z"
   },
   {
     "id": "ptt-i-8500-i5-9500",
@@ -125,6 +173,6 @@
     "author": "mirc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790777669.A.8FA.html",
     "date": "9/30",
-    "lastSeen": "2026-10-01T00:55:14.442Z"
+    "lastSeen": "2026-10-01T16:46:43.308Z"
   }
 ]
