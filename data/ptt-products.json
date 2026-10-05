@@ -1,19 +1,19 @@
 [
   {
-    "id": "ptt-tp-link-archer-axax3000",
-    "name": "TP-Link Archer AXAX3000",
-    "brand": "其他",
+    "id": "ptt-皆售出asus-tuf-rtx-gtx960",
+    "name": "皆售出ASUS TUF RTX/GTX960",
+    "brand": "ASUS",
     "category": "motherboard",
-    "price": 3000,
-    "action": "賣/全國",
-    "location": "寄送",
+    "price": 960,
+    "action": "賣/新北",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "eeasy",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791029665.A.7E2.html",
-    "date": "10/03",
-    "lastSeen": "2026-10-05T00:19:37.492Z"
+    "author": "nonplume",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791210439.A.F2B.html",
+    "date": "10/05",
+    "lastSeen": "2026-10-05T18:57:14.602Z"
   },
   {
     "id": "ptt-金士頓ddr8gbx2-i7-4770",
@@ -29,7 +29,7 @@
     "author": "liveforspeed",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791123631.A.352.html",
     "date": "10/04",
-    "lastSeen": "2026-10-05T00:19:37.491Z"
+    "lastSeen": "2026-10-05T18:57:14.602Z"
   },
   {
     "id": "ptt-low-profile-rxrtx5060",
@@ -45,7 +45,7 @@
     "author": "Aquarius126",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791049117.A.BD5.html",
     "date": "10/04",
-    "lastSeen": "2026-10-05T00:19:37.492Z"
+    "lastSeen": "2026-10-05T18:57:14.603Z"
   },
   {
     "id": "ptt-i-13600k-b760m-plus-sn5100",
@@ -61,38 +61,6 @@
     "author": "allnippon",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791051640.A.88E.html",
     "date": "10/04",
-    "lastSeen": "2026-10-05T00:19:37.492Z"
-  },
-  {
-    "id": "ptt-hm-ddr4-8g-intel-g5400",
-    "name": "HM/DDR4 8G/Intel G5400",
-    "brand": "Intel",
-    "category": "ram",
-    "price": 5400,
-    "action": "賣/台中",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "johnson1104",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791024118.A.688.html",
-    "date": "10/03",
-    "lastSeen": "2026-10-05T00:19:37.492Z"
-  },
-  {
-    "id": "ptt-proart-xe-r7-7700",
-    "name": "ProArt XE、R7 7700",
-    "brand": "其他",
-    "category": "other",
-    "price": 7700,
-    "action": "賣/台南",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "JLINlikeshit",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1790957701.A.583.html",
-    "date": "10/03",
-    "lastSeen": "2026-10-05T00:19:37.492Z"
+    "lastSeen": "2026-10-05T18:57:14.603Z"
   }
 ]
