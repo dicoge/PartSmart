@@ -1,19 +1,19 @@
 [
   {
-    "id": "ptt-華為b-263",
-    "name": "華為B-263",
+    "id": "ptt-i-8400-b360-f-gaming-ddr4-266",
+    "name": "I-8400+B360-F GAMING ddr4 266",
     "brand": "其他",
-    "category": "other",
-    "price": 263,
-    "action": "徵/桃園楊梅",
+    "category": "motherboard",
+    "price": 266,
+    "action": "賣/桃園",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "loach168",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791269363.A.F64.html",
-    "date": "10/06",
-    "lastSeen": "2026-10-08T01:26:58.281Z"
+    "author": "william333w",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791467040.A.067.html",
+    "date": "10/08",
+    "lastSeen": "2026-10-08T17:04:18.681Z"
   },
   {
     "id": "ptt-asrock-deskmini-x",
@@ -29,7 +29,7 @@
     "author": "zz12345567",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791370689.A.096.html",
     "date": "10/07",
-    "lastSeen": "2026-10-08T01:26:58.280Z"
+    "lastSeen": "2026-10-08T17:04:18.681Z"
   },
   {
     "id": "ptt-qubematx機殼-海韻550w-ag400",
@@ -45,7 +45,7 @@
     "author": "miso0816",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791368511.A.EEC.html",
     "date": "10/07",
-    "lastSeen": "2026-10-08T01:26:58.280Z"
+    "lastSeen": "2026-10-08T17:04:18.681Z"
   },
   {
     "id": "ptt-rtx8g-arc-b580",
@@ -61,39 +61,55 @@
     "author": "hey1517",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791293034.A.F82.html",
     "date": "10/06",
-    "lastSeen": "2026-10-08T01:26:58.280Z"
+    "lastSeen": "2026-10-08T17:04:18.681Z"
   },
   {
-    "id": "ptt-皆售出asus-tuf-rtx-gtx960",
-    "name": "皆售出ASUS TUF RTX/GTX960",
-    "brand": "ASUS",
-    "category": "motherboard",
-    "price": 960,
-    "action": "賣/新北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "nonplume",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791210439.A.F2B.html",
-    "date": "10/05",
-    "lastSeen": "2026-10-08T01:26:58.281Z"
-  },
-  {
-    "id": "ptt-rtx-3070-4060",
-    "name": "RTX/3070/4060",
+    "id": "ptt-am帶內顯cpu-rx580-1060",
+    "name": "AM帶內顯CPU、RX580/1060",
     "brand": "其他",
-    "category": "gpu",
-    "price": 4060,
-    "action": "徵/全國",
+    "category": "cpu",
+    "price": 1060,
+    "action": "徵/高雄",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "asd0604",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791289366.A.CC5.html",
-    "date": "10/06",
-    "lastSeen": "2026-10-08T01:26:58.281Z"
+    "author": "whazboy",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791476213.A.4E9.html",
+    "date": "10/09",
+    "lastSeen": "2026-10-08T17:04:18.681Z"
+  },
+  {
+    "id": "ptt-各廠牌ddr-2133-ddr3-1600",
+    "name": "各廠牌DDR-2133, DDR3-1600",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 1600,
+    "action": "賣/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "edchans",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791436973.A.B10.html",
+    "date": "10/08",
+    "lastSeen": "2026-10-08T17:04:18.681Z"
+  },
+  {
+    "id": "ptt-bm-plus-和-i5-2400",
+    "name": "BM-PLUS 和 i5 2400",
+    "brand": "其他",
+    "category": "other",
+    "price": 2400,
+    "action": "賣/新竹",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "rrock",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791467744.A.583.html",
+    "date": "10/08",
+    "lastSeen": "2026-10-08T17:04:18.680Z"
   },
   {
     "id": "ptt-amd-r5500",
@@ -109,7 +125,7 @@
     "author": "q274112",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791383755.A.81C.html",
     "date": "10/07",
-    "lastSeen": "2026-10-08T01:26:58.279Z"
+    "lastSeen": "2026-10-08T17:04:18.681Z"
   },
   {
     "id": "ptt-6g-i3-8100",
@@ -125,6 +141,6 @@
     "author": "frencen",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791417509.A.F65.html",
     "date": "10/08",
-    "lastSeen": "2026-10-08T01:26:58.280Z"
+    "lastSeen": "2026-10-08T17:04:18.681Z"
   }
 ]
