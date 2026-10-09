@@ -13,7 +13,7 @@
     "author": "william333w",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791467040.A.067.html",
     "date": "10/08",
-    "lastSeen": "2026-10-09T01:34:01.835Z"
+    "lastSeen": "2026-10-09T16:42:05.585Z"
   },
   {
     "id": "ptt-asrock-deskmini-x",
@@ -29,39 +29,7 @@
     "author": "zz12345567",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791370689.A.096.html",
     "date": "10/07",
-    "lastSeen": "2026-10-09T01:34:01.836Z"
-  },
-  {
-    "id": "ptt-qubematx機殼-海韻550w-ag400",
-    "name": "QUBEMATX機殼/海韻550W/AG400",
-    "brand": "海韻",
-    "category": "case",
-    "price": 400,
-    "action": "賣/台北",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "miso0816",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791368511.A.EEC.html",
-    "date": "10/07",
-    "lastSeen": "2026-10-09T01:34:01.836Z"
-  },
-  {
-    "id": "ptt-rtx8g-arc-b580",
-    "name": "RTX8G、ARC B580",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 580,
-    "action": "徵/台中",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "hey1517",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791293034.A.F82.html",
-    "date": "10/06",
-    "lastSeen": "2026-10-09T01:34:01.836Z"
+    "lastSeen": "2026-10-09T16:42:05.586Z"
   },
   {
     "id": "ptt-am帶內顯cpu-rx580-1060",
@@ -77,7 +45,7 @@
     "author": "whazboy",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791476213.A.4E9.html",
     "date": "10/09",
-    "lastSeen": "2026-10-09T01:34:01.835Z"
+    "lastSeen": "2026-10-09T16:42:05.585Z"
   },
   {
     "id": "ptt-各廠牌ddr-2133-ddr3-1600",
@@ -93,7 +61,7 @@
     "author": "edchans",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791436973.A.B10.html",
     "date": "10/08",
-    "lastSeen": "2026-10-09T01:34:01.835Z"
+    "lastSeen": "2026-10-09T16:42:05.585Z"
   },
   {
     "id": "ptt-bm-plus-和-i5-2400",
@@ -109,7 +77,39 @@
     "author": "rrock",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791467744.A.583.html",
     "date": "10/08",
-    "lastSeen": "2026-10-09T01:34:01.835Z"
+    "lastSeen": "2026-10-09T16:42:05.585Z"
+  },
+  {
+    "id": "ptt-rtx",
+    "name": "RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3070,
+    "action": "徵/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ETTom",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791529854.A.DF6.html",
+    "date": "10/09",
+    "lastSeen": "2026-10-09T16:42:05.585Z"
+  },
+  {
+    "id": "ptt-x半套-evga-rtx3080",
+    "name": "X半套 EVGA RTX3080",
+    "brand": "EVGA",
+    "category": "motherboard",
+    "price": 3080,
+    "action": "賣/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ethan111452",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791518534.A.CAC.html",
+    "date": "10/09",
+    "lastSeen": "2026-10-09T16:42:05.585Z"
   },
   {
     "id": "ptt-amd-r5500",
@@ -125,7 +125,7 @@
     "author": "q274112",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791383755.A.81C.html",
     "date": "10/07",
-    "lastSeen": "2026-10-09T01:34:01.835Z"
+    "lastSeen": "2026-10-09T16:42:05.586Z"
   },
   {
     "id": "ptt-6g-i3-8100",
@@ -141,6 +141,6 @@
     "author": "frencen",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791417509.A.F65.html",
     "date": "10/08",
-    "lastSeen": "2026-10-09T01:34:01.836Z"
+    "lastSeen": "2026-10-09T16:42:05.586Z"
   }
 ]
