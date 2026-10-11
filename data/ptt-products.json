@@ -13,7 +13,23 @@
     "author": "rayko0702",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791638590.A.590.html",
     "date": "10/10",
-    "lastSeen": "2026-10-11T00:35:07.759Z"
+    "lastSeen": "2026-10-11T16:02:36.917Z"
+  },
+  {
+    "id": "ptt-k-b760-1650-5600-x570",
+    "name": "K B760 1650 5600 X570",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 570,
+    "action": "賣/桃園",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "pokl1210",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791700060.A.6B6.html",
+    "date": "10/11",
+    "lastSeen": "2026-10-11T16:02:36.917Z"
   },
   {
     "id": "ptt-arc-b",
@@ -29,7 +45,7 @@
     "author": "joenot",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791656431.A.4A8.html",
     "date": "10/11",
-    "lastSeen": "2026-10-11T00:35:07.759Z"
+    "lastSeen": "2026-10-11T16:02:36.917Z"
   },
   {
     "id": "ptt-ryzen-x-phenom-x4-965",
@@ -45,23 +61,7 @@
     "author": "mercuries2",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791615248.A.217.html",
     "date": "10/10",
-    "lastSeen": "2026-10-11T00:35:07.760Z"
-  },
-  {
-    "id": "ptt-rtx",
-    "name": "RTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 3070,
-    "action": "徵/台中",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "ETTom",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791529854.A.DF6.html",
-    "date": "10/09",
-    "lastSeen": "2026-10-11T00:35:07.760Z"
+    "lastSeen": "2026-10-11T16:02:36.917Z"
   },
   {
     "id": "ptt-rtx-fe-amp-aorus-5080",
@@ -77,7 +77,7 @@
     "author": "d85643",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791644410.A.A72.html",
     "date": "10/10",
-    "lastSeen": "2026-10-11T00:35:07.759Z"
+    "lastSeen": "2026-10-11T16:02:36.917Z"
   },
   {
     "id": "ptt-nvidia-rtx",
@@ -93,7 +93,7 @@
     "author": "game0502",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791616474.A.9E0.html",
     "date": "10/10",
-    "lastSeen": "2026-10-11T00:35:07.760Z"
+    "lastSeen": "2026-10-11T16:02:36.917Z"
   },
   {
     "id": "ptt-proart-xe-r7-7700",
@@ -109,7 +109,7 @@
     "author": "JLINlikeshit",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791575096.A.F9B.html",
     "date": "10/10",
-    "lastSeen": "2026-10-11T00:35:07.760Z"
+    "lastSeen": "2026-10-11T16:02:36.917Z"
   },
   {
     "id": "ptt-i12600-12代半套-32g-9000",
@@ -125,6 +125,38 @@
     "author": "Paulbio",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791614771.A.94B.html",
     "date": "10/10",
-    "lastSeen": "2026-10-11T00:35:07.760Z"
+    "lastSeen": "2026-10-11T16:02:36.917Z"
+  },
+  {
+    "id": "ptt-cpu-i-10100-10105",
+    "name": "CPU i-10100/10105",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 10105,
+    "action": "徵/台南",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "misshazel",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791704749.A.C6B.html",
+    "date": "10/11",
+    "lastSeen": "2026-10-11T16:02:36.917Z"
+  },
+  {
+    "id": "ptt-i-11700-i9-11900",
+    "name": "i-11700 i9-11900",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 11900,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "bigG0619",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791710277.A.1B4.html",
+    "date": "10/11",
+    "lastSeen": "2026-10-11T16:02:36.916Z"
   }
 ]
