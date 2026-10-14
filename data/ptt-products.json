@@ -1,35 +1,19 @@
 [
   {
-    "id": "ptt-筆電記憶體-ssd-美光-ddr-5600-16g-mx500",
-    "name": "筆電記憶體/SSD 美光 DDR-5600 16G/MX500",
-    "brand": "美光",
-    "category": "motherboard",
-    "price": 500,
-    "action": "賣/台中",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "oherman",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791764708.A.E97.html",
-    "date": "10/12",
-    "lastSeen": "2026-10-14T00:45:08.963Z"
-  },
-  {
-    "id": "ptt-i-6400-h270m-power-gt730",
-    "name": "I-6400.H270M.POWER.GT730",
+    "id": "ptt-圓剛am",
+    "name": "圓剛AM",
     "brand": "其他",
-    "category": "motherboard",
-    "price": 730,
-    "action": "賣/台南",
+    "category": "other",
+    "price": 310,
+    "action": "徵/新竹",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "dark7271",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791773883.A.49C.html",
-    "date": "10/12",
-    "lastSeen": "2026-10-14T00:45:08.963Z"
+    "author": "lianghuwu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791950264.A.331.html",
+    "date": "10/14",
+    "lastSeen": "2026-10-14T14:46:09.821Z"
   },
   {
     "id": "ptt-gtx或960",
@@ -45,7 +29,7 @@
     "author": "frencen",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791862765.A.A27.html",
     "date": "10/13",
-    "lastSeen": "2026-10-14T00:45:08.963Z"
+    "lastSeen": "2026-10-14T14:46:09.822Z"
   },
   {
     "id": "ptt-三星ddr16g-ecc-威剛ddr4-8g-g1610",
@@ -61,7 +45,7 @@
     "author": "dargon0000",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791887192.A.9E4.html",
     "date": "10/13",
-    "lastSeen": "2026-10-14T00:45:08.962Z"
+    "lastSeen": "2026-10-14T14:46:09.822Z"
   },
   {
     "id": "ptt-洽中d記憶體-4060",
@@ -77,7 +61,7 @@
     "author": "keisuke458",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791799966.A.06A.html",
     "date": "10/12",
-    "lastSeen": "2026-10-14T00:45:08.963Z"
+    "lastSeen": "2026-10-14T14:46:09.822Z"
   },
   {
     "id": "ptt-rtxti-3070-4060",
@@ -93,7 +77,7 @@
     "author": "mattlin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791802495.A.D2F.html",
     "date": "10/12",
-    "lastSeen": "2026-10-14T00:45:08.963Z"
+    "lastSeen": "2026-10-14T14:46:09.822Z"
   },
   {
     "id": "ptt-ti-4060",
@@ -109,7 +93,7 @@
     "author": "ru19",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791805081.A.AAD.html",
     "date": "10/12",
-    "lastSeen": "2026-10-14T00:45:08.963Z"
+    "lastSeen": "2026-10-14T14:46:09.822Z"
   },
   {
     "id": "ptt-hm-ddr4-8g-g5400",
@@ -125,22 +109,38 @@
     "author": "johnson1104",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791905657.A.85F.html",
     "date": "10/13",
-    "lastSeen": "2026-10-14T00:45:08.962Z"
+    "lastSeen": "2026-10-14T14:46:09.822Z"
   },
   {
-    "id": "ptt-i-11700-i9-11900",
-    "name": "i-11700 i9-11900",
+    "id": "ptt-ddr12400-r5-3600-5600",
+    "name": "DDR12400 R5 3600 5600",
     "brand": "其他",
-    "category": "cpu",
-    "price": 11900,
-    "action": "徵/全國",
+    "category": "other",
+    "price": 5600,
+    "action": "徵/竹苗",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "bigG0619",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791710277.A.1B4.html",
-    "date": "10/11",
-    "lastSeen": "2026-10-14T00:45:08.963Z"
+    "author": "new12668",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791810067.A.2A0.html",
+    "date": "10/12",
+    "lastSeen": "2026-10-14T14:46:09.822Z"
+  },
+  {
+    "id": "ptt-i-11700-i9-11900",
+    "name": "i-11700、i9-11900",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 11900,
+    "action": "徵/高屏",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "Namicat",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791957369.A.14C.html",
+    "date": "10/14",
+    "lastSeen": "2026-10-14T14:46:09.822Z"
   }
 ]
