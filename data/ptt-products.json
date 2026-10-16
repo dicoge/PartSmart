@@ -13,23 +13,7 @@
     "author": "lianghuwu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791950264.A.331.html",
     "date": "10/14",
-    "lastSeen": "2026-10-15T23:58:30.739Z"
-  },
-  {
-    "id": "ptt-三星ddr16g-ecc-威剛ddr4-8g-g1610",
-    "name": "三星DDR16G ECC/威剛DDR4 8G/G1610",
-    "brand": "三星",
-    "category": "ram",
-    "price": 1610,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "dargon0000",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791887192.A.9E4.html",
-    "date": "10/13",
-    "lastSeen": "2026-10-15T23:58:30.739Z"
+    "lastSeen": "2026-10-16T14:23:54.660Z"
   },
   {
     "id": "ptt-g-d4-3200及32g-d4-2666",
@@ -45,23 +29,39 @@
     "author": "digitaler",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792064120.A.042.html",
     "date": "10/15",
-    "lastSeen": "2026-10-15T23:58:30.739Z"
+    "lastSeen": "2026-10-16T14:23:54.660Z"
   },
   {
-    "id": "ptt-hm-ddr4-8g-g5400",
-    "name": "HM/DDR4 8G/G5400",
-    "brand": "其他",
-    "category": "ram",
-    "price": 5400,
+    "id": "ptt-asus-ko",
+    "name": "ASUS KO",
+    "brand": "ASUS",
+    "category": "other",
+    "price": 3070,
     "action": "賣/台中",
-    "location": "面交",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "johnson1104",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791905657.A.85F.html",
-    "date": "10/13",
-    "lastSeen": "2026-10-15T23:58:30.739Z"
+    "author": "kingking949",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792120126.A.C45.html",
+    "date": "10/16",
+    "lastSeen": "2026-10-16T14:23:54.658Z"
+  },
+  {
+    "id": "ptt-s-5080",
+    "name": "S 5080",
+    "brand": "其他",
+    "category": "other",
+    "price": 5080,
+    "action": "徵/桃園",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "dre34317",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792150603.A.CAE.html",
+    "date": "10/16",
+    "lastSeen": "2026-10-16T14:23:54.659Z"
   },
   {
     "id": "ptt-pplus-g2-1t-ssd-l5420",
@@ -77,7 +77,23 @@
     "author": "nikkoo",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792073125.A.A97.html",
     "date": "10/15",
-    "lastSeen": "2026-10-15T23:58:30.738Z"
+    "lastSeen": "2026-10-16T14:23:54.659Z"
+  },
+  {
+    "id": "ptt-proart-xe-r7-7700",
+    "name": "ProArt XE、R7 7700",
+    "brand": "其他",
+    "category": "other",
+    "price": 7700,
+    "action": "賣/台南",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "JLINlikeshit",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792155774.A.9AE.html",
+    "date": "10/16",
+    "lastSeen": "2026-10-16T14:23:54.659Z"
   },
   {
     "id": "ptt-i-11700-i9-11900",
@@ -93,6 +109,6 @@
     "author": "Namicat",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791957369.A.14C.html",
     "date": "10/14",
-    "lastSeen": "2026-10-15T23:58:30.739Z"
+    "lastSeen": "2026-10-16T14:23:54.660Z"
   }
 ]
