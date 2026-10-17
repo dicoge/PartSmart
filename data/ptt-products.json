@@ -1,19 +1,19 @@
 [
   {
-    "id": "ptt-圓剛am",
-    "name": "圓剛AM",
+    "id": "ptt-gtx-s-1660ti-rtx2060",
+    "name": "GTX S/1660Ti RTX2060",
     "brand": "其他",
-    "category": "other",
-    "price": 310,
-    "action": "徵/新竹",
+    "category": "motherboard",
+    "price": 2060,
+    "action": "徵/高雄",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "lianghuwu",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791950264.A.331.html",
-    "date": "10/14",
-    "lastSeen": "2026-10-16T14:23:54.660Z"
+    "author": "jinnic04178",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792194928.A.0BA.html",
+    "date": "10/17",
+    "lastSeen": "2026-10-17T00:03:40.638Z"
   },
   {
     "id": "ptt-g-d4-3200及32g-d4-2666",
@@ -29,7 +29,7 @@
     "author": "digitaler",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792064120.A.042.html",
     "date": "10/15",
-    "lastSeen": "2026-10-16T14:23:54.660Z"
+    "lastSeen": "2026-10-17T00:03:40.639Z"
   },
   {
     "id": "ptt-asus-ko",
@@ -45,7 +45,7 @@
     "author": "kingking949",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792120126.A.C45.html",
     "date": "10/16",
-    "lastSeen": "2026-10-16T14:23:54.658Z"
+    "lastSeen": "2026-10-17T00:03:40.638Z"
   },
   {
     "id": "ptt-s-5080",
@@ -61,7 +61,7 @@
     "author": "dre34317",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792150603.A.CAE.html",
     "date": "10/16",
-    "lastSeen": "2026-10-16T14:23:54.659Z"
+    "lastSeen": "2026-10-17T00:03:40.638Z"
   },
   {
     "id": "ptt-pplus-g2-1t-ssd-l5420",
@@ -77,7 +77,7 @@
     "author": "nikkoo",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792073125.A.A97.html",
     "date": "10/15",
-    "lastSeen": "2026-10-16T14:23:54.659Z"
+    "lastSeen": "2026-10-17T00:03:40.638Z"
   },
   {
     "id": "ptt-proart-xe-r7-7700",
@@ -93,22 +93,6 @@
     "author": "JLINlikeshit",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792155774.A.9AE.html",
     "date": "10/16",
-    "lastSeen": "2026-10-16T14:23:54.659Z"
-  },
-  {
-    "id": "ptt-i-11700-i9-11900",
-    "name": "i-11700、i9-11900",
-    "brand": "其他",
-    "category": "cpu",
-    "price": 11900,
-    "action": "徵/高屏",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Namicat",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1791957369.A.14C.html",
-    "date": "10/14",
-    "lastSeen": "2026-10-16T14:23:54.660Z"
+    "lastSeen": "2026-10-17T00:03:40.638Z"
   }
 ]
