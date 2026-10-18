@@ -1,5 +1,21 @@
 [
   {
+    "id": "ptt-i7500-h270",
+    "name": "i7500 h270",
+    "brand": "其他",
+    "category": "other",
+    "price": 270,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "kuowei12",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792295515.A.444.html",
+    "date": "10/18",
+    "lastSeen": "2026-10-18T13:39:50.875Z"
+  },
+  {
     "id": "ptt-14代-cpu-rog-b650e-i-x670",
     "name": "(~14代)CPU ROG B650E-I X670",
     "brand": "其他",
@@ -13,7 +29,23 @@
     "author": "w1222067",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792263486.A.63D.html",
     "date": "10/18",
-    "lastSeen": "2026-10-17T23:38:34.583Z"
+    "lastSeen": "2026-10-18T13:39:50.874Z"
+  },
+  {
+    "id": "ptt-2g-顯示卡-950元",
+    "name": "2G 顯示卡 950元",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 950,
+    "action": "賣/高雄",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "SkLc",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792310712.A.6CF.html",
+    "date": "10/18",
+    "lastSeen": "2026-10-18T13:39:50.874Z"
   },
   {
     "id": "ptt-gtx-s-1660ti-rtx2060",
@@ -29,23 +61,39 @@
     "author": "jinnic04178",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792194928.A.0BA.html",
     "date": "10/17",
-    "lastSeen": "2026-10-17T23:38:34.584Z"
+    "lastSeen": "2026-10-18T13:39:50.875Z"
   },
   {
-    "id": "ptt-asus-ko",
-    "name": "ASUS KO",
-    "brand": "ASUS",
+    "id": "ptt-桌機ddr3200-或-2666",
+    "name": "桌機DDR3200 或 2666",
+    "brand": "其他",
     "category": "other",
-    "price": 3070,
-    "action": "賣/台中",
+    "price": 2666,
+    "action": "徵/雙北",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "kingking949",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792120126.A.C45.html",
-    "date": "10/16",
-    "lastSeen": "2026-10-17T23:38:34.584Z"
+    "author": "bonebonebone",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792322512.A.B22.html",
+    "date": "10/18",
+    "lastSeen": "2026-10-18T13:39:50.874Z"
+  },
+  {
+    "id": "ptt-ddr16g-3200",
+    "name": "DDR16G 3200",
+    "brand": "其他",
+    "category": "other",
+    "price": 3200,
+    "action": "徵/新竹",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "class177",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792289061.A.C73.html",
+    "date": "10/18",
+    "lastSeen": "2026-10-18T13:39:50.875Z"
   },
   {
     "id": "ptt-s-5080",
@@ -61,23 +109,7 @@
     "author": "dre34317",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792150603.A.CAE.html",
     "date": "10/16",
-    "lastSeen": "2026-10-17T23:38:34.584Z"
-  },
-  {
-    "id": "ptt-pplus-g2-1t-ssd-l5420",
-    "name": "PPLUS G2 1T SSD L5420",
-    "brand": "其他",
-    "category": "ssd",
-    "price": 5420,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "nikkoo",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792073125.A.A97.html",
-    "date": "10/15",
-    "lastSeen": "2026-10-17T23:38:34.584Z"
+    "lastSeen": "2026-10-18T13:39:50.875Z"
   },
   {
     "id": "ptt-proart-xe-r7-7700",
@@ -93,7 +125,7 @@
     "author": "JLINlikeshit",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792155774.A.9AE.html",
     "date": "10/16",
-    "lastSeen": "2026-10-17T23:38:34.584Z"
+    "lastSeen": "2026-10-18T13:39:50.875Z"
   },
   {
     "id": "ptt-rog-zdark-hero-14700",
@@ -109,6 +141,6 @@
     "author": "Rangarok002",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792216160.A.62F.html",
     "date": "10/17",
-    "lastSeen": "2026-10-17T23:38:34.584Z"
+    "lastSeen": "2026-10-18T13:39:50.875Z"
   }
 ]
