@@ -13,7 +13,7 @@
     "author": "Mash691566",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792404999.A.987.html",
     "date": "10/19",
-    "lastSeen": "2026-10-20T00:49:34.326Z"
+    "lastSeen": "2026-10-20T14:33:57.181Z"
   },
   {
     "id": "ptt-利民塔扇-pa",
@@ -29,39 +29,23 @@
     "author": "a49828057",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792331819.A.9A6.html",
     "date": "10/18",
-    "lastSeen": "2026-10-20T00:49:34.327Z"
+    "lastSeen": "2026-10-20T14:33:57.182Z"
   },
   {
-    "id": "ptt-2g-顯示卡-950元",
-    "name": "2G 顯示卡 950元",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 950,
-    "action": "賣/高雄",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "SkLc",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792310712.A.6CF.html",
-    "date": "10/18",
-    "lastSeen": "2026-10-20T00:49:34.327Z"
-  },
-  {
-    "id": "ptt-桌機ddr3200-或-2666",
-    "name": "桌機DDR3200 或 2666",
+    "id": "ptt-6g-1070-1080-1660-2060",
+    "name": "6g/1070/1080/1660/2060",
     "brand": "其他",
     "category": "other",
-    "price": 2666,
-    "action": "徵/雙北",
+    "price": 2060,
+    "action": "徵/台中",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "bonebonebone",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792322512.A.B22.html",
-    "date": "10/18",
-    "lastSeen": "2026-10-20T00:49:34.327Z"
+    "author": "heep12345h",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792492012.A.1C2.html",
+    "date": "10/20",
+    "lastSeen": "2026-10-20T14:33:57.180Z"
   },
   {
     "id": "ptt-asus-rog",
@@ -77,7 +61,7 @@
     "author": "ludashi",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792381691.A.404.html",
     "date": "10/19",
-    "lastSeen": "2026-10-20T00:49:34.327Z"
+    "lastSeen": "2026-10-20T14:33:57.181Z"
   },
   {
     "id": "ptt-雙風扇-rtx",
@@ -93,7 +77,7 @@
     "author": "jjandy",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792393287.A.591.html",
     "date": "10/19",
-    "lastSeen": "2026-10-20T00:49:34.327Z"
+    "lastSeen": "2026-10-20T14:33:57.181Z"
   },
   {
     "id": "ptt-顯卡rtx-4070",
@@ -109,7 +93,7 @@
     "author": "hibeautycrow",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792402784.A.9E7.html",
     "date": "10/19",
-    "lastSeen": "2026-10-20T00:49:34.326Z"
+    "lastSeen": "2026-10-20T14:33:57.181Z"
   },
   {
     "id": "ptt-rx",
@@ -125,7 +109,7 @@
     "author": "ayohou",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792407100.A.6CF.html",
     "date": "10/19",
-    "lastSeen": "2026-10-20T00:49:34.327Z"
+    "lastSeen": "2026-10-20T14:33:57.181Z"
   },
   {
     "id": "ptt-i10100-或10105",
@@ -141,6 +125,22 @@
     "author": "Haoger",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792335232.A.3E4.html",
     "date": "10/18",
-    "lastSeen": "2026-10-20T00:49:34.327Z"
+    "lastSeen": "2026-10-20T14:33:57.182Z"
+  },
+  {
+    "id": "ptt-i-11700-i9-11900",
+    "name": "i-11700 i9-11900",
+    "brand": "其他",
+    "category": "cpu",
+    "price": 11900,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "bigG0619",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792497108.A.A52.html",
+    "date": "10/20",
+    "lastSeen": "2026-10-20T14:33:57.181Z"
   }
 ]
