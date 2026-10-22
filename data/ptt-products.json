@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-fractal-pop-mini-silent-tr",
-    "name": "Fractal pop mini silent/ TR",
-    "brand": "Fractal",
-    "category": "other",
-    "price": 120,
-    "action": "賣/台北",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Mash691566",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792404999.A.987.html",
-    "date": "10/19",
-    "lastSeen": "2026-10-22T00:19:33.876Z"
-  },
-  {
     "id": "ptt-夜鷹路由器rs",
     "name": "夜鷹路由器rs",
     "brand": "其他",
@@ -29,7 +13,23 @@
     "author": "kissmy0926",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792625795.A.305.html",
     "date": "10/22",
-    "lastSeen": "2026-10-22T00:19:33.875Z"
+    "lastSeen": "2026-10-22T14:44:58.801Z"
+  },
+  {
+    "id": "ptt-水冷-瑞典牌機殼-sfx850",
+    "name": "水冷、瑞典牌機殼、SFX850",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 850,
+    "action": "賣/桃園",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "zuzuzu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792638867.A.298.html",
+    "date": "10/22",
+    "lastSeen": "2026-10-22T14:44:58.801Z"
   },
   {
     "id": "ptt-6g-1070-1080-1660-2060",
@@ -45,23 +45,7 @@
     "author": "heep12345h",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792492012.A.1C2.html",
     "date": "10/20",
-    "lastSeen": "2026-10-22T00:19:33.875Z"
-  },
-  {
-    "id": "ptt-顯卡rtx-4070",
-    "name": "顯卡RTX/4070",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 4070,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "hibeautycrow",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792402784.A.9E7.html",
-    "date": "10/19",
-    "lastSeen": "2026-10-22T00:19:33.876Z"
+    "lastSeen": "2026-10-22T14:44:58.801Z"
   },
   {
     "id": "ptt-暫售-i-5820k-i5-6500",
@@ -77,23 +61,7 @@
     "author": "schumache",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792582680.A.34C.html",
     "date": "10/21",
-    "lastSeen": "2026-10-22T00:19:33.874Z"
-  },
-  {
-    "id": "ptt-rx",
-    "name": "RX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 6600,
-    "action": "徵/台中",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "ayohou",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792407100.A.6CF.html",
-    "date": "10/19",
-    "lastSeen": "2026-10-22T00:19:33.876Z"
+    "lastSeen": "2026-10-22T14:44:58.801Z"
   },
   {
     "id": "ptt-i-11700-i9-11900",
@@ -109,6 +77,6 @@
     "author": "bigG0619",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792497108.A.A52.html",
     "date": "10/20",
-    "lastSeen": "2026-10-22T00:19:33.875Z"
+    "lastSeen": "2026-10-22T14:44:58.801Z"
   }
 ]
