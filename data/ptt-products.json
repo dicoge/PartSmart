@@ -1,5 +1,21 @@
 [
   {
+    "id": "ptt-i8100-i5-6500-b150",
+    "name": "I8100/ I5 6500+B150",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 150,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "rayko0702",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792766985.A.1AE.html",
+    "date": "10/23",
+    "lastSeen": "2026-10-24T00:08:41.951Z"
+  },
+  {
     "id": "ptt-夜鷹路由器rs",
     "name": "夜鷹路由器rs",
     "brand": "其他",
@@ -13,7 +29,7 @@
     "author": "kissmy0926",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792625795.A.305.html",
     "date": "10/22",
-    "lastSeen": "2026-10-23T14:31:34.686Z"
+    "lastSeen": "2026-10-24T00:08:41.952Z"
   },
   {
     "id": "ptt-水冷-瑞典牌機殼-sfx850",
@@ -29,7 +45,39 @@
     "author": "zuzuzu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792638867.A.298.html",
     "date": "10/22",
-    "lastSeen": "2026-10-23T14:31:34.685Z"
+    "lastSeen": "2026-10-24T00:08:41.951Z"
+  },
+  {
+    "id": "ptt-i-2400半套-創見8g-ddr4-2400",
+    "name": "i-2400半套 / 創見8G DDR4-2400",
+    "brand": "其他",
+    "category": "ram",
+    "price": 2400,
+    "action": "賣/新竹",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "host0987",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792766990.A.785.html",
+    "date": "10/23",
+    "lastSeen": "2026-10-24T00:08:41.951Z"
+  },
+  {
+    "id": "ptt-i-9700-ddr4-2666",
+    "name": "i-9700 DDR4-2666",
+    "brand": "其他",
+    "category": "ram",
+    "price": 2666,
+    "action": "賣/新北",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "zardusa",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792777174.A.EFF.html",
+    "date": "10/24",
+    "lastSeen": "2026-10-24T00:08:41.951Z"
   },
   {
     "id": "ptt-暫售-i-5820k-i5-6500",
@@ -45,7 +93,7 @@
     "author": "schumache",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792582680.A.34C.html",
     "date": "10/21",
-    "lastSeen": "2026-10-23T14:31:34.686Z"
+    "lastSeen": "2026-10-24T00:08:41.952Z"
   },
   {
     "id": "ptt-rog-sheath滑鼠墊-i-14700",
@@ -61,6 +109,6 @@
     "author": "Rangarok002",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792726322.A.9D4.html",
     "date": "10/23",
-    "lastSeen": "2026-10-23T14:31:34.685Z"
+    "lastSeen": "2026-10-24T00:08:41.951Z"
   }
 ]
