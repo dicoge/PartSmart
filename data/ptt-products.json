@@ -13,7 +13,7 @@
     "author": "rayko0702",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792766985.A.1AE.html",
     "date": "10/23",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
+    "lastSeen": "2026-10-25T14:00:15.795Z"
   },
   {
     "id": "ptt-deskmini-x",
@@ -29,7 +29,7 @@
     "author": "pttlove520",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792866799.A.794.html",
     "date": "10/25",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
+    "lastSeen": "2026-10-25T14:00:15.795Z"
   },
   {
     "id": "ptt-光碟燒錄機-has跟-has324",
@@ -45,7 +45,7 @@
     "author": "whatin12227",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792848149.A.12C.html",
     "date": "10/24",
-    "lastSeen": "2026-10-24T23:52:15.203Z"
+    "lastSeen": "2026-10-25T14:00:15.795Z"
   },
   {
     "id": "ptt-故障的b",
@@ -61,23 +61,39 @@
     "author": "bear87",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792852277.A.999.html",
     "date": "10/24",
-    "lastSeen": "2026-10-24T23:52:15.203Z"
+    "lastSeen": "2026-10-25T14:00:15.795Z"
   },
   {
-    "id": "ptt-水冷-瑞典牌機殼-sfx850",
-    "name": "水冷、瑞典牌機殼、SFX850",
+    "id": "ptt-售出-ddr3200-16g-2-q67h2-am-g540",
+    "name": "售出 ddr3200 16g*2+q67h2-am+g540",
     "brand": "其他",
-    "category": "motherboard",
-    "price": 850,
+    "category": "other",
+    "price": 540,
     "action": "賣/桃園",
-    "location": "皆可",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "zuzuzu",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792638867.A.298.html",
-    "date": "10/22",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
+    "author": "qwertasdfgh",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792922350.A.B3B.html",
+    "date": "10/25",
+    "lastSeen": "2026-10-25T14:00:15.795Z"
+  },
+  {
+    "id": "ptt-i-12700-3080-12g-d4-16g-h670",
+    "name": "i-12700/3080 12G/D4 16G/H670",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 670,
+    "action": "賣/新竹",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "we777",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792934254.A.DCE.html",
+    "date": "10/25",
+    "lastSeen": "2026-10-25T14:00:15.794Z"
   },
   {
     "id": "ptt-i-2400半套-創見8g-ddr4-2400",
@@ -93,7 +109,7 @@
     "author": "host0987",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792766990.A.785.html",
     "date": "10/23",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
+    "lastSeen": "2026-10-25T14:00:15.795Z"
   },
   {
     "id": "ptt-i-9700-ddr4-2666",
@@ -109,7 +125,7 @@
     "author": "zardusa",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792777174.A.EFF.html",
     "date": "10/24",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
+    "lastSeen": "2026-10-25T14:00:15.795Z"
   },
   {
     "id": "ptt-rtx",
@@ -125,38 +141,6 @@
     "author": "wogenki",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792818012.A.320.html",
     "date": "10/24",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
-  },
-  {
-    "id": "ptt-r5700x-b550-ddr4-rtx4060",
-    "name": "R5700X/B550/DDR4/RTX4060",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 4060,
-    "action": "徵/雙北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "haruhi66",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792825515.A.111.html",
-    "date": "10/24",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
-  },
-  {
-    "id": "ptt-rog-sheath滑鼠墊-i-14700",
-    "name": "ROG Sheath滑鼠墊 I-14700",
-    "brand": "其他",
-    "category": "peripheral",
-    "price": 14700,
-    "action": "賣/台中",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Rangarok002",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792726322.A.9D4.html",
-    "date": "10/23",
-    "lastSeen": "2026-10-24T23:52:15.204Z"
+    "lastSeen": "2026-10-25T14:00:15.795Z"
   }
 ]
