@@ -1,55 +1,23 @@
 [
   {
-    "id": "ptt-deskmini-x",
-    "name": "deskmini x",
+    "id": "ptt-fractal-pop-mini-silent-tr",
+    "name": "fractal pop mini silent / TR",
     "brand": "其他",
     "category": "other",
-    "price": 300,
-    "action": "賣/全國",
-    "location": "皆可",
+    "price": 120,
+    "action": "賣/台北",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "pttlove520",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792866799.A.794.html",
-    "date": "10/25",
-    "lastSeen": "2026-10-25T23:40:51.505Z"
+    "author": "Mash691566",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793005011.A.777.html",
+    "date": "10/26",
+    "lastSeen": "2026-10-26T16:21:46.946Z"
   },
   {
-    "id": "ptt-光碟燒錄機-has跟-has324",
-    "name": "光碟燒錄機 HAS跟 HAS324",
-    "brand": "其他",
-    "category": "other",
-    "price": 324,
-    "action": "賣/台中",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "whatin12227",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792848149.A.12C.html",
-    "date": "10/24",
-    "lastSeen": "2026-10-25T23:40:51.505Z"
-  },
-  {
-    "id": "ptt-故障的b",
-    "name": "故障的B",
-    "brand": "其他",
-    "category": "other",
-    "price": 450,
-    "action": "賣/彰化",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "bear87",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792852277.A.999.html",
-    "date": "10/24",
-    "lastSeen": "2026-10-25T23:40:51.505Z"
-  },
-  {
-    "id": "ptt-出-ddr3200-16g-2-q67h2-am-g540",
-    "name": "��出 ddr3200 16g*2+q67h2-am+g540",
+    "id": "ptt-售出-ddr3200-16g-2-q67h2-am-g540",
+    "name": "售出 ddr3200 16g*2+q67h2-am+g540",
     "brand": "其他",
     "category": "other",
     "price": 540,
@@ -61,39 +29,23 @@
     "author": "qwertasdfgh",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792922350.A.B3B.html",
     "date": "10/25",
-    "lastSeen": "2026-10-25T23:40:51.505Z"
+    "lastSeen": "2026-10-26T16:21:46.947Z"
   },
   {
-    "id": "ptt-暫售-i-12700-3080-12g-d4-16g-h670",
-    "name": "(暫售）i-12700/3080 12G/D4 16G/H670",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 670,
-    "action": "賣/新竹",
+    "id": "ptt-asus-rog-strix-rtx",
+    "name": "ASUS ROG STRIX RTX",
+    "brand": "ASUS",
+    "category": "gpu",
+    "price": 3090,
+    "action": "賣/台北",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "we777",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792934254.A.DCE.html",
-    "date": "10/25",
-    "lastSeen": "2026-10-25T23:40:51.505Z"
-  },
-  {
-    "id": "ptt-rtx",
-    "name": "RTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 3070,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "wogenki",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792818012.A.320.html",
-    "date": "10/24",
-    "lastSeen": "2026-10-25T23:40:51.505Z"
+    "author": "gogohouse",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793021137.A.96D.html",
+    "date": "10/26",
+    "lastSeen": "2026-10-26T16:21:46.946Z"
   },
   {
     "id": "ptt-i4770-i7-4790",
@@ -109,7 +61,7 @@
     "author": "ping870224",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792941478.A.9A3.html",
     "date": "10/25",
-    "lastSeen": "2026-10-25T23:40:51.505Z"
+    "lastSeen": "2026-10-26T16:21:46.947Z"
   },
   {
     "id": "ptt-rx",
@@ -125,6 +77,6 @@
     "author": "bannn",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792950508.A.7A5.html",
     "date": "10/26",
-    "lastSeen": "2026-10-25T23:40:51.504Z"
+    "lastSeen": "2026-10-26T16:21:46.947Z"
   }
 ]
