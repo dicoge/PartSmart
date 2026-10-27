@@ -13,23 +13,71 @@
     "author": "Mash691566",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793005011.A.777.html",
     "date": "10/26",
-    "lastSeen": "2026-10-27T01:00:07.653Z"
+    "lastSeen": "2026-10-27T15:36:08.690Z"
   },
   {
-    "id": "ptt-售出-ddr3200-16g-2-q67h2-am-g540",
-    "name": "售出 ddr3200 16g*2+q67h2-am+g540",
+    "id": "ptt-msi-urx-qd-oled-4k-27吋-240",
+    "name": "MSI URX QD-OLED 4K 27吋 240",
+    "brand": "MSI",
+    "category": "gpu",
+    "price": 240,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ideal0105",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793107533.A.E56.html",
+    "date": "10/27",
+    "lastSeen": "2026-10-27T15:36:08.689Z"
+  },
+  {
+    "id": "ptt-圓剛gc",
+    "name": "圓剛GC",
     "brand": "其他",
     "category": "other",
-    "price": 540,
-    "action": "賣/桃園",
+    "price": 551,
+    "action": "賣/台中",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "qwertasdfgh",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792922350.A.B3B.html",
-    "date": "10/25",
-    "lastSeen": "2026-10-27T01:00:07.653Z"
+    "author": "tsukiya",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793104911.A.046.html",
+    "date": "10/27",
+    "lastSeen": "2026-10-27T15:36:08.689Z"
+  },
+  {
+    "id": "ptt-xt-3070-2070",
+    "name": "xt / 3070 / 2070",
+    "brand": "其他",
+    "category": "other",
+    "price": 2070,
+    "action": "徵/新竹",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ArthurDX",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793107008.A.C67.html",
+    "date": "10/27",
+    "lastSeen": "2026-10-27T15:36:08.689Z"
+  },
+  {
+    "id": "ptt-lt-暫售-gt-benq-ew",
+    "name": "&lt;暫售&gt;BenQ EW",
+    "brand": "其他",
+    "category": "other",
+    "price": 2740,
+    "action": "賣/板橋",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "sapple2",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793081439.A.A7C.html",
+    "date": "10/27",
+    "lastSeen": "2026-10-27T15:36:08.690Z"
   },
   {
     "id": "ptt-asus-rog-strix-rtx",
@@ -45,23 +93,23 @@
     "author": "gogohouse",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793021137.A.96D.html",
     "date": "10/26",
-    "lastSeen": "2026-10-27T01:00:07.652Z"
+    "lastSeen": "2026-10-27T15:36:08.690Z"
   },
   {
-    "id": "ptt-i4770-i7-4790",
-    "name": "i4770 i7 4790",
-    "brand": "其他",
-    "category": "other",
-    "price": 4790,
-    "action": "徵/全國",
-    "location": "賣貨便",
+    "id": "ptt-nvidia-rtx",
+    "name": "NVIDIA RTX",
+    "brand": "NVIDIA",
+    "category": "gpu",
+    "price": 4060,
+    "action": "徵/台北",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "ping870224",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792941478.A.9A3.html",
-    "date": "10/25",
-    "lastSeen": "2026-10-27T01:00:07.653Z"
+    "author": "sars113355",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793084400.A.5A8.html",
+    "date": "10/27",
+    "lastSeen": "2026-10-27T15:36:08.690Z"
   },
   {
     "id": "ptt-asus-rog-strix-rtx-s-5070",
@@ -77,7 +125,7 @@
     "author": "Huiiiiii",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793044132.A.666.html",
     "date": "10/27",
-    "lastSeen": "2026-10-27T01:00:07.653Z"
+    "lastSeen": "2026-10-27T15:36:08.690Z"
   },
   {
     "id": "ptt-rx",
@@ -93,6 +141,6 @@
     "author": "bannn",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792950508.A.7A5.html",
     "date": "10/26",
-    "lastSeen": "2026-10-27T01:00:07.653Z"
+    "lastSeen": "2026-10-27T15:36:08.690Z"
   }
 ]
