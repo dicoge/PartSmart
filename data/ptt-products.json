@@ -13,7 +13,7 @@
     "author": "Mash691566",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793005011.A.777.html",
     "date": "10/26",
-    "lastSeen": "2026-10-27T15:36:08.690Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   },
   {
     "id": "ptt-msi-urx-qd-oled-4k-27吋-240",
@@ -29,7 +29,7 @@
     "author": "ideal0105",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793107533.A.E56.html",
     "date": "10/27",
-    "lastSeen": "2026-10-27T15:36:08.689Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   },
   {
     "id": "ptt-圓剛gc",
@@ -45,11 +45,11 @@
     "author": "tsukiya",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793104911.A.046.html",
     "date": "10/27",
-    "lastSeen": "2026-10-27T15:36:08.689Z"
+    "lastSeen": "2026-10-28T00:49:25.287Z"
   },
   {
-    "id": "ptt-xt-3070-2070",
-    "name": "xt / 3070 / 2070",
+    "id": "ptt-xt-3070s-2070",
+    "name": "xt / 3070S / 2070",
     "brand": "其他",
     "category": "other",
     "price": 2070,
@@ -61,7 +61,7 @@
     "author": "ArthurDX",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793107008.A.C67.html",
     "date": "10/27",
-    "lastSeen": "2026-10-27T15:36:08.689Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   },
   {
     "id": "ptt-lt-暫售-gt-benq-ew",
@@ -77,7 +77,23 @@
     "author": "sapple2",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793081439.A.A7C.html",
     "date": "10/27",
-    "lastSeen": "2026-10-27T15:36:08.690Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
+  },
+  {
+    "id": "ptt-徵ddr3200-32g-2-rtx-3090",
+    "name": "徵DDR3200 32G*2 /RTX 3090",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3090,
+    "action": "徵/全國",
+    "location": "寄送",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "kevin810647",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793147524.A.136.html",
+    "date": "10/28",
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   },
   {
     "id": "ptt-asus-rog-strix-rtx",
@@ -93,7 +109,7 @@
     "author": "gogohouse",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793021137.A.96D.html",
     "date": "10/26",
-    "lastSeen": "2026-10-27T15:36:08.690Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   },
   {
     "id": "ptt-nvidia-rtx",
@@ -101,7 +117,7 @@
     "brand": "NVIDIA",
     "category": "gpu",
     "price": 4060,
-    "action": "徵/台北",
+    "action": "���/台北",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
@@ -109,7 +125,7 @@
     "author": "sars113355",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793084400.A.5A8.html",
     "date": "10/27",
-    "lastSeen": "2026-10-27T15:36:08.690Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   },
   {
     "id": "ptt-asus-rog-strix-rtx-s-5070",
@@ -125,7 +141,7 @@
     "author": "Huiiiiii",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793044132.A.666.html",
     "date": "10/27",
-    "lastSeen": "2026-10-27T15:36:08.690Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   },
   {
     "id": "ptt-rx",
@@ -141,6 +157,6 @@
     "author": "bannn",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1792950508.A.7A5.html",
     "date": "10/26",
-    "lastSeen": "2026-10-27T15:36:08.690Z"
+    "lastSeen": "2026-10-28T00:49:25.288Z"
   }
 ]
