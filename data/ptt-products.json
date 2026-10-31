@@ -1,27 +1,11 @@
 [
   {
-    "id": "ptt-deskmini-a",
-    "name": "deskmini a",
-    "brand": "其他",
-    "category": "other",
-    "price": 300,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "pttlove520",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793208890.A.06A.html",
-    "date": "10/29",
-    "lastSeen": "2026-10-31T01:15:09.826Z"
-  },
-  {
     "id": "ptt-e半套-dd3-gtx750",
     "name": "E半套 DD3 GTX750",
     "brand": "其他",
     "category": "motherboard",
     "price": 750,
-    "action": "賣/��栗",
+    "action": "賣/苗栗",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
@@ -29,7 +13,7 @@
     "author": "new12668",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793399283.A.5B6.html",
     "date": "10/31",
-    "lastSeen": "2026-10-31T01:15:09.825Z"
+    "lastSeen": "2026-10-31T15:32:24.055Z"
   },
   {
     "id": "ptt-i-12400f-b760d4-1650-海韻750",
@@ -45,7 +29,7 @@
     "author": "Alex1241",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793278441.A.D0D.html",
     "date": "10/29",
-    "lastSeen": "2026-10-31T01:15:09.826Z"
+    "lastSeen": "2026-10-31T15:32:24.056Z"
   },
   {
     "id": "ptt-i10400f-gtx970",
@@ -61,7 +45,23 @@
     "author": "hjkl61504",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793366113.A.55A.html",
     "date": "10/30",
-    "lastSeen": "2026-10-31T01:15:09.826Z"
+    "lastSeen": "2026-10-31T15:32:24.056Z"
+  },
+  {
+    "id": "ptt-r3600",
+    "name": "R3600",
+    "brand": "其他",
+    "category": "other",
+    "price": 3600,
+    "action": "徵/桃園",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "jiagb13579",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793458387.A.72E.html",
+    "date": "10/31",
+    "lastSeen": "2026-10-31T15:32:24.055Z"
   },
   {
     "id": "ptt-nvidia-rtx",
@@ -77,7 +77,7 @@
     "author": "deepstar",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793259807.A.D53.html",
     "date": "10/29",
-    "lastSeen": "2026-10-31T01:15:09.826Z"
+    "lastSeen": "2026-10-31T15:32:24.056Z"
   },
   {
     "id": "ptt-rtx",
@@ -93,7 +93,7 @@
     "author": "karta2853355",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793353891.A.E0E.html",
     "date": "10/30",
-    "lastSeen": "2026-10-31T01:15:09.825Z"
+    "lastSeen": "2026-10-31T15:32:24.055Z"
   },
   {
     "id": "ptt-rog-astral",
@@ -109,7 +109,7 @@
     "author": "chriscarryu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793280410.A.48F.html",
     "date": "10/29",
-    "lastSeen": "2026-10-31T01:15:09.826Z"
+    "lastSeen": "2026-10-31T15:32:24.056Z"
   },
   {
     "id": "ptt-i-10700",
@@ -125,6 +125,6 @@
     "author": "superheating",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793288776.A.24B.html",
     "date": "10/29",
-    "lastSeen": "2026-10-31T01:15:09.826Z"
+    "lastSeen": "2026-10-31T15:32:24.056Z"
   }
 ]
