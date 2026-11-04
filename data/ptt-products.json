@@ -13,7 +13,7 @@
     "author": "heep12345h",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793707084.A.593.html",
     "date": "11/03",
-    "lastSeen": "2026-11-04T01:45:51.744Z"
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   },
   {
     "id": "ptt-fractal-pop-mini-silent-tr",
@@ -29,39 +29,23 @@
     "author": "Mash691566",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793622807.A.07C.html",
     "date": "11/02",
-    "lastSeen": "2026-11-04T01:45:51.745Z"
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   },
   {
-    "id": "ptt-asus-rtx-super-rtx-507",
-    "name": "ASUS RTX SUPER / RTX 507",
-    "brand": "ASUS",
-    "category": "gpu",
-    "price": 507,
-    "action": "徵/高雄",
+    "id": "ptt-arc-b",
+    "name": "Arc B",
+    "brand": "其他",
+    "category": "other",
+    "price": 580,
+    "action": "徵/北北基",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "Huiiiiii",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793606724.A.8C8.html",
-    "date": "11/02",
-    "lastSeen": "2026-11-04T01:45:51.745Z"
-  },
-  {
-    "id": "ptt-e1230-b75-16g-gtx750",
-    "name": "E1230 B75 16G Gtx750",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 750,
-    "action": "賣/苗栗",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "new12668",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793590000.A.EF2.html",
-    "date": "11/02",
-    "lastSeen": "2026-11-04T01:45:51.745Z"
+    "author": "noneid",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793802830.A.3B4.html",
+    "date": "11/04",
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   },
   {
     "id": "ptt-hp-tplus-dell-optiplex-990",
@@ -77,7 +61,23 @@
     "author": "shikoku",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793619817.A.789.html",
     "date": "11/02",
-    "lastSeen": "2026-11-04T01:45:51.745Z"
+    "lastSeen": "2026-11-04T17:38:27.613Z"
+  },
+  {
+    "id": "ptt-半套r-2600-ddr4-3080",
+    "name": "半套R-2600+DDR4+3080",
+    "brand": "其他",
+    "category": "ram",
+    "price": 3080,
+    "action": "賣/全國",
+    "location": "超取",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "znppbsb1",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793695662.A.72C.html",
+    "date": "11/03",
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   },
   {
     "id": "ptt-ddr16g-3200",
@@ -93,7 +93,7 @@
     "author": "hgsdfjkgh",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793639067.A.893.html",
     "date": "11/03",
-    "lastSeen": "2026-11-04T01:45:51.744Z"
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   },
   {
     "id": "ptt-暫售-i-11400-b560-g-ddr4-3600",
@@ -109,7 +109,7 @@
     "author": "Dickhr",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793610615.A.D81.html",
     "date": "11/02",
-    "lastSeen": "2026-11-04T01:45:51.745Z"
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   },
   {
     "id": "ptt-rtx-ti-16g-4070",
@@ -125,7 +125,7 @@
     "author": "PeaceFul0804",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793680498.A.89A.html",
     "date": "11/03",
-    "lastSeen": "2026-11-04T01:45:51.744Z"
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   },
   {
     "id": "ptt-rtx",
@@ -141,6 +141,22 @@
     "author": "Ziegler",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793751842.A.CF4.html",
     "date": "11/04",
-    "lastSeen": "2026-11-04T01:45:51.744Z"
+    "lastSeen": "2026-11-04T17:38:27.613Z"
+  },
+  {
+    "id": "ptt-rx",
+    "name": "RX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 6600,
+    "action": "徵/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "IMCENTER",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793771305.A.4C0.html",
+    "date": "11/04",
+    "lastSeen": "2026-11-04T17:38:27.613Z"
   }
 ]
