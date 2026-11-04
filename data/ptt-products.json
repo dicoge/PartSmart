@@ -1,7 +1,7 @@
 [
   {
-    "id": "ptt-sky-one-lite-udgm-pa120",
-    "name": "SKY ONE LITE/UDGM/PA120",
+    "id": "ptt-sky-one-lite-w-power-pa120",
+    "name": "SKY ONE LITE/W POWER/PA120",
     "brand": "其他",
     "category": "motherboard",
     "price": 120,
@@ -13,7 +13,7 @@
     "author": "heep12345h",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793707084.A.593.html",
     "date": "11/03",
-    "lastSeen": "2026-11-03T17:25:40.274Z"
+    "lastSeen": "2026-11-04T01:45:51.744Z"
   },
   {
     "id": "ptt-fractal-pop-mini-silent-tr",
@@ -29,7 +29,7 @@
     "author": "Mash691566",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793622807.A.07C.html",
     "date": "11/02",
-    "lastSeen": "2026-11-03T17:25:40.275Z"
+    "lastSeen": "2026-11-04T01:45:51.745Z"
   },
   {
     "id": "ptt-asus-rtx-super-rtx-507",
@@ -45,7 +45,7 @@
     "author": "Huiiiiii",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793606724.A.8C8.html",
     "date": "11/02",
-    "lastSeen": "2026-11-03T17:25:40.275Z"
+    "lastSeen": "2026-11-04T01:45:51.745Z"
   },
   {
     "id": "ptt-e1230-b75-16g-gtx750",
@@ -61,7 +61,7 @@
     "author": "new12668",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793590000.A.EF2.html",
     "date": "11/02",
-    "lastSeen": "2026-11-03T17:25:40.275Z"
+    "lastSeen": "2026-11-04T01:45:51.745Z"
   },
   {
     "id": "ptt-hp-tplus-dell-optiplex-990",
@@ -77,7 +77,7 @@
     "author": "shikoku",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793619817.A.789.html",
     "date": "11/02",
-    "lastSeen": "2026-11-03T17:25:40.275Z"
+    "lastSeen": "2026-11-04T01:45:51.745Z"
   },
   {
     "id": "ptt-ddr16g-3200",
@@ -93,7 +93,7 @@
     "author": "hgsdfjkgh",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793639067.A.893.html",
     "date": "11/03",
-    "lastSeen": "2026-11-03T17:25:40.275Z"
+    "lastSeen": "2026-11-04T01:45:51.744Z"
   },
   {
     "id": "ptt-暫售-i-11400-b560-g-ddr4-3600",
@@ -109,7 +109,7 @@
     "author": "Dickhr",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793610615.A.D81.html",
     "date": "11/02",
-    "lastSeen": "2026-11-03T17:25:40.275Z"
+    "lastSeen": "2026-11-04T01:45:51.745Z"
   },
   {
     "id": "ptt-rtx-ti-16g-4070",
@@ -125,6 +125,22 @@
     "author": "PeaceFul0804",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793680498.A.89A.html",
     "date": "11/03",
-    "lastSeen": "2026-11-03T17:25:40.275Z"
+    "lastSeen": "2026-11-04T01:45:51.744Z"
+  },
+  {
+    "id": "ptt-rtx",
+    "name": "RTX",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 5050,
+    "action": "徵/全國",
+    "location": "寄送",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "Ziegler",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793751842.A.CF4.html",
+    "date": "11/04",
+    "lastSeen": "2026-11-04T01:45:51.744Z"
   }
 ]
