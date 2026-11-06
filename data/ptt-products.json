@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-sky-one-lite-w-power-pa120",
-    "name": "SKY ONE LITE/W POWER/PA120",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 120,
-    "action": "賣/台中",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "heep12345h",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793707084.A.593.html",
-    "date": "11/03",
-    "lastSeen": "2026-11-06T01:55:26.383Z"
-  },
-  {
     "id": "ptt-xfty143",
     "name": "XFTY143",
     "brand": "其他",
@@ -29,7 +13,23 @@
     "author": "rark",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793828107.A.11F.html",
     "date": "11/05",
-    "lastSeen": "2026-11-06T01:55:26.383Z"
+    "lastSeen": "2026-11-06T17:00:17.385Z"
+  },
+  {
+    "id": "ptt-南亞ddr1600-4gx2-200",
+    "name": "南亞DDR1600 4Gx2 $200",
+    "brand": "其他",
+    "category": "other",
+    "price": 200,
+    "action": "賣/台中",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ezstyle1982",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793973300.A.224.html",
+    "date": "11/06",
+    "lastSeen": "2026-11-06T17:00:17.384Z"
   },
   {
     "id": "ptt-arc-b",
@@ -45,23 +45,7 @@
     "author": "noneid",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793802830.A.3B4.html",
     "date": "11/04",
-    "lastSeen": "2026-11-06T01:55:26.383Z"
-  },
-  {
-    "id": "ptt-半套r-2600-ddr4-3080",
-    "name": "半套R-2600+DDR4+3080",
-    "brand": "其他",
-    "category": "ram",
-    "price": 3080,
-    "action": "賣/全國",
-    "location": "超取",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "znppbsb1",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793695662.A.72C.html",
-    "date": "11/03",
-    "lastSeen": "2026-11-06T01:55:26.383Z"
+    "lastSeen": "2026-11-06T17:00:17.385Z"
   },
   {
     "id": "ptt-rtx",
@@ -77,7 +61,7 @@
     "author": "Ziegler",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793751842.A.CF4.html",
     "date": "11/04",
-    "lastSeen": "2026-11-06T01:55:26.383Z"
+    "lastSeen": "2026-11-06T17:00:17.385Z"
   },
   {
     "id": "ptt-rx",
@@ -93,6 +77,22 @@
     "author": "IMCENTER",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793771305.A.4C0.html",
     "date": "11/04",
-    "lastSeen": "2026-11-06T01:55:26.383Z"
+    "lastSeen": "2026-11-06T17:00:17.385Z"
+  },
+  {
+    "id": "ptt-asus-rog-rapture-gt-ax",
+    "name": "ASUS ROG Rapture GT-AX",
+    "brand": "ASUS",
+    "category": "other",
+    "price": 11000,
+    "action": "賣/台北",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "Nivlatus",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793934361.A.496.html",
+    "date": "11/06",
+    "lastSeen": "2026-11-06T17:00:17.385Z"
   }
 ]
