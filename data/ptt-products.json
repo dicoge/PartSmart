@@ -1,21 +1,5 @@
 [
   {
-    "id": "ptt-xfty143",
-    "name": "XFTY143",
-    "brand": "其他",
-    "category": "other",
-    "price": 143,
-    "action": "徵/高雄",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "rark",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793828107.A.11F.html",
-    "date": "11/05",
-    "lastSeen": "2026-11-07T01:27:30.099Z"
-  },
-  {
     "id": "ptt-南亞ddr1600-4gx2-200",
     "name": "南亞DDR1600 4Gx2 $200",
     "brand": "其他",
@@ -29,43 +13,27 @@
     "author": "ezstyle1982",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793973300.A.224.html",
     "date": "11/06",
-    "lastSeen": "2026-11-07T01:27:30.098Z"
+    "lastSeen": "2026-11-07T15:57:56.236Z"
   },
   {
-    "id": "ptt-arc-b",
-    "name": "Arc B",
+    "id": "ptt-1050ti-970",
+    "name": "/1050ti/970",
     "brand": "其他",
     "category": "other",
-    "price": 580,
-    "action": "徵/北北基",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "noneid",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793802830.A.3B4.html",
-    "date": "11/04",
-    "lastSeen": "2026-11-07T01:27:30.099Z"
-  },
-  {
-    "id": "ptt-rtx",
-    "name": "RTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 5050,
+    "price": 970,
     "action": "徵/全國",
-    "location": "寄送",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "Ziegler",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793751842.A.CF4.html",
-    "date": "11/04",
-    "lastSeen": "2026-11-07T01:27:30.099Z"
+    "author": "arblest",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794038095.A.81B.html",
+    "date": "11/07",
+    "lastSeen": "2026-11-07T15:57:56.236Z"
   },
   {
-    "id": "ptt-amd-r5600",
-    "name": "AMD R5600",
+    "id": "ptt-已售出-amd-r5600",
+    "name": "(已售出)AMD R5600",
     "brand": "AMD",
     "category": "other",
     "price": 5600,
@@ -77,23 +45,7 @@
     "author": "gg7788",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794014643.A.E8F.html",
     "date": "11/07",
-    "lastSeen": "2026-11-07T01:27:30.099Z"
-  },
-  {
-    "id": "ptt-rx",
-    "name": "RX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 6600,
-    "action": "徵/台中",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "IMCENTER",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793771305.A.4C0.html",
-    "date": "11/04",
-    "lastSeen": "2026-11-07T01:27:30.099Z"
+    "lastSeen": "2026-11-07T15:57:56.237Z"
   },
   {
     "id": "ptt-asus-rog-rapture-gt-ax",
@@ -109,6 +61,6 @@
     "author": "Nivlatus",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793934361.A.496.html",
     "date": "11/06",
-    "lastSeen": "2026-11-07T01:27:30.099Z"
+    "lastSeen": "2026-11-07T15:57:56.237Z"
   }
 ]
