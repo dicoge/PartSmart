@@ -1,19 +1,19 @@
 [
   {
-    "id": "ptt-南亞ddr1600-4gx2-200",
-    "name": "南亞DDR1600 4Gx2 $200",
+    "id": "ptt-sata-ssd-256-512",
+    "name": "SATA SSD /256/512",
     "brand": "其他",
-    "category": "other",
-    "price": 200,
-    "action": "賣/台中",
+    "category": "ssd",
+    "price": 512,
+    "action": "賣/高雄",
     "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "ezstyle1982",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793973300.A.224.html",
-    "date": "11/06",
-    "lastSeen": "2026-11-08T00:58:30.531Z"
+    "author": "pita30",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794129538.A.A09.html",
+    "date": "11/08",
+    "lastSeen": "2026-11-08T16:26:44.146Z"
   },
   {
     "id": "ptt-1050ti-970",
@@ -29,7 +29,7 @@
     "author": "arblest",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794038095.A.81B.html",
     "date": "11/07",
-    "lastSeen": "2026-11-08T00:58:30.531Z"
+    "lastSeen": "2026-11-08T16:26:44.147Z"
   },
   {
     "id": "ptt-r3600-b450-ddr4-8g-1050",
@@ -45,7 +45,7 @@
     "author": "gary014085",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794068903.A.4CE.html",
     "date": "11/08",
-    "lastSeen": "2026-11-08T00:58:30.530Z"
+    "lastSeen": "2026-11-08T16:26:44.146Z"
   },
   {
     "id": "ptt-顯示卡ti-1066-1070-1070ti-1080",
@@ -61,7 +61,23 @@
     "author": "fancharg",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794083964.A.B8A.html",
     "date": "11/08",
-    "lastSeen": "2026-11-08T00:58:30.530Z"
+    "lastSeen": "2026-11-08T16:26:44.146Z"
+  },
+  {
+    "id": "ptt-1660ti-2060",
+    "name": "，1660Ti，2060",
+    "brand": "其他",
+    "category": "other",
+    "price": 2060,
+    "action": "徵/雙北桃園",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "alexlin0909",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794109515.A.490.html",
+    "date": "11/08",
+    "lastSeen": "2026-11-08T16:26:44.147Z"
   },
   {
     "id": "ptt-已售出-amd-r5600",
@@ -77,22 +93,6 @@
     "author": "gg7788",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794014643.A.E8F.html",
     "date": "11/07",
-    "lastSeen": "2026-11-08T00:58:30.531Z"
-  },
-  {
-    "id": "ptt-asus-rog-rapture-gt-ax",
-    "name": "ASUS ROG Rapture GT-AX",
-    "brand": "ASUS",
-    "category": "other",
-    "price": 11000,
-    "action": "賣/台北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "Nivlatus",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1793934361.A.496.html",
-    "date": "11/06",
-    "lastSeen": "2026-11-08T00:58:30.531Z"
+    "lastSeen": "2026-11-08T16:26:44.147Z"
   }
 ]
