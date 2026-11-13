@@ -1,19 +1,35 @@
 [
   {
-    "id": "ptt-fractal-pop-mini-silent-tr",
-    "name": "fractal pop mini silent /TR",
-    "brand": "其他",
-    "category": "other",
-    "price": 120,
-    "action": "賣/台北",
-    "location": "面交",
+    "id": "ptt-羅技鍵盤組-mk",
+    "name": "羅技鍵盤組 MK",
+    "brand": "羅技",
+    "category": "peripheral",
+    "price": 220,
+    "action": "賣/全國",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "Mash691566",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794284023.A.5E4.html",
-    "date": "11/10",
-    "lastSeen": "2026-11-13T02:17:10.295Z"
+    "author": "checkfu",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794571595.A.20E.html",
+    "date": "11/13",
+    "lastSeen": "2026-11-13T17:25:23.313Z"
+  },
+  {
+    "id": "ptt-intel-arc-a",
+    "name": "Intel Arc A",
+    "brand": "Intel",
+    "category": "other",
+    "price": 750,
+    "action": "徵/桃園",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "gohuskar",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794572087.A.584.html",
+    "date": "11/13",
+    "lastSeen": "2026-11-13T17:25:23.314Z"
   },
   {
     "id": "ptt-螢幕-吋-benq-gw2750",
@@ -29,7 +45,23 @@
     "author": "IMDH",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794480359.A.30D.html",
     "date": "11/12",
-    "lastSeen": "2026-11-13T02:17:10.294Z"
+    "lastSeen": "2026-11-13T17:25:23.314Z"
+  },
+  {
+    "id": "ptt-電競主機-i-13400f-rtx-3050",
+    "name": "電競主機 i-13400F / RTX 3050",
+    "brand": "其他",
+    "category": "gpu",
+    "price": 3050,
+    "action": "賣/雙北",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "alexwong1997",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794548376.A.888.html",
+    "date": "11/13",
+    "lastSeen": "2026-11-13T17:25:23.314Z"
   },
   {
     "id": "ptt-rtx",
@@ -45,7 +77,23 @@
     "author": "AVGMLBS",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794322862.A.C17.html",
     "date": "11/10",
-    "lastSeen": "2026-11-13T02:17:10.295Z"
+    "lastSeen": "2026-11-13T17:25:23.314Z"
+  },
+  {
+    "id": "ptt-ram-ddr5600-8g-ddr4-3200",
+    "name": "Ram DDR5600 8G DDR4 3200",
+    "brand": "其他",
+    "category": "ram",
+    "price": 3200,
+    "action": "賣/新竹",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "chebyshev",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794539108.A.8DF.html",
+    "date": "11/13",
+    "lastSeen": "2026-11-13T17:25:23.314Z"
   },
   {
     "id": "ptt-kf-rogb760f-360水冷-4060",
@@ -61,7 +109,7 @@
     "author": "andy123930",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794408011.A.EA8.html",
     "date": "11/11",
-    "lastSeen": "2026-11-13T02:17:10.295Z"
+    "lastSeen": "2026-11-13T17:25:23.314Z"
   },
   {
     "id": "ptt-主機板bm-顯卡5070",
@@ -69,30 +117,14 @@
     "brand": "其他",
     "category": "motherboard",
     "price": 5070,
-    "action": "賣/",
-    "location": "",
+    "action": "賣/北桃",
+    "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
     "author": "darkmonster",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794407701.A.ACD.html",
     "date": "11/11",
-    "lastSeen": "2026-11-13T02:17:10.294Z"
-  },
-  {
-    "id": "ptt-i-14500",
-    "name": "i-14500",
-    "brand": "其他",
-    "category": "other",
-    "price": 14500,
-    "action": "徵/全省",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "gamewinner",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794280452.A.ADE.html",
-    "date": "11/10",
-    "lastSeen": "2026-11-13T02:17:10.295Z"
+    "lastSeen": "2026-11-13T17:25:23.314Z"
   }
 ]
