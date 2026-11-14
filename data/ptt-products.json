@@ -13,7 +13,23 @@
     "author": "checkfu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794571595.A.20E.html",
     "date": "11/13",
-    "lastSeen": "2026-11-14T01:54:37.330Z"
+    "lastSeen": "2026-11-14T16:13:17.968Z"
+  },
+  {
+    "id": "ptt-nb-ddrm2-ssd-256-512",
+    "name": "NB DDRM2 SSD 256/512",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 512,
+    "action": "賣/板橋",
+    "location": "面交",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "ccgccc",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794624664.A.56E.html",
+    "date": "11/14",
+    "lastSeen": "2026-11-14T16:13:17.967Z"
   },
   {
     "id": "ptt-intel-arc-a",
@@ -29,11 +45,11 @@
     "author": "gohuskar",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794572087.A.584.html",
     "date": "11/13",
-    "lastSeen": "2026-11-14T01:54:37.330Z"
+    "lastSeen": "2026-11-14T16:13:17.968Z"
   },
   {
-    "id": "ptt-螢幕-吋-benq-gw2750",
-    "name": "螢幕 吋 BENQ GW2750",
+    "id": "ptt-已售出-螢幕-吋-benq-gw2750",
+    "name": "已售出 螢幕 吋 BENQ GW2750",
     "brand": "BENQ",
     "category": "monitor",
     "price": 2750,
@@ -45,7 +61,7 @@
     "author": "IMDH",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794480359.A.30D.html",
     "date": "11/12",
-    "lastSeen": "2026-11-14T01:54:37.331Z"
+    "lastSeen": "2026-11-14T16:13:17.968Z"
   },
   {
     "id": "ptt-電競主機-i-13400f-rtx-3050",
@@ -61,7 +77,7 @@
     "author": "alexwong1997",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794548376.A.888.html",
     "date": "11/13",
-    "lastSeen": "2026-11-14T01:54:37.331Z"
+    "lastSeen": "2026-11-14T16:13:17.968Z"
   },
   {
     "id": "ptt-ram-ddr5600-8g-ddr4-3200",
@@ -77,38 +93,22 @@
     "author": "chebyshev",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794539108.A.8DF.html",
     "date": "11/13",
-    "lastSeen": "2026-11-14T01:54:37.330Z"
+    "lastSeen": "2026-11-14T16:13:17.968Z"
   },
   {
-    "id": "ptt-kf-rogb760f-360水冷-4060",
-    "name": "kf rogb760f 360水冷 4060",
+    "id": "ptt-rog-rtx",
+    "name": "ROG RTX",
     "brand": "其他",
-    "category": "cooler",
-    "price": 4060,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "andy123930",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794408011.A.EA8.html",
-    "date": "11/11",
-    "lastSeen": "2026-11-14T01:54:37.331Z"
-  },
-  {
-    "id": "ptt-主機板bm-顯卡5070",
-    "name": "主機板BM 顯卡5070",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 5070,
-    "action": "賣/北桃",
+    "category": "gpu",
+    "price": 5080,
+    "action": "徵/台北",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "darkmonster",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794407701.A.ACD.html",
-    "date": "11/11",
-    "lastSeen": "2026-11-14T01:54:37.331Z"
+    "author": "help1268",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794660741.A.EEE.html",
+    "date": "11/14",
+    "lastSeen": "2026-11-14T16:13:17.967Z"
   }
 ]
