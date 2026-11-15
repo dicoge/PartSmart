@@ -13,7 +13,7 @@
     "author": "checkfu",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794571595.A.20E.html",
     "date": "11/13",
-    "lastSeen": "2026-11-15T01:26:16.433Z"
+    "lastSeen": "2026-11-15T16:41:42.342Z"
   },
   {
     "id": "ptt-nb-ddrm2-ssd-256-512",
@@ -29,23 +29,7 @@
     "author": "ccgccc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794624664.A.56E.html",
     "date": "11/14",
-    "lastSeen": "2026-11-15T01:26:16.433Z"
-  },
-  {
-    "id": "ptt-xt紅魔-b850-b650",
-    "name": "XT紅魔, B850, B650",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 650,
-    "action": "賣/新北",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "mobetam91968",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794489746.A.2C4.html",
-    "date": "11/12",
-    "lastSeen": "2026-11-15T01:26:16.433Z"
+    "lastSeen": "2026-11-15T16:41:42.342Z"
   },
   {
     "id": "ptt-intel-arc-a",
@@ -61,39 +45,39 @@
     "author": "gohuskar",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794572087.A.584.html",
     "date": "11/13",
-    "lastSeen": "2026-11-15T01:26:16.433Z"
+    "lastSeen": "2026-11-15T16:41:42.343Z"
   },
   {
-    "id": "ptt-已售出-螢幕-吋-benq-gw2750",
-    "name": "已售出 螢幕 吋 BENQ GW2750",
-    "brand": "BENQ",
-    "category": "monitor",
-    "price": 2750,
-    "action": "賣/桃園",
-    "location": "面交",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "IMDH",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794480359.A.30D.html",
-    "date": "11/12",
-    "lastSeen": "2026-11-15T01:26:16.433Z"
-  },
-  {
-    "id": "ptt-ram-ddr5600-8g-ddr4-3200",
-    "name": "Ram DDR5600 8G DDR4 3200",
+    "id": "ptt-x-x670e-z790-z890",
+    "name": "X/X670E/Z790/Z890",
     "brand": "其他",
-    "category": "ram",
-    "price": 3200,
-    "action": "賣/新竹",
-    "location": "面交",
+    "category": "motherboard",
+    "price": 890,
+    "action": "賣/新北",
+    "location": "皆可",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "chebyshev",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794539108.A.8DF.html",
-    "date": "11/13",
-    "lastSeen": "2026-11-15T01:26:16.433Z"
+    "author": "swim3811",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794750293.A.425.html",
+    "date": "11/15",
+    "lastSeen": "2026-11-15T16:41:42.341Z"
+  },
+  {
+    "id": "ptt-tp-link-archer-axax3000",
+    "name": "TP-Link Archer AXAX3000",
+    "brand": "其他",
+    "category": "motherboard",
+    "price": 3000,
+    "action": "賣/全國",
+    "location": "��送",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "willma",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794723390.A.DD2.html",
+    "date": "11/15",
+    "lastSeen": "2026-11-15T16:41:42.342Z"
   },
   {
     "id": "ptt-rog-rtx",
@@ -109,7 +93,7 @@
     "author": "help1268",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794660741.A.EEE.html",
     "date": "11/14",
-    "lastSeen": "2026-11-15T01:26:16.432Z"
+    "lastSeen": "2026-11-15T16:41:42.342Z"
   },
   {
     "id": "ptt-收i-12700",
@@ -125,6 +109,6 @@
     "author": "zeon",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794702509.A.49B.html",
     "date": "11/15",
-    "lastSeen": "2026-11-15T01:26:16.433Z"
+    "lastSeen": "2026-11-15T16:41:42.342Z"
   }
 ]
