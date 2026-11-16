@@ -1,51 +1,19 @@
 [
   {
-    "id": "ptt-羅技鍵盤組-mk",
-    "name": "羅技鍵盤組 MK",
-    "brand": "羅技",
-    "category": "peripheral",
-    "price": 220,
-    "action": "賣/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "checkfu",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794571595.A.20E.html",
-    "date": "11/13",
-    "lastSeen": "2026-11-16T01:28:35.097Z"
-  },
-  {
-    "id": "ptt-nb-ddrm2-ssd-256-512",
-    "name": "NB DDRM2 SSD 256/512",
-    "brand": "其他",
-    "category": "motherboard",
-    "price": 512,
-    "action": "賣/板橋",
+    "id": "ptt-asus-vgq3a-msi-pro-mp225",
+    "name": "ASUS VGQ3A/MSI PRO MP225",
+    "brand": "ASUS",
+    "category": "other",
+    "price": 225,
+    "action": "賣/台北",
     "location": "面交",
     "delivery": "",
     "source": "ptt",
     "sourceName": "PTT HardwareSale",
-    "author": "ccgccc",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794624664.A.56E.html",
-    "date": "11/14",
-    "lastSeen": "2026-11-16T01:28:35.097Z"
-  },
-  {
-    "id": "ptt-intel-arc-a",
-    "name": "Intel Arc A",
-    "brand": "Intel",
-    "category": "other",
-    "price": 750,
-    "action": "徵/桃園",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "gohuskar",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794572087.A.584.html",
-    "date": "11/13",
-    "lastSeen": "2026-11-16T01:28:35.097Z"
+    "author": "ciwewa",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794836438.A.D17.html",
+    "date": "11/16",
+    "lastSeen": "2026-11-16T19:55:52.400Z"
   },
   {
     "id": "ptt-x-x670e-z790-z890",
@@ -61,7 +29,7 @@
     "author": "swim3811",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794750293.A.425.html",
     "date": "11/15",
-    "lastSeen": "2026-11-16T01:28:35.096Z"
+    "lastSeen": "2026-11-16T19:55:52.400Z"
   },
   {
     "id": "ptt-tp-link-archer-axax3000",
@@ -77,7 +45,7 @@
     "author": "willma",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794723390.A.DD2.html",
     "date": "11/15",
-    "lastSeen": "2026-11-16T01:28:35.096Z"
+    "lastSeen": "2026-11-16T19:55:52.400Z"
   },
   {
     "id": "ptt-rog-rtx",
@@ -93,7 +61,7 @@
     "author": "help1268",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794660741.A.EEE.html",
     "date": "11/14",
-    "lastSeen": "2026-11-16T01:28:35.097Z"
+    "lastSeen": "2026-11-16T19:55:52.400Z"
   },
   {
     "id": "ptt-收i-12700",
@@ -109,6 +77,6 @@
     "author": "zeon",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1794702509.A.49B.html",
     "date": "11/15",
-    "lastSeen": "2026-11-16T01:28:35.097Z"
+    "lastSeen": "2026-11-16T19:55:52.400Z"
   }
 ]
