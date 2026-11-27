@@ -13,7 +13,7 @@
     "author": "CNegative",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795592388.A.E9D.html",
     "date": "11/25",
-    "lastSeen": "2026-11-27T03:52:30.201Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
   },
   {
     "id": "ptt-tp-link-archer-mr",
@@ -29,7 +29,7 @@
     "author": "BluerayDisc",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795600449.A.6EB.html",
     "date": "11/25",
-    "lastSeen": "2026-11-27T03:52:30.201Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
   },
   {
     "id": "ptt-nvda-quadro-p-p400-gtx970",
@@ -45,11 +45,11 @@
     "author": "kpfing644",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795597010.A.060.html",
     "date": "11/25",
-    "lastSeen": "2026-11-27T03:52:30.201Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
   },
   {
-    "id": "ptt-sp-筆電記憶體-ddrl-1600",
-    "name": "SP 筆電記憶體 DDRL 1600",
+    "id": "ptt-sp-筆-記憶體-ddrl-1600",
+    "name": "SP 筆��記憶體 DDRL 1600",
     "brand": "其他",
     "category": "ram",
     "price": 1600,
@@ -61,7 +61,23 @@
     "author": "myweiweilin",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795653589.A.2C4.html",
     "date": "11/26",
-    "lastSeen": "2026-11-27T03:52:30.201Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
+  },
+  {
+    "id": "ptt-evga-ti-華碩rog-2070",
+    "name": "EVGA Ti/華碩ROG 2070",
+    "brand": "華碩",
+    "category": "gpu",
+    "price": 2070,
+    "action": "賣/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "whitekiss309",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795755641.A.B9E.html",
+    "date": "11/27",
+    "lastSeen": "2026-11-27T19:15:07.480Z"
   },
   {
     "id": "ptt-i7400-1050ti-4gb-ddr4-2400",
@@ -77,7 +93,7 @@
     "author": "minimeDA",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795717765.A.A36.html",
     "date": "11/27",
-    "lastSeen": "2026-11-27T03:52:30.200Z"
+    "lastSeen": "2026-11-27T19:15:07.480Z"
   },
   {
     "id": "ptt-售出-筆電記憶體-ddr4g-2666-2400",
@@ -93,7 +109,7 @@
     "author": "gungraveop",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795743830.A.43C.html",
     "date": "11/27",
-    "lastSeen": "2026-11-27T03:52:30.200Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
   },
   {
     "id": "ptt-ti-6700xt-6600xt-3060",
@@ -109,7 +125,7 @@
     "author": "anrobert",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795609800.A.FBA.html",
     "date": "11/25",
-    "lastSeen": "2026-11-27T03:52:30.201Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
   },
   {
     "id": "ptt-rtx",
@@ -125,7 +141,7 @@
     "author": "pelier",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795744817.A.E31.html",
     "date": "11/27",
-    "lastSeen": "2026-11-27T03:52:30.200Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
   },
   {
     "id": "ptt-intel-14代半套-或-amd-5000",
@@ -141,23 +157,7 @@
     "author": "iufan129",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795625908.A.1C9.html",
     "date": "11/26",
-    "lastSeen": "2026-11-27T03:52:30.200Z"
-  },
-  {
-    "id": "ptt-rog-rtx",
-    "name": "ROG RTX",
-    "brand": "其他",
-    "category": "gpu",
-    "price": 5080,
-    "action": "徵/全國",
-    "location": "皆可",
-    "delivery": "",
-    "source": "ptt",
-    "sourceName": "PTT HardwareSale",
-    "author": "help1268",
-    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795530046.A.147.html",
-    "date": "11/24",
-    "lastSeen": "2026-11-27T03:52:30.201Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
   },
   {
     "id": "ptt-i-8700-i7-8700k-i7-9700",
@@ -173,6 +173,22 @@
     "author": "pingfish",
     "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795699417.A.F79.html",
     "date": "11/26",
-    "lastSeen": "2026-11-27T03:52:30.200Z"
+    "lastSeen": "2026-11-27T19:15:07.481Z"
+  },
+  {
+    "id": "ptt-12400",
+    "name": "12400",
+    "brand": "其他",
+    "category": "other",
+    "price": 12400,
+    "action": "徵/全國",
+    "location": "皆可",
+    "delivery": "",
+    "source": "ptt",
+    "sourceName": "PTT HardwareSale",
+    "author": "z09211290",
+    "url": "https://www.ptt.cc/bbs/HardwareSale/bbs/HardwareSale/M.1795789353.A.116.html",
+    "date": "11/27",
+    "lastSeen": "2026-11-27T19:15:07.480Z"
   }
 ]
